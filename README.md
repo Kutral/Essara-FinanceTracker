@@ -4,11 +4,13 @@
   <p><strong>Your AI-Powered Personal Finance Command Center</strong></p>
   <p>
     <a href="https://essara.space/"><b>Visit Essara.space</b></a> •
-    <a href="https://kutral.github.io/Essara-FinanceTracker/"><b>View Demo</b></a>
+    <a href="https://kutral.github.io/Essara-FinanceTracker/"><b>View Demo</b></a> •
+    <a href="https://play.google.com/store/apps/details?id=space.essara.app"><b>Get the Android App</b></a>
   </p>
 
   [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fessara.space&label=Essara.space&style=flat-square)](https://essara.space)
-  [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20PWA-blue?style=flat-square)](https://essara.space)
+  [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20PWA%20%7C%20Android-blue?style=flat-square)](https://essara.space)
+  [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=space.essara.app)
   [![Security](https://img.shields.io/badge/Security-AES--256-green?style=flat-square)](#)
 
 </div>
@@ -52,5 +54,8 @@ Your data is protected with bank-grade **AES-256 encryption**. We combine high-a
 
 <div align="center">
   <p>Built with ❤️ for financial freedom.</p>
-  <a href="https://essara.space/"><b>Get Started Today</b></a>
+  <p>
+    <a href="https://essara.space/"><b>Get Started on Web</b></a> •
+    <a href="https://play.google.com/store/apps/details?id=space.essara.app"><b>Download Android App</b></a>
+  </p>
 </div>

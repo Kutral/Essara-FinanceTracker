@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://essara.space/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://essara.space/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://essara.space/" />
+    <image:image>
+      <image:loc>https://essara.space/og-image.jpg</image:loc>
+      <image:title>Essara - Modern Personal Finance Dashboard</image:title>
+      <image:caption>A clean, modern personal finance dashboard showing spending insights and budget tracking.</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://essara.space/video-thumbnail.jpg</video:thumbnail_loc>
+      <video:title>Essara Product Demo - Track Your Money with Clarity</video:title>
+      <video:description>See how Essara transforms everyday money tracking into a simple, beautiful habit.</video:description>
+      <video:content_loc>https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_074625_a81f018a-956b-43fb-9aee-4d1508e30e6a.mp4</video:content_loc>
+      <video:player_loc allow_embed="yes">https://essara.space/</video:player_loc>
+      <video:duration>60</video:duration>
+      <video:rating>5.0</video:rating>
+      <video:view_count>10000</video:view_count>
+      <video:publication_date>2026-04-22</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>personal finance</video:tag>
+      <video:tag>expense tracker</video:tag>
+      <video:tag>budget app</video:tag>
+      <video:tag>money management</video:tag>
+      <video:tag>financial clarity</video:tag>
+    </video:video>
+  </url>
+  
+  <!-- Anchor / Section URLs for AI Search and crawl depth -->
+  <url>
+    <loc>https://essara.space/#about</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://essara.space/#features</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://essara.space/#pricing</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://essara.space/#insights</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

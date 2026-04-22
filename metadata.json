@@ -1,6 +1,26 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Essara - Modern Personal Finance & Money Clarity App",
+  "description": "Essara is a modern personal finance and money-clarity app. Track spending, understand habits, build budgets, set savings goals, and achieve financial freedom with a calm, intuitive experience.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [],
+  "url": "https://essara.space/",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=space.essara.app",
+  "logo": "https://essara.space/logo.png",
+  "category": "FinanceApplication",
+  "keywords": [
+    "personal finance app",
+    "money tracker",
+    "expense tracker",
+    "budget planner",
+    "savings goals",
+    "financial clarity",
+    "spending habits",
+    "money management",
+    "wealth building",
+    "financial freedom",
+    "Essara"
+  ],
+  "author": "Essara",
+  "language": "en-US",
+  "themeColor": "#000000"
 }
