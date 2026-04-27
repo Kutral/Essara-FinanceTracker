@@ -1,4 +1,4 @@
-import { ArrowRight, Globe, Instagram, Twitter } from "lucide-react";
+import { Globe, Instagram, Twitter } from "lucide-react";
 import { useSeamlessVideoFade } from "../hooks/useSeamlessVideoFade";
 
 export function HeroSection() {
@@ -57,25 +57,35 @@ export function HeroSection() {
           The modern personal finance app that turns everyday expense tracking into lasting money clarity. Build budgets, set savings goals, and understand your spending habits — all in one beautiful, intuitive dashboard.
         </p>
         
-        <div className="max-w-xl w-full liquid-glass rounded-full pl-6 pr-2 py-2 flex items-center gap-3 mb-6" role="form" aria-label="Email waitlist signup">
-          <input 
-            type="email" 
-            placeholder="Enter your email to join the waitlist at essara.space" 
-            className="bg-transparent border-none outline-none flex-1 text-white placeholder:text-white/40 text-sm"
-            aria-label="Email address for waitlist"
-          />
-          <button className="bg-white rounded-full p-3 text-black hover:scale-105 transition-transform" aria-label="Submit email to join waitlist">
-            <ArrowRight className="w-5 h-5" aria-hidden="true" />
-          </button>
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4" aria-label="Essara live app links">
+          <a
+            href="https://essara.space/"
+            className="liquid-glass rounded-full px-6 py-3 text-white text-sm font-medium hover:bg-white/5 transition-colors"
+            aria-label="Open Essara on the web"
+            rel="noopener noreferrer"
+          >
+            Open Web App
+          </a>
+          <a
+            href="https://play.google.com/store/apps/details?id=space.essara.app"
+            className="liquid-glass rounded-full px-6 py-3 text-white text-sm font-medium hover:bg-white/5 transition-colors flex items-center gap-2"
+            aria-label="Download Essara on Google Play"
+            rel="noopener noreferrer"
+          >
+            <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.5,12.92 20.16,13.19L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z" />
+            </svg>
+            Get it on Google Play
+          </a>
         </div>
+
+        <p className="text-white/45 text-xs uppercase tracking-[0.24em] mb-8">
+          Live now on web and Android
+        </p>
         
         <p className="text-white/80 text-sm leading-relaxed px-4 max-w-lg mb-8 speakable-hero">
           Stay updated with the latest news and insights into personal finance, money management, and wealth building. Get started taking control of your money today at <a href="https://essara.space/" className="underline underline-offset-4 hover:text-white" rel="noopener noreferrer">essara.space</a>.
         </p>
-        
-        <a href="https://essara.space/" className="liquid-glass rounded-full px-8 py-3 text-white text-sm font-medium hover:bg-white/5 transition-colors" aria-label="Explore Essara personal finance app" rel="noopener noreferrer">
-          Explore essara.space
-        </a>
       </div>
 
       {/* App Download & Social Footer */}
