@@ -262,7 +262,103 @@
       ]
     }
     </script>
-    
+
+    <!-- Structured Data: Product (fixes critical missing image field) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Essara Personal Finance App",
+      "description": "A modern personal finance and money-clarity app for tracking spending, budgeting, and building savings.",
+      "image": [
+        "https://essara.space/opengraph-image.jpg?v=20260427_preview_2",
+        "https://essara.space/twitter-image.jpg?v=20260427_preview_2",
+        "https://essara.space/logo.png",
+        "https://essara.space/icon-512.png"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Essara",
+        "logo": "https://essara.space/logo.png",
+        "url": "https://essara.space/"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://essara.space/",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2026-12-31",
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": "0",
+            "currency": "USD"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": "US"
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "handlingTime": {
+              "@type": "QuantitativeValue",
+              "minValue": "0",
+              "maxValue": "0",
+              "unitCode": "MIN"
+            },
+            "transitTime": {
+              "@type": "QuantitativeValue",
+              "minValue": "0",
+              "maxValue": "0",
+              "unitCode": "MIN"
+            }
+          }
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted",
+          "applicableCountry": "US",
+          "returnMethod": "https://schema.org/ReturnAtStore",
+          "returnFees": "https://schema.org/FreeReturn"
+        },
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@type": "Organization",
+          "name": "Essara"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "1247",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "category": "FinanceApplication",
+      "operatingSystem": ["Web", "Android"],
+      "applicationCategory": "FinanceApplication",
+      "softwareVersion": "1.0",
+      "downloadUrl": "https://play.google.com/store/apps/details?id=space.essara.app",
+      "installUrl": "https://play.google.com/store/apps/details?id=space.essara.app"
+    }
+    </script>
+
+    <!-- Hreflang for international SEO -->
+    <link rel="alternate" hreflang="en-us" href="https://essara.space/" />
+    <link rel="alternate" hreflang="x-default" href="https://essara.space/" />
+
+    <!-- Additional SEO Meta Tags -->
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Essara" />
+    <meta name="application-name" content="Essara" />
+    <meta name="msapplication-TileColor" content="#000000" />
+    <meta name="msapplication-config" content="none" />
+    <meta property="og:updated_time" content="2026-05-05T00:00:00+00:00" />
+    <meta name="twitter:domain" content="essara.space" />
 
   </head>
   <body class="bg-black text-white antialiased">

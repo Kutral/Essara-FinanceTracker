@@ -70,7 +70,7 @@ Disallow: /private/
 Disallow: /draft/
 
 # Sitemap location
-Sitemap: https://essara.space/sitemap.xml
+Sitemap: https://kutral.github.io/Essara-FinanceTracker/sitemap.xml
 
 # Crawl-delay for politeness (optional)
 Crawl-delay: 1
