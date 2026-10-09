@@ -1,64 +1,77 @@
 # Essara — verified facts brief (source of truth for all copy)
 
-Last checked: 2026-10-09, from Google search snippets of essara.space and the
-Google Play listing (direct fetches of both are blocked from the build sandbox).
-If a claim is not in this file, do not state it about Essara. Never invent ratings,
+Last checked: 2026-10-09 against the live Google Play listing
+(play.google.com/store/apps/details?id=space.essara.app, en_IN) and the essara.space
+home page (fetched via Apify web-fetch). If a claim is not in this file or on a
+page you fetched yourself, do not state it about Essara. Never invent ratings,
 review counts, user numbers, certifications, awards or press mentions.
 
 ## Identity
-- Name: Essara. Google Play titles seen: "Essara: Expense & Sub Tracker" (en_US)
-  and "Essara–Expense & Bill Tracker" (en_IN). Package: `space.essara.app`.
+- Name: Essara (sometimes misspelled Esara / Essera). Package `space.essara.app`.
+- Google Play title: "Essara: Subscription Tracker". Short description:
+  "Subscription tracker, UPI AutoPay & expense tracker. No bank login, no SMS."
+- Play facts: 100+ downloads, rated 3+, in-app purchases, no ads, category
+  Productivity, last updated 2 Oct 2026. No public star rating is shown.
+  Data safety: no data shared with third parties, data encrypted in transit,
+  users can request deletion.
 - Website / web app: https://essara.space/ (also installable as a PWA).
-- Home page title on essara.space: "Essara — Find Forgotten Subscriptions & UPI AutoPay Charges".
-- Market: India-first (prices in INR, UPI AutoPay focus). The Android app is on
-  Google Play; country availability depends on Google Play settings.
-- iPhone: no native iOS app. iPhone users use the web app / PWA at essara.space
-  with the same account.
-- X (Twitter): https://x.com/essaraapp (handle @essaraapp).
-- Support email: help@essara.space.
+  essara.space title: "Essara — Expense, Subscription & UPI AutoPay Tracker".
+- Market: made for India (INR, UPI AutoPay, NSE/BSE prices) but works worldwide
+  on web and on Google Play in any country, with multi-currency support.
+- Android 7.0+. No native iPhone app — iPhone users use the web app / PWA with the same account.
+- X (Twitter): https://x.com/essaraapp (@essaraapp). Support: help@essara.space.
 - This repo is a marketing microsite deployed to
   https://kutral.github.io/Essara-FinanceTracker/ — it is not the app itself.
 
 ## What Essara does (manual-first)
-- Manual-first expense, bill and subscription tracker. You add expenses, income,
-  recurring bills, UPI AutoPay mandates, subscriptions, receipts and investments yourself.
-- Does NOT connect to your bank, card, brokerage or mutual fund account and does
-  not ask for bank login credentials. (Do not claim "bank sync", "automatic import",
-  "reads your SMS" or "auto-categorises bank transactions".)
-- Converts recurring payments into monthly and yearly cost so you can spot waste
-  ("money leaks") and forgotten renewals.
-- UPI AutoPay mandate tracking: keep renewal dates of mandates visible.
-- Receipt scanning (OCR) with suggestions you review before saving.
-- Budgets and category comparisons.
-- Manually entered investment tracking.
-- AI-assisted insights.
-- Same workspace syncs across Android and web.
+From the Play description:
+- SUBSCRIPTION TRACKER: OTT, music, mobile recharge plans, cloud storage, AI tools,
+  gym, software and app-store plans; total cost per month and per year; monthly,
+  quarterly and yearly cycles; upcoming-renewals timeline for the next 30 days;
+  spot forgotten subscriptions.
+- RENEWAL & BILL REMINDERS: a reminder before every renewal; recurring bills like
+  rent, electricity, broadband, phone; "Needs attention" shows what is due today/tomorrow.
+- UPI AUTOPAY TRACKER: add mandates yourself and see upcoming auto-debits this
+  week/month; find old mandates. Essara never asks for the UPI PIN and never
+  connects to your UPI app.
+- EXPENSE TRACKER & BUDGET PLANNER: log expenses and income; monthly budget with
+  left-to-spend and a daily spending limit; spending by category, daily spend chart,
+  monthly summary; search by name or amount.
+- RECEIPT SCANNER: scan a bill/receipt, Essara reads merchant, total (and date)
+  and line items; you review before saving.
+- INVESTMENT TRACKER: gold, silver, stocks, mutual funds, SIPs, ETFs, crypto, fixed
+  deposits; live prices (NSE/BSE refresh about every minute on Pro where feeds
+  exist); no broker/demat login; Essara never places trades.
+- PRIVATE BY DESIGN: no bank login, no SMS access, no UPI PIN, no ads, data never
+  sold, encrypted connection (HTTPS) and secure cloud storage with row-level
+  security, delete your account and data any time.
+- Same account syncs across Android, web and PWA.
+- Pro also includes AI-assisted insights and AI agent API access.
 
-## Pricing (INR)
-- Free plan: unlimited manual expense tracking, 3 months of history, 5 receipt
-  scans, a small number of subscription slots and 2 investment slots
-  (the site is inconsistent on the subscription-slot count — say "a limited number").
-- Pro monthly ₹100/month, Pro yearly ₹1,000/year, Lifetime ₹2,000 one-time.
+## Pricing (at the time of writing — link https://essara.space/pricing)
+- Free, no card needed: unlimited manual expense tracking, 3 months of history,
+  5 receipt scans a month, 5 subscription slots, 2 investment slots.
+- Pro ₹100/month or ₹1,000/year; Lifetime ₹2,000 one-time. Paid plans unlock
+  unlimited history, scans and tracking plus live NSE/BSE prices.
 - Payments: Razorpay on web, Google Play Billing on Android.
-- Prices can change — when quoting them, add "at the time of writing" and link
-  https://essara.space/pricing.
 
-## Live essara.space URLs confirmed in search results (safe to link)
-- https://essara.space/
-- https://essara.space/about
-- https://essara.space/download
-- https://essara.space/pricing
-- https://essara.space/tools
-- https://essara.space/tools/upi-autopay-tracker
-- https://essara.space/blog
-- https://essara.space/blog/best-subscription-tracker-app-india
-- https://essara.space/docs
-- https://essara.space/onething  (a separate focus/productivity Android app by Essara)
-- Free tools mentioned: subscription leak detector, UPI AutoPay tracker, 50/30/20 budget planner.
+## Useful outside facts already confirmed on essara.space
+- NPCI's UPI help portal https://upihelp.npci.org.in lets users view, pause or
+  revoke UPI AutoPay mandates across apps. Essara is a manual decision layer that
+  also covers non-UPI charges (cards, Google Play, App Store, NACH, wallets).
+
+## Live essara.space URLs (safe to link)
+- https://essara.space/ · /download · /signup · /pricing · /about · /contact
+- /privacy-policy · /blog · /blog/best-subscription-tracker-app-india · /docs
+- /tools · /tools/subscription-leak-detector · /tools/upi-autopay-tracker
+- /tools/ott-subscription-cost-calculator · /tools/monthly-money-leak-calculator
+- /onething (a separate focus/productivity Android app by Essara)
 
 ## Banned claims (were in the old site — do not reintroduce)
-- Any star rating / review count (4.8★, 1,247 reviews …) — no verified rating exists.
-- "SOC 2 Type II", "bank-level 256-bit encryption", "never stores credentials" phrased as a certification.
-- "Bank account synchronization", "connect your accounts", "automatically categorises transactions".
-- "Multi-currency support", "founded 2024", Twitter handle "@essara", instagram.com/essara.
+- Any star rating / review count (4.8★, 1,247 reviews …) — no public rating exists.
+- "SOC 2 Type II", "bank-level 256-bit encryption".
+- "Bank account synchronization", "connect your accounts", "reads your SMS",
+  "automatically imports/categorises bank transactions".
+- "Founded 2024", Twitter handle "@essara", instagram.com/essara.
 - Product schema with shipping/return policy (Essara is software, not a shipped product).
+- The developer's personal postal address (it is on Play, but do not republish it).

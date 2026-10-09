@@ -498,10 +498,20 @@ async function prerenderHome() {
     return;
   }
   const { render } = await import(pathToFileURL(SSR_ENTRY).href);
-  const html = fs.readFileSync(indexPath, 'utf8');
+  let html = fs.readFileSync(indexPath, 'utf8');
   const appHtml = render();
   if (!html.includes('<div id="root"></div>')) throw new Error('dist/index.html has no empty #root to fill');
-  fs.writeFileSync(indexPath, html.replace('<div id="root"></div>', `<div id="root">${appHtml}</div>`));
+  html = html.replace('<div id="root"></div>', `<div id="root">${appHtml}</div>`);
+  // FAQPage schema mirrors the visible HomeFAQ section (same source file).
+  const faqs = JSON.parse(fs.readFileSync(path.join(ROOT, 'content', 'home-faq.json'), 'utf8'));
+  const faqLd = jsonLd({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': SITE_URL + '#faq',
+    mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+  html = html.replace('</head>', `${faqLd}\n</head>`);
+  fs.writeFileSync(indexPath, html);
   console.log(`[seo] prerendered home page (${appHtml.length} chars of HTML)`);
 }
 
