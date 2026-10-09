@@ -1,0 +1,92 @@
+{
+  "slug": "subscription-audit-checklist",
+  "cluster": "learn",
+  "title": "Subscription Audit Checklist: 30 Minutes Every Quarter",
+  "metaDescription": "A practical 30-minute quarterly subscription audit for India. Find app-store, UPI AutoPay and card charges, cancel what you do not use, and confirm each one.",
+  "h1": "How do you audit your subscriptions in 30 minutes each quarter?",
+  "summary": "A subscription audit is a 30-minute check every quarter: list every recurring charge from your statements and app-store accounts, convert each one to a monthly cost, then decide to keep, cancel or downgrade it. Cancelling inside the app or store is not always the end of a charge, so the audit also covers UPI AutoPay mandates and card billing.",
+  "updated": "2026-10-09",
+  "keywords": ["subscription audit checklist", "quarterly subscription audit", "how to audit subscriptions India", "cancel subscriptions checklist", "UPI AutoPay audit"],
+  "about": ["Subscription management", "Google Play", "Apple App Store"],
+  "stepsHeading": "The 30-minute quarterly audit",
+  "steps": [
+    {
+      "name": "Gather your sources (5 minutes)",
+      "text": "Open the last three months of your bank and card statements, the AutoPay or mandates list in each UPI app you use, and the subscription pages in Google Play and the App Store. Check every Google Account and Apple Account you use, because a subscription can sit on a second account."
+    },
+    {
+      "name": "List every recurring charge (5 minutes)",
+      "text": "Write each service, its amount, its billing cycle and its next renewal date in one list. Include weekly, monthly, quarterly and yearly charges exactly as they appear."
+    },
+    {
+      "name": "Convert everything to a monthly cost (5 minutes)",
+      "text": "Keep monthly prices as they are, divide quarterly prices by 3, divide yearly prices by 12, and multiply weekly prices by 52 then divide by 12. Add the results to get your total monthly outflow on recurring services."
+    },
+    {
+      "name": "Mark each item keep, cancel or downgrade (5 minutes)",
+      "text": "Keep anything you used in the last month or would genuinely miss. Mark the rest to cancel, or to switch to a cheaper plan if the service offers one."
+    },
+    {
+      "name": "Cancel in the right place (5 minutes)",
+      "text": "For Google Play, open subscriptions in Google Play, select the subscription and tap Cancel subscription. For an App Store subscription on an iPhone, open Settings, tap your name, tap Subscriptions, tap the subscription and tap Cancel Subscription. For other services, use the cancel page in their own app or website."
+    },
+    {
+      "name": "Stop UPI AutoPay mandates and card billing (3 minutes)",
+      "text": "Open the AutoPay or mandates section of each UPI app and revoke any mandate for a service you have cancelled. Menu names differ between apps and versions, so look for an option with a similar name. For card charges, note the merchant name and contact the merchant or your card issuer if the charge continues."
+    },
+    {
+      "name": "Confirm each cancellation (2 minutes)",
+      "text": "On an iPhone, check that the Cancel button has gone or that an expiry message appears. Set a reminder to check your next statement for any charge from a cancelled service, and add the next review date to your calendar."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why audit every quarter",
+      "paragraphs": [
+        "A quarter is frequent enough to catch new renewals and short enough that you still remember what each charge is for. Free trials that became paid plans and yearly renewals are easy to miss in a monthly glance, so a quarterly check gives them a regular chance to be caught.",
+        "The audit only works if you write the list down. A charge you cannot see in one place is much easier to forget, especially when it comes through a different app or card."
+      ]
+    },
+    {
+      "heading": "Where recurring charges hide",
+      "paragraphs": [
+        "App-store subscriptions are tied to the account that bought them. Google says that if you cannot find a subscription, it may be on a different account, so switch accounts and look again. Apple says that if you cannot find a receipt, the charge may come from another company, so check your bank or card statement to see who is billing you.",
+        "UPI AutoPay mandates sit in your UPI app, not in the service itself. Menu names vary between apps and versions, so look for a section about AutoPay or mandates in each app you use, not only your main one.",
+        "Card charges are the third source. A recurring merchant charge on a card statement may not appear in any app-store list, so compare the statement line by line with your list."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "On Google Play, cancelling stops the next renewal, and you can keep using the subscription for the time you have already paid. Uninstalling the app does not cancel it, so use the cancel option rather than deleting the app.",
+        "On an iPhone, after you tap Cancel Subscription, look at the subscription again. If the Cancel button has gone, or you see an expiry message in red text, Apple treats the subscription as already cancelled. For a free trial you do not want to renew, cancel at least 24 hours before the trial ends.",
+        "Cancelling inside the service is a separate step from stopping the UPI mandate or card billing. Check the mandate and the card statement after you cancel, because a charge can keep coming through a route you did not cancel."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "A quarterly audit is easier to repeat when the list lives in one place. Essara is a manual tracker: you add each subscription and mandate yourself, choose its billing cycle, and see the monthly and yearly cost along with upcoming renewals. It does not connect to your bank account, UPI app or SMS, so the list is only as complete as the entries you make."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "How often should I audit my subscriptions?", "a": "This checklist is built for every quarter. Check sooner if you started a free trial or a yearly plan is due to renew soon." },
+    { "q": "What if I cancelled an app but the money still goes out?", "a": "Check whether the charge comes through a UPI mandate or a card merchant rather than the app store. Revoke the UPI mandate in the app that created it, or contact the card merchant or your card issuer. For app-store charges, check whether the subscription is on a different Google or Apple account." },
+    { "q": "Do I need to cancel a free trial before it ends?", "a": "For an Apple subscription, Apple advises cancelling at least 24 hours before the trial ends if you do not want it to renew. For other services, check the trial terms in the app or on the website before the trial period finishes." },
+    { "q": "Will cancelling stop my access straight away?", "a": "Usually not. Google says you can keep using a Google Play subscription for the time you have already paid. For Apple, treat a missing Cancel button or a red expiry message as confirmation that the subscription has ended." },
+    { "q": "Which subscriptions do people most often miss?", "a": "Yearly renewals, free trials that turned into paid plans, and services billed to a second Google or Apple account are easy to miss. Check those items on purpose during each audit rather than relying on memory." }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone",
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "learn/monthly-vs-yearly-subscription-cost",
+    "learn/subscription-creep"
+  ],
+  "sources": [
+    { "label": "Google Play Help: Cancel, pause, or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481" },
+    { "label": "Apple Support: Cancel a subscription from Apple", "url": "https://support.apple.com/en-in/118428" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}
