@@ -35,7 +35,7 @@
     {
       "heading": "What WhatsApp Pay officially covers",
       "paragraphs": [
-        "WhatsApp Pay is a UPI feature in India. WhatsApp India's payments terms say it passes your payment instructions to payment service providers, which process them over UPI, and that money moves directly between bank accounts. WhatsApp's payments page says the feature is powered by BHIM UPI and processed by payment partners in India.",
+        "WhatsApp Pay is a UPI feature in India. WhatsApp India's payments terms say it passes your payment instructions to payment service providers, which process them over UPI. WhatsApp's payments page says the feature is powered by BHIM UPI, that money is transferred directly between bank accounts, and that payment partners process it in India.",
         "The official pages describe sending money, paying bills through BBPS and checking past transactions in payments settings. They do not mention UPI AutoPay, e-mandates or subscription debits. Vendor blogs claim WhatsApp Pay supports AutoPay subscriptions, but they are marketing pieces with no link to official documentation, so treat that claim as unconfirmed."
       ]
     },
@@ -50,7 +50,7 @@
       "heading": "Cancel the merchant and the mandate together",
       "paragraphs": [
         "Cancelling a mandate stops future debits, but it does not always end the service on the merchant's side. HDFC Bank advises cancelling on the merchant's website or app first, then opening the UPI app to confirm the mandate shows as Cancelled or Revoked.",
-        "If the merchant gives no cancel option, revoke the mandate in the UPI app under Profile or Settings, then AutoPay. Google Pay's help page follows the same pattern: tap your profile picture, select Autopay, open the Live tab, and choose Cancel autopay or Pause autopay. You confirm with your UPI PIN."
+        "If the merchant gives no cancel option, revoke the mandate in the UPI app under Profile or Settings, then AutoPay. Google Pay's help page follows the same pattern: tap your profile picture, select Autopay, open the Live tab, and choose Cancel autopay or Pause autopay. Cancelling needs your UPI PIN."
       ]
     },
     {
