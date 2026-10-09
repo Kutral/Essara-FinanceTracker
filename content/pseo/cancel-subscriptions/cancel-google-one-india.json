@@ -1,0 +1,98 @@
+{
+  "slug": "cancel-google-one-india",
+  "cluster": "cancel-subscriptions",
+  "title": "How to Cancel Google One in India (2026) | Essara",
+  "metaDescription": "Cancel Google One in India: where to turn off the membership, what happens to your 15 GB storage, refund rules, and how to revoke the UPI AutoPay mandate.",
+  "h1": "How do you cancel Google One in India, and what happens to your storage?",
+  "summary": "To cancel Google One on Android, open the Google One app, tap Menu, then Settings, then Cancel membership, and confirm. Cancelling stops future payments, but your extra storage and benefits last until the end of the billing cycle, after which each person keeps the free 15 GB. Google says storage plan purchases are generally non-refundable, so check the refund rules of the store you paid through.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Google One India", "turn off Google One auto renew", "Google One 15 GB after cancel", "Google One refund India", "revoke UPI AutoPay Google One"],
+  "about": ["Google One", "Google Pay", "UPI AutoPay"],
+  "stepsHeading": "How to cancel Google One on Android",
+  "steps": [
+    { "name": "Open the Google One app", "text": "On your Android phone or tablet, open the Google One app." },
+    { "name": "Go to Settings", "text": "Tap Menu at the top of the screen, then tap Settings." },
+    { "name": "Choose Cancel membership", "text": "Tap Cancel membership, then tap Cancel membership again to confirm. Menu names can differ slightly between app versions." },
+    { "name": "Check for the confirmation", "text": "Google says you should get a confirmation that your subscription is cancelled. Take a screenshot and keep it with your payment records." },
+    { "name": "Revoke any UPI mandate", "text": "If you paid by UPI AutoPay, open Google Pay, tap your profile picture, select Autopay, open the Live tab, choose the mandate, select Cancel autopay and enter your UPI PIN." }
+  ],
+  "sections": [
+    {
+      "heading": "Where to cancel depends on where you paid",
+      "paragraphs": [
+        "Google One is billed through the store you bought it from. Cancelling in the Google One app on Android covers Play Store purchases. If you bought the plan through the App Store on an iPhone or iPad, open the App Store, tap your name, then tap Subscriptions, Google One and Cancel Subscription. Google also says that if you signed up through the App Store and later moved to an Android device, you cannot change the membership or the payment method inside the Android app, so you will need the App Store on another device.",
+        "Family plans cause the most confusion. If someone else manages your Google family group, you cannot simply cancel your own copy. Google lists three options: leave the family group, ask the family manager to cancel your plan, or ask the manager to turn off sharing of Google One with the family. Which one to pick depends on whether you want to share a new plan with the same group."
+      ]
+    },
+    {
+      "heading": "What happens to your storage and benefits",
+      "paragraphs": [
+        "Cancelling does not remove your Google One storage straight away. Google says the storage and benefits last until the end of the billing cycle, and then you lose them. You and your family members lose the extra storage, but each person keeps the default 15 GB at no charge. Premium subscriptions such as Google Home Premium, Google Health Premium and YouTube Premium are lost too.",
+        "If your account is using more than 15 GB when the extra storage ends, the restrictions start. Google's help page lists these: in Gmail you cannot send or receive messages, and messages sent to you are returned to the sender. In Google Drive you cannot sync or upload new files, and syncing to your computer stops. You also cannot create new files in Docs, Sheets, Slides, Drawings, Forms or Vids, and Google Photos cannot back up new photos or videos. Google also says that until you reduce usage, no one can edit or copy your files. The practical fix is to clear space in Gmail, Drive and Photos before the billing cycle ends."
+      ]
+    },
+    {
+      "heading": "Refunds and billing cycle notes",
+      "paragraphs": [
+        "Google says Google storage plan purchases are non-refundable in most countries or regions, and the storage you bought stays yours for the length of the subscription even if you cancel. For Play Store purchases, Google points you to its Google Play refund policies. For App Store purchases, you request the refund from Apple. Google's refund page also says that if you find a Play purchase on your card that you did not make, and nobody you know made it, you should report it within 120 days of the transaction.",
+        "Cancelling is about future charges. Once you cancel, the next payment does not happen, but you keep access until the cycle you have already paid for runs out. Note the date of your last billing cycle so you can check your statement afterwards."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay mandate",
+      "paragraphs": [
+        "A UPI AutoPay mandate is a separate permission from the membership itself, so check both. In Google Pay, the mandate sits under Autopay in the Live tab. You can choose Pause autopay, which lets you set a start and end date, or Cancel autopay, which needs your UPI PIN. Google's help page says that to confirm the change, you should check the status in the Live tab afterwards.",
+        "If the option does not show up, Google suggests updating the Google Pay app, because the Autopay section may be missing in an older version. Google also notes that cancelling a mandate can fail if the bank account linked to it is inactive, in which case you need to reactivate the account first. Mandates created for loans cannot be cancelled in Google Pay, so check with the lender for those."
+      ]
+    },
+    {
+      "heading": "How to confirm the cancellation",
+      "paragraphs": [
+        "Check three places. First, the Google One app should show the membership as cancelled. Second, if you paid through Google Play, open Settings, tap Google, then your name, then Manage your Google Account, then Payments & subscriptions and Manage subscriptions. The Google One plan should no longer show as active there. Third, look at Google Pay's Autopay Live tab and confirm no live mandate remains.",
+        "Then watch your next bank statement for a Google charge. If one appears after you have cancelled, check the transaction details and contact Google support, and keep your screenshots."
+      ]
+    },
+    {
+      "heading": "Tracking renewals in Essara",
+      "paragraphs": [
+        "Cancelling only helps if you notice the renewal date in time. Essara is a manual tracker: you add Google One yourself with its cost and renewal cycle, and it shows the renewal in your upcoming timeline and sends a reminder before it falls due. Essara does not connect to your bank, UPI app or SMS, so nothing is picked up automatically."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does cancelling Google One delete my files?",
+      "a": "Google's cancellation page describes losing the extra storage and the restrictions that follow if you are over 15 GB. It does not say that cancelling deletes your files. Deleting the Google One service is a separate step, and Google says that in that case your Photos, Drive and Gmail content is kept for at least two years."
+    },
+    {
+      "q": "Will I still have any free storage after cancelling Google One?",
+      "a": "Yes. Google says each person keeps the default storage of up to 15 GB at no charge. The extra storage that the plan added goes away at the end of the billing cycle."
+    },
+    {
+      "q": "Can I get a refund for Google One in India?",
+      "a": "Google says storage plan purchases are generally non-refundable in most countries or regions. Play Store purchases follow Google Play's refund policies, and App Store purchases need a refund request to Apple. The help pages I read do not list a separate India-specific refund rule, so check your order details before you cancel."
+    },
+    {
+      "q": "Why can I not cancel Google One in the app?",
+      "a": "The most common reasons are that you bought the plan through the App Store and now use an Android device, or that someone else manages the family group that pays for your plan. In both cases Google points you to a different route, and the options are listed in its help centre."
+    },
+    {
+      "q": "Can I pause a UPI AutoPay mandate instead of cancelling it?",
+      "a": "Google Pay offers a Pause autopay option under the Live tab, where you can set a start and end date. Pausing and cancelling both need your UPI PIN, and the labels can vary slightly between app versions."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-youtube-premium-india",
+    "cancel-subscriptions/cancel-swiggy-one",
+    "upi-autopay/cancel-upi-autopay-google-pay",
+    "upi-autopay/find-all-upi-autopay-mandates"
+  ],
+  "sources": [
+    { "label": "Google One Help: Cancel your Google One membership", "url": "https://support.google.com/googleone/answer/9056360?hl=en" },
+    { "label": "Google Play Help: Cancel, pause, or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481?hl=en" },
+    { "label": "Google Play Help: Learn about Google Play refund policies", "url": "https://support.google.com/googleplay/answer/2479637?hl=en" },
+    { "label": "Google Pay Help: Learn how to manage recurring payments", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "cancel-linkedin-premium-india",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel LinkedIn Premium India: Web, Play & iPhone (2026)",
+  "metaDescription": "Cancel LinkedIn Premium from the web, Google Play or an iPhone, stop the next renewal, and check your UPI or card mandate. Steps for users in India.",
+  "h1": "How do I cancel LinkedIn Premium from India, and can I get a refund?",
+  "summary": "To cancel LinkedIn Premium in India, open Premium features on the desktop site and cancel from LinkedIn Admin Center under Purchases, or use the LinkedIn app if you bought through Google Play. If you paid through the Apple App Store, cancel in your iPhone's subscription settings, and cancel at least one day before the next billing date. Paid access continues until the end of the current billing cycle, and LinkedIn says a Premium subscription may be refundable within 7 days of a charge if you have not used Premium.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "cancel LinkedIn Premium India",
+    "LinkedIn Premium refund",
+    "cancel LinkedIn Premium Google Play",
+    "LinkedIn Premium UPI AutoPay",
+    "cancel LinkedIn Premium iPhone"
+  ],
+  "about": [
+    "LinkedIn Premium",
+    "LinkedIn",
+    "UPI AutoPay"
+  ],
+  "stepsHeading": "How to cancel LinkedIn Premium step by step",
+  "steps": [
+    {
+      "name": "Check how you bought Premium",
+      "text": "Your route depends on who billed you: LinkedIn directly, Google Play on Android, or the Apple App Store on an iPhone. Check your receipt if you are unsure."
+    },
+    {
+      "name": "Cancel a LinkedIn-billed plan on desktop",
+      "text": "Click the Me icon on the LinkedIn homepage and select Premium features. Click Manage subscription (it may appear as Subscription details under Resources) and you will be taken to LinkedIn Admin Center. Click Purchases, select your Active subscription, click Cancel subscription under Actions, then click Confirm cancel."
+    },
+    {
+      "name": "Cancel in the LinkedIn mobile app",
+      "text": "Tap your profile photo, tap Premium features, then tap Manage your subscription. Tap Cancel subscription and follow the prompts. LinkedIn says this route also works for subscriptions bought on Android through Google Play."
+    },
+    {
+      "name": "Cancel a Google Play plan from Google",
+      "text": "On your Android phone, open the Google Play app, go to subscriptions, select the LinkedIn Premium plan, tap Cancel subscription and follow the instructions. Uninstalling the LinkedIn app does not cancel the subscription."
+    },
+    {
+      "name": "Cancel an Apple App Store plan on iPhone",
+      "text": "Open LinkedIn on your iPhone, go to Premium features, tap Manage your subscription and then Cancel subscription. Or go to Settings, tap your name, tap Subscriptions, choose the LinkedIn plan and tap Cancel Subscription. If you bought Premium on iOS through the mobile web, cancel on desktop instead."
+    },
+    {
+      "name": "Confirm the cancellation and check your mandate",
+      "text": "Reopen Premium features and check that the plan shows as cancelled, with an end date. Then check the AutoPay or Mandates section of your UPI app, or your card's recurring payments, to make sure no LinkedIn mandate is still active."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why the billing route decides where you cancel",
+      "paragraphs": [
+        "LinkedIn's help centre lists three routes for Premium: a purchase made with LinkedIn, a purchase made through Google Play on an Android device, and a purchase made through the Apple App Store. Each has its own steps. If you cancel in the wrong place, the plan keeps renewing, so it is worth confirming the route before you start."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "A paid Premium plan stays active until the end of the current billing cycle, then your account returns to a Basic (free) plan. Features such as InMail credits, LinkedIn Learning and the Premium badge end at that point.",
+        "The timing rule is simple: cancel at least one day before your next scheduled billing date to avoid being charged for another cycle. A free trial works differently. If you cancel a Premium free trial, the trial ends immediately and Premium access stops right away."
+      ]
+    },
+    {
+      "heading": "Refunds and Indian billing timelines",
+      "paragraphs": [
+        "LinkedIn's refund help article says Premium subscriptions, including Premium Career, Premium Business and Sales Navigator, may be refundable within 7 days from the date the subscription is charged, if you have not used Premium. It adds that a previous refund can affect eligibility. Refunds are not guaranteed, so submit a request through LinkedIn's refund page as soon as you notice the charge.",
+        "If your subscription was bought through the LinkedIn iOS app, LinkedIn says all iOS refunds must be issued by Apple. For Google Play purchases, Google says a refund may be possible within 48 hours of purchase, and after that you need to contact the developer. LinkedIn also notes that Indian subscriptions with withholding tax must be refunded within 180 days of the subscription start."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay or card mandate",
+      "paragraphs": [
+        "Since October 2021, LinkedIn has required Indian customers with recurring payments to re-verify the payment method through their bank, under RBI e-mandate rules. Your bank must notify you at least 24 hours before each recurring charge, and that notice gives you the option to cancel or continue. LinkedIn says charges below ₹15,000 need no extra action, while larger charges need your consent given through your bank.",
+        "Cancelling inside LinkedIn stops future renewals, but LinkedIn's pages do not say whether the UPI mandate in your UPI app is revoked automatically. Check the AutoPay or Mandates section of the UPI app where you approved it, and revoke any LinkedIn mandate that is still listed. For a card, the e-mandate is handled through your bank, and LinkedIn notes that not every card or issuer supports the e-mandate process."
+      ]
+    },
+    {
+      "heading": "Keeping renewal dates in view",
+      "paragraphs": [
+        "A cancelled Premium plan is easy to forget until a bank alert arrives. Add LinkedIn Premium to a subscription tracker with its renewal date, its cost and the route it is billed through, whether that is Google Play, the App Store, a UPI mandate or a card. That way the reminder reaches you before the one-day cutoff. Essara is a manual tracker: you enter the subscription yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a refund if I cancel LinkedIn Premium today?",
+      "a": "Possibly, but it is not guaranteed. LinkedIn's help article says a Premium subscription may be refundable within 7 days from the charge date if you have not used Premium, and a previous refund can affect eligibility. Submit the request on LinkedIn's refund page, and for an iPhone purchase contact Apple."
+    },
+    {
+      "q": "Does cancelling LinkedIn Premium also stop the UPI AutoPay mandate?",
+      "a": "LinkedIn's cancellation help does not say that it revokes the UPI mandate. Cancelling stops future renewals, so after you cancel, open the AutoPay or Mandates section of your UPI app and revoke any LinkedIn mandate that is still active."
+    },
+    {
+      "q": "Why does LinkedIn still show Premium after I cancelled?",
+      "a": "This is expected for a paid plan. Premium access continues until the end of the current billing cycle, and features such as InMail credits and LinkedIn Learning stop at that point. The exception is a free trial, which ends immediately when you cancel it."
+    },
+    {
+      "q": "Can I cancel LinkedIn Premium without signing in?",
+      "a": "LinkedIn's help article says that some subscriptions can be cancelled without signing in only for members in Germany or the United States. If you are in India, sign in to the account that holds the Premium plan and use the steps above."
+    }
+  ],
+  "related": [
+    "cancel-chatgpt-plus-india",
+    "cancel-microsoft-365-india",
+    "cancel-google-play-subscriptions",
+    "cancel-apple-subscriptions-iphone",
+    "what-is-an-e-mandate"
+  ],
+  "sources": [
+    {
+      "label": "LinkedIn Help: Cancel LinkedIn Premium subscription",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a545578"
+    },
+    {
+      "label": "LinkedIn Help: Cancel LinkedIn Premium subscription purchased via Google Play Store",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a569644"
+    },
+    {
+      "label": "LinkedIn Help: LinkedIn refund policy",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a1337140"
+    },
+    {
+      "label": "LinkedIn Help: India payment regulations",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a515185"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
+}

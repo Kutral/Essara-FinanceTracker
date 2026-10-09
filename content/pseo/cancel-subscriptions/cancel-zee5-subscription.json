@@ -1,0 +1,109 @@
+{
+  "slug": "cancel-zee5-subscription",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel ZEE5 Subscription Auto-Renewal in India (2026)",
+  "metaDescription": "Turn off ZEE5 auto-renewal in India on the web or the app. Find the Cancel Renewal option, check what happens to your access, and stop the UPI AutoPay debit too.",
+  "h1": "How do I cancel my ZEE5 subscription so it stops renewing in India?",
+  "summary": "To stop ZEE5 charging you again, turn off auto-renewal rather than just stopping to watch. Open your profile in the ZEE5 app or website, go to your subscription section, choose Cancel Renewal (or Manage Subscription, depending on your app version) and confirm. If Apple or Google Play is billing you, or a UPI AutoPay mandate is linked to the plan, cancel in that place as well.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel ZEE5 subscription", "ZEE5 auto renewal", "turn off ZEE5 auto pay", "cancel ZEE5 Premium India", "ZEE5 cancel renewal"],
+  "about": ["ZEE5", "Auto-renewal", "UPI AutoPay"],
+  "stepsHeading": "Turn off ZEE5 auto-renewal on the app or website",
+  "steps": [
+    {
+      "name": "Check who bills you",
+      "text": "Open your payment receipt or the account page for the plan. If the charge comes from Apple or Google Play, cancel in that store instead. If it comes from ZEE5 or a UPI AutoPay mandate, carry on with the steps below."
+    },
+    {
+      "name": "Open your subscription section",
+      "text": "Sign in to the ZEE5 app or to zee5.com with the account that holds the paid plan. Tap or click your profile, then find My Subscription or My Subscriptions. Some app versions place it under Control Center, Plans & Rentals or Account Management."
+    },
+    {
+      "name": "Choose the renewal option",
+      "text": "Select your active plan and choose Cancel Renewal or Manage Subscription. Some versions show Manage Auto-Pay instead. Pick the option that stops the next renewal, not one that changes the plan."
+    },
+    {
+      "name": "Confirm and save proof",
+      "text": "Accept the confirmation prompt. Take a screenshot of the screen that shows the renewal is off and the date your access ends."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why the cancel option is hard to find",
+      "paragraphs": [
+        "ZEE5 plans in India can be billed in several ways: directly by ZEE5, through Apple for an iPhone or iPad, through Google Play on Android, or through a partner such as a mobile operator or Amazon. Each route is cancelled in a different place, which is why the same plan can look different on two devices.",
+        "ZEE5's help centre has separate articles for direct auto-renewal, for plans bought through Apple's in-app billing and for plans bought through Amazon in-app billing. Read the one that matches your receipt before you start."
+      ]
+    },
+    {
+      "heading": "Menu labels change between app versions",
+      "paragraphs": [
+        "The labels in ZEE5's help articles do not match one another. One article describes My Subscription, then Cancel Renewal. A newer article uses Plans & Rentals, then Manage Subscription, then Cancel Subscription. The label may read differently on your phone, so look for any option in your subscription section that mentions renewal, auto-pay or cancel.",
+        "If the app keeps failing, ZEE5 suggests trying the website from a desktop or laptop browser rather than a phone browser, and signing in there."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "Turning off renewal stops the next charge. It does not normally end the access you have already paid for. ZEE5's help content says cancellation generally takes effect at the end of the current billing cycle, so you can keep watching until the expiry date shown on your plan.",
+        "Cancelling does not refund the current period by itself. If you were charged for a period you did not use, ask ZEE5 support for a refund, and keep the receipt and the cancellation screenshot with your request. Refund eligibility is set by ZEE5's own terms, so the outcome is not guaranteed."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay debit",
+      "paragraphs": [
+        "If you pay ZEE5 through UPI AutoPay, the mandate sits in your UPI app and can keep debiting even after you turn off renewal in ZEE5 if the two are not linked. Check the AutoPay or Mandates section of the app you used to approve it.",
+        "In Google Pay, tap your profile picture, select Autopay, open the Live tab, tap the mandate and choose Cancel autopay. Enter your UPI PIN to confirm. Pause autopay is a separate option that stops debits for a set period. Pausing a mandate is not the same as cancelling the ZEE5 plan, and ZEE5 has a help article on pausing UPI AutoPay that you should read before you pause. The label may read AutoPay or Mandates depending on your app version."
+      ]
+    },
+    {
+      "heading": "How to confirm the cancellation worked",
+      "paragraphs": [
+        "Check that the plan shows the renewal as off, with the expiry date beside it. Then look at your bank statement or UPI app around the next billing date. If a debit still arrives, the renewal is still active on one of the billing routes above.",
+        "Keep the confirmation screen, the receipt and the bank or UPI app screenshot in one place. If ZEE5 charges you again after you cancelled, these three items make a support request much faster to resolve."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker, so you add the ZEE5 plan yourself with its amount, billing cycle and renewal date. It shows the plan in your upcoming renewals and sends a reminder before it renews. It does not connect to your bank, your UPI app or your SMS, so it cannot see the charge itself. It only shows what you entered."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does uninstalling the ZEE5 app cancel my subscription?",
+      "a": "Not by itself. Deleting the app removes it from your phone but does not turn off renewal. Use the cancel renewal option in your account, or in Apple or Google Play if one of them bills you."
+    },
+    {
+      "q": "Will I lose access to ZEE5 as soon as I cancel?",
+      "a": "Usually not. ZEE5's help content says cancellation generally applies at the end of the current billing cycle, so you keep access until the expiry date shown on your plan."
+    },
+    {
+      "q": "How do I cancel ZEE5 if I bought it on an iPhone?",
+      "a": "Apple bills the plan, so cancel it in the device settings. Open Settings, tap your name, tap Subscriptions, choose ZEE5 and tap Cancel Subscription. If the button is missing, the subscription has already ended."
+    },
+    {
+      "q": "Can I pause ZEE5 instead of cancelling?",
+      "a": "The pause option that ZEE5's help centre describes is for UPI AutoPay mandates on payment apps such as Google Pay, Paytm and PhonePe. Read that article before you pause, because pausing a mandate and cancelling a plan are different actions."
+    },
+    {
+      "q": "What if ZEE5 charges me after I have cancelled?",
+      "a": "Save the cancellation screenshot, the receipt and the debit entry, then contact ZEE5 support through its help centre at helpcenter.zee5.com. Keep a written record of each request and the date you made it, so you can follow up if the reply is slow."
+    }
+  ],
+  "related": [
+    "cancel-netflix-subscription-india",
+    "cancel-jiohotstar-subscription",
+    "cancel-sonyliv-subscription",
+    "cancel-google-play-subscriptions",
+    "free-trial-auto-renewal"
+  ],
+  "sources": [
+    { "label": "ZEE5 Help Centre: How to manage auto-renewal (UPI payments on Android and iOS)", "url": "https://helpcenter.zee5.com/portal/en/kb/articles/how-do-i-cancel-auto-renewal-of-my-subscription" },
+    { "label": "ZEE5 FAQ: Keep the entertainment rolling, how to manage auto-renewal on ZEE5", "url": "https://faq.zee5.com/portal/en/kb/articles/keep-the-entertainment-rolling-how-to-manage-auto-renewal-on-zee5" },
+    { "label": "Apple Support: Cancel a subscription from Apple (India)", "url": "https://support.apple.com/en-in/ht202039" },
+    { "label": "Google Pay Help: Manage recurring payments and UPI Autopay mandates", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

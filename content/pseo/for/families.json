@@ -1,0 +1,134 @@
+{
+  "slug": "families",
+  "cluster": "for",
+  "title": "Subscription & Expense Tracker for Families in India",
+  "metaDescription": "Track shared streaming and cloud plans, household bills and UPI AutoPay across the family. Set up Essara in about 10 minutes and see each renewal in one place.",
+  "h1": "How can a family in India track shared plans, household bills and AutoPay in one place?",
+  "summary": "Family money in India is spread across many phones: a shared cloud plan, a streaming login, electricity and broadband bills, school fees, and UPI AutoPay mandates that each person may have approved on their own phone. A manual tracker such as Essara lets one person list those costs with their cycle and renewal date, set a monthly budget and get reminders, without connecting any bank account.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "family subscription tracker India",
+    "household bills tracker India",
+    "shared plan family India",
+    "family UPI AutoPay list",
+    "household expense tracker app India"
+  ],
+  "about": [
+    "Google One",
+    "Apple Family Sharing",
+    "UPI AutoPay"
+  ],
+  "stepsHeading": "Set it up in 10 minutes",
+  "sections": [
+    {
+      "heading": "Shared plans: what the family-sharing rules actually allow",
+      "paragraphs": [
+        "Family sharing rules differ a lot, so check them before assuming a plan covers everyone. Apple's Family Sharing lets the organiser and up to five family members share services such as iCloud+, Apple Music and Apple TV without sharing one Apple Account. Google One lets the plan manager share storage with up to five family members. Google's help page describes 15 GB of personal space for each member, then a shared pool, but also notes that some newer plan tiers use one shared quota, so check your own plan. Sharing is not available on the 30 GB Lite plan.",
+        "Netflix is different again. Its help centre describes extra member slots for people outside your household. The account owner pays for each slot, the extra member gets their own login and profile, and the feature needs a Standard or Premium plan in the same country where the account was set up. For people in the same home, that is not the mechanism to rely on."
+      ]
+    },
+    {
+      "heading": "Household bills that are not subscriptions",
+      "paragraphs": [
+        "Electricity, broadband, phone, rent and school fees have the same tracking problem as subscriptions: they repeat, they vary, and nobody sees the whole total. Give each bill its own entry with the real cycle. A school that bills quarterly should be a quarterly entry, not a monthly guess. Essara's bill reminders and its 'Needs attention' view show what is due today or tomorrow, which is useful when several people pay different bills from different accounts."
+      ]
+    },
+    {
+      "heading": "UPI AutoPay mandates on different phones",
+      "paragraphs": [
+        "This is where families lose track. A mandate lives in the UPI app of the person who approved it, so a mandate your parent set up on their phone will not show in your app. Google Pay's help page shows the layout: mandates sit in Live, Pending and Completed tabs, and a Pending request needs action from the person whose app it is in. Approving or changing a mandate needs that person's UPI PIN.",
+        "Ask each family member to open their own Autopay section once and send you a note of the merchant, the amount, the frequency and the next debit date. Add each one to your tracker under the name of the person who approved it, for example 'Dad, electricity AutoPay', so you know whose phone to check when a debit surprises you."
+      ]
+    },
+    {
+      "heading": "When someone cancels, and how to confirm it",
+      "paragraphs": [
+        "A subscription is usually cancelled from the account that pays for it, and that is often not the account on the phone you are holding. Google Play asks you to sign in to the Google Account that holds the subscription, and says that if you cannot find it, it may be on a different account. Apple states that if a family member's Apple Account appears on a receipt, only that person can cancel the subscription.",
+        "Google Play also keeps access running until the end of the period already paid, so a cancelled plan does not end the day you tap the button. Check the subscription screen again after the next billing date to confirm nothing renewed. When you cancel an AutoPay mandate, pause or cancel it in the same UPI app that approved it, using the UPI PIN."
+      ]
+    },
+    {
+      "heading": "Tracking the household in Essara",
+      "paragraphs": [
+        "Essara is a manual tracker. Its features list does not include family or shared accounts, so one person usually keeps the household list on their own account, and each subscription, bill and mandate is entered by hand. The gain is one timeline: the renewals for the next 30 days, a reminder before each one, and a monthly budget with a daily spending limit. It does not read bank, UPI or SMS data, so every entry depends on what you add."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Collect the lists",
+      "text": "Ask each adult for their Google Play or Apple subscriptions and the Autopay section of their UPI app. Note the amount, cycle and next renewal date."
+    },
+    {
+      "name": "Create the account",
+      "text": "Sign up at essara.space/signup, or install the Android app from Google Play. The same account works on Android and the web app."
+    },
+    {
+      "name": "Add household bills",
+      "text": "Enter electricity, broadband, phone, rent and school fees with the real billing cycle for each."
+    },
+    {
+      "name": "Add shared plans at your share",
+      "text": "Enter a shared cloud or streaming plan at what you pay, and put the full plan name in the entry so the arrangement is clear later."
+    },
+    {
+      "name": "Add mandates by owner",
+      "text": "Enter each UPI AutoPay mandate, naming the person whose UPI app holds it."
+    },
+    {
+      "name": "Set reminders and a budget",
+      "text": "Check the 30-day renewals timeline, confirm a reminder is set before each renewal, then set a monthly budget to see what is left and your daily spending limit."
+    },
+    {
+      "name": "Scan the school or utility bill",
+      "text": "Use the receipt scanner for a fee or utility bill. It reads the merchant, total and date, and you review them before saving. The free plan includes 5 scans a month."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the whole family see one Essara list?",
+      "a": "Essara's feature list does not include family or shared accounts. One person can keep the household list on their own account, which syncs across Android and the web app, and the others can be given the totals. Nothing in the listed features lets a second person open that same account."
+    },
+    {
+      "q": "Does Essara read our bank account or UPI AutoPay mandates automatically?",
+      "a": "No. You add every mandate yourself. Essara never connects to your bank or UPI app, never reads SMS and never asks for your UPI PIN."
+    },
+    {
+      "q": "How do I see all the UPI AutoPay mandates in my family?",
+      "a": "There is no single family list in one app. Each person checks the Autopay section of the UPI app they use, and the mandates are then entered in your tracker. Google Pay groups them in Live, Pending and Completed tabs."
+    },
+    {
+      "q": "Is Essara free for a family?",
+      "a": "The free plan includes unlimited manual expense tracking, 3 months of history, 5 receipt scans a month and 5 subscription slots. A large household with many subscriptions may need a paid plan, which unlocks unlimited history, scans and tracking. Check essara.space/pricing for current prices."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-google-one-india",
+    "cancel-subscriptions/cancel-netflix-subscription-india",
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "learn/pre-debit-notification",
+    "for/couples"
+  ],
+  "sources": [
+    {
+      "label": "Netflix Help Centre — Extra Members",
+      "url": "https://help.netflix.com/en/node/123279"
+    },
+    {
+      "label": "Google One Help — Start or stop sharing with your family",
+      "url": "https://support.google.com/googleone/answer/9004015?hl=en"
+    },
+    {
+      "label": "Apple Support — Set up Family Sharing",
+      "url": "https://support.apple.com/en-in/HT201088"
+    },
+    {
+      "label": "Google Pay Help — Manage your UPI Autopay mandates",
+      "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free OTT subscription cost calculator",
+    "url": "https://essara.space/tools/ott-subscription-cost-calculator"
+  }
+}

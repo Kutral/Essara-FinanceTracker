@@ -1,0 +1,108 @@
+{
+  "slug": "cancel-upi-autopay-amazon-pay",
+  "cluster": "upi-autopay",
+  "title": "Cancel Amazon Pay AutoPay and UPI Mandates (2026)",
+  "metaDescription": "Turn off Amazon Pay Auto Pay and Subscribe & Save payments, then check the UPI mandate in the app that approved it. Learn what to do with a debit already due.",
+  "h1": "How do you cancel Amazon Pay AutoPay without missing a UPI mandate?",
+  "summary": "Amazon Pay's Auto Pay settings sit in the Amazon Pay dashboard under Account, where you can disable or pause a category of recurring payment, and Subscribe & Save payment methods are removed separately on Amazon.in. These steps stop Amazon-run payments only, so also check any UPI mandate in the app or bank that approved it. Cancelling stops future debits but does not refund payments already processed.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Amazon Pay AutoPay", "Amazon Pay Auto Pay disable", "Amazon Pay UPI mandate", "cancel Subscribe and Save payment", "Amazon Pay auto reload cancel"],
+  "about": ["Amazon Pay", "UPI AutoPay", "NPCI"],
+  "stepsHeading": "How to cancel Amazon Pay AutoPay and the matching UPI mandate",
+  "steps": [
+    {
+      "name": "Open the Amazon Pay dashboard",
+      "text": "In the Amazon app, open the Amazon Pay dashboard. Amazon's UPI help page places Auto Pay settings here. The menu may be labelled differently in some app versions."
+    },
+    {
+      "name": "Go to Account, then Auto Pay",
+      "text": "Inside the dashboard, open Account and then Auto Pay."
+    },
+    {
+      "name": "Pick the category to stop",
+      "text": "Select the category of recurring payment you want to stop, such as bills, and open it."
+    },
+    {
+      "name": "Disable, pause or delete",
+      "text": "Choose the option to disable, or to pause or delete, and confirm. Read the confirmation wording before tapping, because the two choices may not work the same way."
+    },
+    {
+      "name": "Remove Subscribe & Save payments separately",
+      "text": "For Subscribe & Save, open the management page on Amazon.in, go to the Settings tab, and choose Remove under Payment Methods. Amazon says the change can take up to 15 minutes to update."
+    },
+    {
+      "name": "Cancel the bank-side mandate",
+      "text": "Amazon says you can also cancel through your bank, using the link in the e-mandate notification, or on your bank's website or portal. Confirm the mandate shows as cancelled, and keep the confirmation."
+    },
+    {
+      "name": "Check the UPI app and NPCI's help route",
+      "text": "Look for the mandate in the UPI app or bank app where it was approved. If you cannot find it, use NPCI's UPI Help assistant at upihelp.npci.org.in, which NPCI says can help you view and manage mandates."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Auto Pay, Subscribe & Save and Auto Reload are separate",
+      "paragraphs": [
+        "Amazon runs several recurring payment features, and each has its own off switch. Amazon's UPI FAQ describes Auto Pay as a set of categories in the Amazon Pay dashboard, where you disable or pause or delete the one you no longer want. Subscribe & Save has its own Payment Methods section, so removing Auto Pay does not change it.",
+        "Auto Reload, which adds money to your Amazon Pay wallet automatically, is a different mandate. Amazon's terms say it can be enabled only through Amazon Pay UPI, and it can be cancelled in the Amazon Pay Wallet settings or with your issuer bank."
+      ]
+    },
+    {
+      "heading": "Check the mandate in the app that approved it",
+      "paragraphs": [
+        "Amazon's pages cover the payments Amazon runs. I could not confirm that Amazon Pay shows every UPI mandate you have approved for other merchants. So a mandate may stay active after you change Amazon's settings.",
+        "Check the UPI app or bank app where the mandate was approved, and look for its AutoPay or Mandates section. The label may vary by app version. If you cannot find it, NPCI's UPI Help assistant is the next route."
+      ]
+    },
+    {
+      "heading": "Loan and Pay Later mandates",
+      "paragraphs": [
+        "Amazon Pay Personal Loan works differently. Amazon's help page for the loan says the lender, L&T Finance, cancels the mandate automatically within 20 working days, and that you can also cancel by calling your bank.",
+        "Before you stop any mandate tied to a loan, check the loan terms, because a missed debit can have consequences on the loan itself."
+      ]
+    },
+    {
+      "heading": "Pending debits and refunds",
+      "paragraphs": [
+        "Cancelling stops future auto-debits. It does not automatically refund payments already processed. Amazon's UPI FAQ also says a payment initiated by entering your UPI PIN cannot be cancelled, so the time to act on a debit that is due soon is before it is initiated.",
+        "Razorpay's developer FAQ describes UPI AutoPay pre-debit notifications as going out about 24 hours before a debit. That notice is your window. If an unexpected debit still goes through, contact Amazon Pay support and raise a UPI complaint in the app through which the payment went."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker. You add each mandate yourself, and it shows the auto-debits due in the coming week and month. It does not connect to your bank, UPI app or SMS, and it never asks for your UPI PIN, so it cannot change an Amazon setting for you. It keeps the date in front of you, so you can check the mandate before the debit."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I pause Amazon Pay Auto Pay instead of deleting it?",
+      "a": "Amazon's UPI FAQ lists disable, and pause or delete, as the choices in the Auto Pay section. Read the confirmation screen before you tap, because the wording tells you whether the setting is paused or removed."
+    },
+    {
+      "q": "Does removing Subscribe & Save stop the UPI mandate too?",
+      "a": "Not necessarily. Removing the payment method on Amazon.in is the Amazon side of the change. Amazon also says you can cancel through your bank, using the link in the e-mandate notification, so check the mandate in your bank or UPI app as well."
+    },
+    {
+      "q": "Is Auto Reload the same as Auto Pay?",
+      "a": "No. Auto Reload adds money to your Amazon Pay wallet automatically. Amazon says it can be cancelled in the Amazon Pay Wallet settings or with your issuer bank."
+    },
+    {
+      "q": "Can I get a refund after I cancel an Amazon Pay debit?",
+      "a": "Cancelling stops future payments but does not refund payments already processed. For an unexpected debit, contact Amazon Pay support and also raise a UPI complaint in the app through which the payment went."
+    },
+    {
+      "q": "What if the Amazon Pay Personal Loan keeps debiting me?",
+      "a": "Amazon's help page for the personal loan says L&T Finance cancels the mandate automatically within 20 working days, and that you can cancel by calling your bank. Do not rely on the Amazon app alone for a loan mandate."
+    }
+  ],
+  "related": ["cancel-upi-autopay-google-pay", "cancel-upi-autopay-paytm", "find-all-upi-autopay-mandates", "cancel-upi-autopay-bhim", "cancel-amazon-prime-india"],
+  "sources": [
+    { "label": "Amazon Customer Service: Unified Payment Interface (UPI) FAQs", "url": "https://www.amazon.in/gp/help/customer/display.html?nodeId=202212990" },
+    { "label": "Amazon Customer Service: Manage your Subscribe & Save payment method", "url": "https://www.amazon.in/gp/help/customer/display.html?nodeId=G5WVQH8J9METZRLY" },
+    { "label": "Amazon Customer Service: Amazon Pay Personal Loan", "url": "https://www.cdn.amazon.in/gp/help/customer/display.html?nodeId=TjHoKDEqYgudIQLz70" },
+    { "label": "Razorpay: UPI mandates FAQ (developer documentation)", "url": "https://razorpay.com/docs/payments/recurring-payments/upi/faqs.md" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "cancel-audible-india",
+  "cluster": "cancel-subscriptions",
+  "title": "How to Cancel Audible Membership in India (2026)",
+  "metaDescription": "Cancel your Audible India membership or stop auto-renewal, check what happens to credits, pause instead if you want a break, and revoke the UPI AutoPay mandate.",
+  "h1": "How do I cancel my Audible membership in India and stop it renewing?",
+  "summary": "You can cancel an Audible membership in India from your account on audible.in, and cancelling stops the automatic renewal. Audiobooks you already added to your library with a credit stay yours, but check your unused credits before you finish. If you pay through UPI, the AutoPay mandate sits in your UPI app and needs to be revoked separately.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Audible membership India", "Audible auto renewal", "pause Audible membership", "Audible UPI AutoPay", "Audible credits after cancelling"],
+  "about": ["Audible", "UPI AutoPay", "Google Pay"],
+  "stepsHeading": "How to cancel Audible membership in India",
+  "steps": [
+    { "name": "Sign in on audible.in", "text": "Sign in with the account that holds the membership. If you are not sure which account it is, check the email address on your Audible payment receipts." },
+    { "name": "Open your membership details", "text": "Select your username and look for membership details or Account details. The label can differ between the website, a mobile browser and the app, so look for the membership section if the wording is different." },
+    { "name": "Choose Cancel membership", "text": "Select Cancel membership and go through the confirmation steps shown on screen." },
+    { "name": "Keep the confirmation", "text": "Save the confirmation email. If it does not arrive, contact Audible customer support and ask them to confirm the cancellation." },
+    { "name": "Check your credits", "text": "Before confirming, note any unused credits in your account. Ask Audible support whether they carry over if you are unsure." },
+    { "name": "Revoke the UPI mandate", "text": "If you paid by UPI, open the AutoPay or Mandates section of your UPI app, find the Audible mandate and cancel it there." },
+    { "name": "Check store billing", "text": "If your membership was billed through Google Play or the App Store, cancel it in that store instead of on Audible." }
+  ],
+  "sections": [
+    {
+      "heading": "Cancelling on the Audible website and app",
+      "paragraphs": [
+        "Audible's India help centre describes cancelling from your account on audible.in: you open the menu under your username, go to your membership details, and select Cancel membership. The exact label may read differently depending on your device and app version, so look for the membership or account section under your username if the wording does not match.",
+        "Deleting the Audible app does not end the membership, so uninstalling it is not a way to cancel. If the membership was bought through Google Play or the App Store, that store's subscription settings control billing. Google Play's help says the same thing about its own subscriptions: uninstalling the app does not cancel it, and you cancel from the subscriptions page in Google Play."
+      ]
+    },
+    {
+      "heading": "What happens to credits and audiobooks after cancelling",
+      "paragraphs": [
+        "Audible's India homepage says that titles added to your library with a credit are yours to keep, even if you cancel. Audiobooks you have already bought stay in your library after the membership ends.",
+        "Unused credits are the part that needs checking. Audible's India help text on pausing says existing credits remain available during a pause. Help pages for other Audible countries say remaining credits can be lost when a membership is cancelled. Before you cancel, look at your credit balance and ask Audible support whether any unused credits will carry over."
+      ],
+      "list": [
+        "Titles already in your library stay there after cancelling.",
+        "Unused credits may not carry over, so check the balance first.",
+        "Ask support in writing if the balance matters to you."
+      ]
+    },
+    {
+      "heading": "Pausing instead of cancelling",
+      "paragraphs": [
+        "If you want a break rather than a full cancellation, Audible's help article on pausing describes a pause option under Account details on audible.in. According to that article, a membership can be paused once every 12 months, for up to 90 days, and only after 30 days of paid membership.",
+        "During a pause your payments stop and existing credits remain, but you do not receive new credits. The membership renews automatically when the pause ends unless you cancel it before then. The same article says memberships billed through Google Play are not eligible for a pause, so use the store's settings if that applies to you."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay mandate",
+      "paragraphs": [
+        "Audible's homepage says it now accepts UPI. A UPI payment set up as AutoPay creates a mandate that lives in your UPI app, not in Audible. Cancelling the membership on Audible and revoking the mandate are two separate steps, and doing only one can leave the other active.",
+        "In Google Pay, tap your profile picture, select Autopay, open the mandate in the Live tab, and choose Cancel autopay. Google Pay asks for your UPI PIN to confirm. The same menu also offers Pause autopay with a start and end date. Other UPI apps use different labels, often under Mandates or Recurring payments, so search the app for the Audible entry."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker. You add Audible yourself with its renewal date and amount, and you can note the UPI mandate you want to check. It does not connect to your bank or UPI app, so it cannot see the charge or revoke the mandate for you. Recording the renewal date gives you a reminder to check the mandate before the next debit."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Will I get a refund if I cancel my Audible membership?", "a": "This guide does not confirm Audible India's refund rules, so it cannot say whether a recent renewal is refundable. Check the refund article in Audible's help centre, or contact Audible customer support with the date of the charge before you cancel." },
+    { "q": "Does deleting the Audible app cancel my membership?", "a": "No. Audible's help says deleting the app does not cancel a membership. Cancel through the Audible website or through the store that billed you." },
+    { "q": "Can I keep the audiobooks I bought after cancelling?", "a": "Yes. Audible's India homepage says titles added to your library with a credit are yours to keep, even if you cancel." },
+    { "q": "Will cancelling Audible stop the UPI AutoPay charge?", "a": "Not automatically. The membership and the UPI mandate are separate, so cancel on Audible and also revoke the mandate in your UPI app." },
+    { "q": "How long can I pause my Audible membership?", "a": "According to Audible's pause help article, you can pause once every 12 months for up to 90 days, after at least 30 days of paid membership. Check the article for the current terms, as they can change." }
+  ],
+  "related": ["cancel-amazon-prime-india", "cancel-spotify-premium-india", "cancel-upi-autopay-google-pay", "free-trial-auto-renewal"],
+  "sources": [
+    { "label": "Audible India homepage", "url": "https://www.audible.in/" },
+    { "label": "Audible India help: cancel membership", "url": "https://help.audible.in/s/article/cancel-membership" },
+    { "label": "Audible India help: pause your membership", "url": "https://help.audible.in/s/article/pause-your-membership" },
+    { "label": "Google Pay help: manage UPI AutoPay mandates", "url": "https://support.google.com/pay/india/answer/10840624" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "salaried-professionals",
+  "cluster": "for",
+  "title": "Budget Your Salary and Track SIPs in India (2026)",
+  "metaDescription": "Salaried professionals can log salary, bills and subscriptions, check a daily spending limit against the monthly budget, and track SIPs in one manual tracker.",
+  "h1": "Where does your salary go each month, and how do you track it?",
+  "summary": "A salaried professional can see where the salary goes by logging it as income, then recording each expense against a monthly budget that shows what is left and a daily spending limit. Mutual fund SIPs can sit in the same tracker as your other recurring costs. Essara is manual: you enter every item yourself, and it never connects to your bank, UPI app or SMS.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "salary budget India",
+    "daily spending limit",
+    "track SIP India",
+    "monthly budget for salaried employees",
+    "where does my salary go"
+  ],
+  "about": [
+    "Systematic investment plan",
+    "Personal budget",
+    "Mutual fund"
+  ],
+  "stepsHeading": "Set up your salary budget in Essara",
+  "steps": [
+    {
+      "name": "Finish onboarding",
+      "text": "Open essara.space/signup, choose a clean start or sample data, pick your base currency and set a monthly budget."
+    },
+    {
+      "name": "Set category budgets",
+      "text": "Open Settings, then Budget, and set a monthly target for each category. The product manual suggests starting with five: rent, groceries, transport, subscriptions and one discretionary bucket."
+    },
+    {
+      "name": "Log your salary as income",
+      "text": "Add your take-home pay in the Transactions ledger, which Essara describes as a manual income and expense ledger."
+    },
+    {
+      "name": "Add fixed bills as subscriptions",
+      "text": "Anything billed on a fixed cadence, such as rent, electricity, broadband or your phone plan, goes in Subscriptions so it shows on the renewal calendar."
+    },
+    {
+      "name": "Record SIPs under Investments",
+      "text": "Add each SIP in the Investments module, which covers SIPs alongside stocks, FDs, PPF, gold and crypto."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Start with the salary, then the fixed costs",
+      "paragraphs": [
+        "Begin with your take-home pay, then write down the fixed costs: rent, bills, phone and internet, any loan instalments, subscriptions and SIP amounts. What remains after those is the money your monthly budget has to work with.",
+        "The product manual suggests starting with a handful of budget categories and adding more later. A short list is easier to keep up to date than a detailed one that is abandoned in the second week."
+      ]
+    },
+    {
+      "heading": "Use the daily limit and the budget pace",
+      "paragraphs": [
+        "Essara's monthly budget shows what is left to spend and a daily spending limit. The product manual recommends a short morning check: open the dashboard, look at the budget-pace bar, and note any category that is already more than 30 percent spent by mid-week.",
+        "The way the daily limit is worked out is shown on your Budget settings. Check it the first time you use it, rather than assuming a formula."
+      ]
+    },
+    {
+      "heading": "How a SIP works and what to track",
+      "paragraphs": [
+        "A systematic investment plan (SIP) puts a fixed amount into a mutual fund at regular intervals. SEBI's investor FAQ describes it as a way to invest as you earn, which lets you enter the market regularly and averages the acquisition cost of your units.",
+        "Because the amount is fixed, the number of units you receive depends on the fund's NAV on each date. SEBI's example shows ₹1,000 buying 100 units at a NAV of 10, and about 105.26 units at a NAV of 9.5. The example shows units bought, not returns, so track the amount you invested each month and the units you hold, and check the current value in the fund's statement.",
+        "Essara's investment tracker covers SIPs alongside stocks, fixed deposits, PPF, gold and crypto. Essara has no broker or demat login and never places trades, so you enter SIP amounts and holdings yourself."
+      ]
+    },
+    {
+      "heading": "Keep SIPs and bills in one monthly total",
+      "paragraphs": [
+        "A monthly total that includes SIPs, bills and subscriptions shows how much of the salary is already committed before you start spending. The Essara dashboard shows monthly pace and a category breakdown, according to the product manual.",
+        "Whether an SIP is debited from a bank account, a UPI mandate or a card depends on how you set it up with the fund house. If it is a UPI mandate, you can add it to Essara's UPI AutoPay tracker yourself."
+      ]
+    },
+    {
+      "heading": "A routine that keeps the numbers honest",
+      "paragraphs": [
+        "The product manual describes a 3-minute first setup, a 5-minute daily flow for logging spend, a 15-minute Sunday review and a 30-minute monthly reset at month end. The daily entries matter most, because the Sunday review and the monthly reset are only as accurate as the entries behind them."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find out where my salary went each month?",
+      "a": "Log the salary as income and log every expense against a category. The category breakdown shows spending by category, and the remaining budget shows what is left. Compare that with your fixed costs and SIPs to see how much is discretionary."
+    },
+    {
+      "q": "Is a SIP the same as a recurring deposit?",
+      "a": "No. A SIP buys mutual fund units at the NAV on each instalment date, so its value can rise or fall. Read the scheme's documents before you start one."
+    },
+    {
+      "q": "How much of my salary should go into SIPs?",
+      "a": "Essara does not set a target share. Decide the amount from your own fixed costs and budget, then use the monthly total to check whether it fits."
+    },
+    {
+      "q": "What is the daily spending limit in Essara?",
+      "a": "It is a figure shown with your monthly budget that indicates how much you can spend each day and still stay within the month's budget. Check the Budget settings for the calculation used in your account."
+    },
+    {
+      "q": "Does Essara connect to my salary account and detect salary credits?",
+      "a": "No. Essara never connects to your bank, UPI app or SMS, so you add the salary yourself."
+    },
+    {
+      "q": "Can I track SIPs without linking my demat account?",
+      "a": "Yes. Essara has no broker or demat login. You enter SIP amounts and holdings manually, and Essara never places trades."
+    }
+  ],
+  "related": [
+    "learn/50-30-20-rule-india",
+    "learn/money-leaks",
+    "learn/subscription-audit-checklist",
+    "learn/manual-vs-automatic-expense-tracking",
+    "for/families"
+  ],
+  "sources": [
+    {
+      "label": "SEBI FAQs for mutual fund investors (PDF)",
+      "url": "https://www.sebi.gov.in/sebi_data/faqfiles/sep-2024/1727242783639.pdf"
+    },
+    {
+      "label": "Essara product manual",
+      "url": "https://essara.space/docs"
+    },
+    {
+      "label": "Essara download page and FAQ",
+      "url": "https://essara.space/download"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free monthly money leak calculator",
+    "url": "https://essara.space/tools/monthly-money-leak-calculator"
+  }
+}

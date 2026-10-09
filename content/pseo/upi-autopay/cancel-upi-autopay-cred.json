@@ -1,0 +1,108 @@
+{
+  "slug": "cancel-upi-autopay-cred",
+  "cluster": "upi-autopay",
+  "title": "Stop CRED AutoPay and UPI Mandates: Pause or Cancel (2026)",
+  "metaDescription": "Pause CRED AutoPay for card bills in the CRED app, find the UPI mandate behind it, and check with the lender before stopping a CRED Flash loan mandate.",
+  "h1": "How do you stop CRED AutoPay and the UPI mandates behind it?",
+  "summary": "CRED lets you set a monthly AutoPay for credit card bills, and CRED says members can pause or stop it on the CRED app. CRED's UPI FAQ does not explain how to revoke a UPI mandate, so check the mandate in the UPI app or bank that approved it. If the payment is a CRED Flash loan, speak to the lender first, because the loan agreement lists instructing your bank to stop the mandate among events of default.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel CRED AutoPay", "stop CRED autopay credit card bill", "CRED UPI mandate", "CRED Flash autopay opt out", "revoke UPI mandate CRED"],
+  "about": ["CRED", "UPI AutoPay", "NPCI"],
+  "stepsHeading": "How to stop CRED AutoPay and check the UPI mandate",
+  "steps": [
+    {
+      "name": "Open the CRED app and find the AutoPay",
+      "text": "Open CRED and go to the credit card whose bill is on AutoPay. The label and screen can vary by app version, so look for the AutoPay setting against the card or bill."
+    },
+    {
+      "name": "Review the AutoPay details",
+      "text": "Check the monthly date, the bank account it draws from and the amount. CRED's announcement says AutoPay can cover a bill of up to ₹2 lakh a month, so confirm that you know which bills it covers."
+    },
+    {
+      "name": "Pause or stop it",
+      "text": "Choose to pause or stop AutoPay, which CRED says members can do on the CRED app. Keep the confirmation screen or take a screenshot."
+    },
+    {
+      "name": "Watch for CRED's notices",
+      "text": "CRED says it notifies you when a bill is generated, before the payment is processed, and after it is completed. Use the pre-payment notice to check that the change took effect before the next cycle."
+    },
+    {
+      "name": "Check any UPI mandate in the app that approved it",
+      "text": "If you also approved a UPI mandate for a subscription or another bill, open the UPI app or bank app where it was approved and check its AutoPay or Mandates section. Do not assume that stopping the CRED setting has stopped it."
+    },
+    {
+      "name": "Speak to the lender before stopping a CRED Flash mandate",
+      "text": "CRED Flash autopay is switched off by opting out in the CRED app, but a loan mandate belongs to the lender. Contact the lender before you stop it, and do not close the linked bank account without written consent."
+    },
+    {
+      "name": "Use NPCI's help route if the mandate will not stop",
+      "text": "If you cannot find the mandate, use NPCI's UPI Help assistant at upihelp.npci.org.in, which NPCI says can help you view and manage mandates. For a debit you did not authorise, raise a complaint in the UPI app first."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "CRED's own card-bill AutoPay",
+      "paragraphs": [
+        "CRED's newsroom announcement describes AutoPay for credit card bills. You choose a date each month, and the bill amount, up to ₹2 lakh, is paid from your preferred bank account. CRED says it notifies you when a bill is generated, before the payment is processed, and after it is completed.",
+        "CRED says members can pause or stop AutoPay on the CRED app. The announcement does not describe the exact menu, so the wording on your screen is the guide. Keep a record of the change, because the next bill date is when you will see whether it worked."
+      ]
+    },
+    {
+      "heading": "UPI mandates CRED does not explain",
+      "paragraphs": [
+        "CRED's UPI FAQ page covers the roles of NPCI and the banks and the complaint process. It does not explain how to view or revoke a UPI mandate. So a mandate approved through CRED, or through any other app, has to be checked in the app or bank where it was approved.",
+        "NPCI's UPI Help assistant is the other route. NPCI says it can help you view and manage mandates, and it is the place to start if the approving app cannot find the mandate."
+      ]
+    },
+    {
+      "heading": "CRED Flash loan mandates need the lender",
+      "paragraphs": [
+        "The CRED Flash agreement says the lender may require an e-NACH or UPI mandate so that the outstanding amount can be transferred automatically, and that the lender may present the mandate to recover dues. The borrower agrees not to close the linked bank account without the lender's prior written consent.",
+        "The agreement lists the borrower instructing its bank to stop payment of the mandate among the events that count as default. Opting out of the Autopay Service in the CRED app stops the bill payments that service covers, but it does not change the loan. Speak to the lender before you stop anything."
+      ]
+    },
+    {
+      "heading": "If a debit still goes through",
+      "paragraphs": [
+        "CRED's UPI FAQ reproduces the dispute order for UPI complaints. The complaint goes first to the app through which the payment was made, then to the PSP bank, then to your bank, then to NPCI, and finally to the Banking Ombudsman or the Ombudsman for Digital Complaints.",
+        "Keep screenshots of the debit, the cancellation and each complaint reference. Pre-debit notices and CRED's bill notifications are your best evidence of what was due and when."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker. You add each mandate and subscription yourself, and it shows the auto-debits due in the coming week and month. It does not connect to your bank, UPI app or SMS, and it never asks for your UPI PIN, so it cannot pause a CRED setting for you. It keeps the date visible so the check happens before the debit."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I pause AutoPay for credit card bills in CRED?",
+      "a": "CRED's newsroom says members can pause or stop AutoPay on the CRED app. The announcement does not give the exact label, so look for the AutoPay setting against the card or bill in the app."
+    },
+    {
+      "q": "Does stopping CRED AutoPay also cancel the UPI mandate?",
+      "a": "CRED's pages I checked do not say whether a CRED AutoPay has a UPI mandate behind it. Check the mandate in the UPI app or bank that approved it rather than assuming it has stopped."
+    },
+    {
+      "q": "Can I stop a CRED Flash loan by switching off autopay?",
+      "a": "Opting out of the Autopay Service stops the bill payments that service covers, but the loan agreement puts the mandate with the lender. The agreement lists instructing your bank to stop the mandate among events of default, so speak to the lender before you act."
+    },
+    {
+      "q": "Will CRED tell me before it pays a bill?",
+      "a": "Yes, according to CRED's newsroom announcement. CRED says it notifies members when a bill is generated, before the payment is processed, and after it is completed."
+    },
+    {
+      "q": "Where do I raise a complaint about an unexpected UPI debit?",
+      "a": "Start in the UPI app through which the payment was made. If that does not resolve it, the complaint goes to the PSP bank, then your bank, then NPCI, and finally the Banking Ombudsman or the Ombudsman for Digital Complaints, as CRED's UPI FAQ sets out."
+    }
+  ],
+  "related": ["find-all-upi-autopay-mandates", "cancel-upi-autopay-bhim", "cancel-upi-autopay-amazon-pay", "pre-debit-notification", "card-standing-instructions-vs-upi-autopay"],
+  "sources": [
+    { "label": "CRED newsroom: CRED adds multibill payment and autopay to simplify credit card bill payments", "url": "https://newsroom.cred.club/cred-adds-multibill-payment-and-autopay-to-simplify-credit-card-bill-payments/" },
+    { "label": "CRED: UPI FAQs and grievances", "url": "https://cred.club/upi-faqs" },
+    { "label": "CRED: CRED Flash customer agreement", "url": "https://cred.club/cred-parfait-flash-customer-agreement" },
+    { "label": "CRED: customer care", "url": "https://cred.club/customer-care" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

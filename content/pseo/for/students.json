@@ -59,7 +59,7 @@
   "steps": [
     {
       "name": "Gather your list",
-      "text": "Open Google Play subscriptions or the Apple Subscriptions screen, and the Autopay section of your UPI app. Note each item, its price and when it renews."
+      "text": "Open Google Play or Apple subscriptions and the Autopay section of your UPI app. Note each item, its price and renewal date."
     },
     {
       "name": "Create your account",
@@ -79,11 +79,11 @@
     },
     {
       "name": "Set your allowance and budget",
-      "text": "Log your pocket money as income, then set a monthly budget. The app shows what is left to spend and a daily spending limit."
+      "text": "Log your pocket money as income, then set a monthly budget to see what is left to spend and your daily limit."
     },
     {
       "name": "Scan your first receipt",
-      "text": "Scan a canteen or stationery bill with the receipt scanner. It reads the merchant, total and date; review the details before you save. The free plan includes 5 scans a month."
+      "text": "Scan a canteen or stationery bill. The scanner reads the merchant, total and date, and you review them before saving. The free plan includes 5 scans a month."
     }
   ],
   "faqs": [

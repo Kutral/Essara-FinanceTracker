@@ -1,0 +1,109 @@
+{
+  "slug": "streaming-households",
+  "cluster": "for",
+  "title": "Household OTT Subscriptions in India: Cost and Overlap",
+  "metaDescription": "Track OTT, music and telecom-bundled plans for your household in India. Split shared plans, total the real monthly cost, and spot overlapping catalogues.",
+  "h1": "How do households in India keep track of many OTT plans?",
+  "summary": "A household with several streaming plans can list every OTT, music and bundled service with its billing cycle, to see the real monthly and yearly total. Shared plans are best split by the number of people who use them, and overlapping catalogues show up when you check which shows each service carries. Essara's free OTT subscription cost calculator does the totals and splits, but it cannot see which shows sit on which app, so that check stays with you.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "OTT subscription cost India",
+    "family streaming plan split",
+    "overlapping OTT subscriptions",
+    "telecom OTT bundle India",
+    "household streaming subscriptions"
+  ],
+  "about": [
+    "Over-the-top media services",
+    "Streaming media",
+    "Shared subscription"
+  ],
+  "sections": [
+    {
+      "heading": "Why a household's streaming bill is hard to see",
+      "paragraphs": [
+        "Streaming plans are billed in different ways. One household may pay by card, through a UPI AutoPay mandate, through Google Play or through the Apple App Store, and each one renews on its own date. Essara's comparison notes that the NPCI UPI help portal only shows UPI AutoPay mandates, so card-billed OTT and app-store plans do not appear there.",
+        "Closing the app is not always enough. Netflix's help page says that signing out of your account or deleting the Netflix app does not cancel your account, and that if you cancel with time left in the billing period, you can keep using Netflix until it closes at the end of that period.",
+        "Some telecom recharge and broadband plans include OTT access. Those benefits change by plan and by operator, so record the plan, the services it includes and its validity date, and confirm the current details in the operator's own app."
+      ]
+    },
+    {
+      "heading": "Shared plans and the per-person cost",
+      "paragraphs": [
+        "Essara's OTT calculator asks how many people share each plan, from 1 to 8, and turns the plan cost into a per-person share. It also normalises weekly, monthly, quarterly, half-yearly and yearly billing into one monthly figure and one yearly total.",
+        "Check the provider's rules before you share a plan beyond your home. Whether a plan allows household sharing, and how many screens it allows at once, is set by the provider, not by the calculator."
+      ]
+    },
+    {
+      "heading": "Overlapping catalogues: what to check by hand",
+      "paragraphs": [
+        "Two services can carry the same films or series, and paying for both is the overlap to look for. The calculator flags repeated service names, but its own note says that check looks only at names and cannot see which shows sit on which app. To test overlap, search for the titles you watch most on each service and keep the cheaper service where both carry them, which is the approach the calculator suggests.",
+        "The calculator also suggests cancelling any service you have not opened in 30 days before looking for overlap. Treat that as a starting point for a household conversation rather than a rule."
+      ]
+    },
+    {
+      "heading": "Cancelling a plan and confirming it stopped",
+      "paragraphs": [
+        "Cancel where the plan is billed. For Netflix, use the cancellation option in your account. If that option is missing, the Netflix help page says to cancel with your payment partner. For Google Play or the Apple App Store, cancel in that store. Google says access continues for the period you have already paid for.",
+        "Afterwards, check that the renewal no longer appears in your billing account, and check that no other card or mandate is still billing for the same service. Apple's support page says a missing Cancel button or a red expiry message means the subscription has already been cancelled."
+      ]
+    },
+    {
+      "heading": "Tracking the household stack in Essara",
+      "paragraphs": [
+        "Once each plan is in Essara's subscription list, the monthly and yearly totals, the renewals due in the next 30 days and a reminder before every renewal sit in one place. The calculator's cost per hour is an estimate from the hours you enter, not measured screen time, so treat it as a rough guide."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I work out the real monthly cost of all my OTT plans?",
+      "a": "Add each plan with its price and billing cycle. The calculator converts weekly, quarterly, half-yearly and yearly plans into a monthly figure and a yearly total. Check current prices on each provider's own plan page first, because the calculator states that its prices were checked in April 2026."
+    },
+    {
+      "q": "Can I split a family streaming plan between members?",
+      "a": "Yes, in the calculator, by setting how many people share the plan from 1 to 8. The result shows each person's share. Confirm with the provider that the plan allows that kind of sharing."
+    },
+    {
+      "q": "Does deleting the Netflix app cancel my plan?",
+      "a": "No. Netflix's help page says that signing out of your account or deleting the app does not cancel the account. Cancel from the account itself, and you can use the service until the end of the billing period you have already paid for."
+    },
+    {
+      "q": "Does Essara know which shows are on which streaming app?",
+      "a": "No. The repeated-name check looks only at service names, and Essara does not connect to any streaming account. Check each title on each app yourself."
+    },
+    {
+      "q": "Are telecom plan OTT benefits tracked automatically?",
+      "a": "No. Essara does not connect to a telecom account. If you want the plan counted, add it yourself as a subscription with its validity date."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-netflix-subscription-india",
+    "cancel-subscriptions/cancel-jiohotstar-subscription",
+    "cancel-subscriptions/cancel-amazon-prime-india",
+    "cancel-subscriptions/cancel-spotify-premium-india",
+    "for/families"
+  ],
+  "sources": [
+    {
+      "label": "Netflix Help: How to cancel Netflix",
+      "url": "https://help.netflix.com/en/node/407"
+    },
+    {
+      "label": "Essara OTT subscription cost calculator",
+      "url": "https://essara.space/tools/ott-subscription-cost-calculator"
+    },
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481"
+    },
+    {
+      "label": "Essara download page and FAQ",
+      "url": "https://essara.space/download"
+    }
+  ],
+  "essaraTool": {
+    "label": "OTT subscription cost calculator",
+    "url": "https://essara.space/tools/ott-subscription-cost-calculator"
+  }
+}

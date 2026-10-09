@@ -114,6 +114,8 @@ export function loadPages() {
       const wc = words(p);
       if (wc < 450) err(`thin content: ${wc} words (min 450)`);
       if (/\b(SOC ?2|256-bit|bank sync|4\.8 ?★|1,?247)\b/i.test(JSON.stringify(p))) err('contains a banned claim (see content/FACTS.md)');
+      // Accept related entries written as "cluster/slug" as well as bare slugs.
+      p.related = (p.related || []).map((r) => String(r).split('/').pop());
       p.dir = CLUSTERS[cluster].dir;
       p.wordCount = wc;
       pages.push(p);

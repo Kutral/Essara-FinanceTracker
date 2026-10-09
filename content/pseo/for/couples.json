@@ -1,0 +1,135 @@
+{
+  "slug": "couples",
+  "cluster": "for",
+  "title": "Subscription & Expense Tracker for Couples in India",
+  "metaDescription": "Sort shared bills from personal subscriptions, spot duplicate plans and track UPI AutoPay for both of you. Set up Essara in about 10 minutes, one list each.",
+  "h1": "How can couples in India separate shared bills from personal subscriptions?",
+  "summary": "Couples in India often pay for the same service twice without noticing: two music plans, two cloud storage plans, or two streaming logins, alongside rent, electricity and broadband that are split in some way. A manual tracker such as Essara helps each partner record their own subscriptions and their share of joint bills, see upcoming renewals, and spot overlaps, without connecting a bank account.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "couples expense tracker India",
+    "shared subscriptions couples India",
+    "duplicate subscriptions India",
+    "split bills app India",
+    "track shared bills India"
+  ],
+  "about": [
+    "Google One",
+    "Apple Family Sharing",
+    "UPI AutoPay"
+  ],
+  "stepsHeading": "Set it up in 10 minutes",
+  "sections": [
+    {
+      "heading": "Shared bills versus personal subscriptions",
+      "paragraphs": [
+        "Most arguments about money in a couple come from not knowing what is shared. Rent, electricity and broadband are usually joint, while a music plan, a gaming subscription or a fitness app is often personal. The problem is that personal subscriptions can quietly overlap: both partners may pay for storage, music or a streaming service that the other already has.",
+        "Decide the rule before you start. Either one partner keeps a joint list and both of you record only your share, or each of you keeps a personal list and the joint bills go on one of them. Essara's features are per account and do not include a joint or shared account, so the couple agrees the split in advance and each records what they pay."
+      ]
+    },
+    {
+      "heading": "Finding duplicate plans before you pay twice",
+      "paragraphs": [
+        "Duplicates usually show up in cloud storage, because each partner's phone asks for more space. Google One has a family option: the plan manager can share storage with up to five family members. To join, the people you invite need to live in the same country as the manager, and the manager must be 18 or older. Google's help page also says sharing is not available on the 30 GB Lite plan, so check which plan you are on before you consolidate.",
+        "Apple's Family Sharing is the equivalent on iPhone. It lets an organiser and up to five family members share services such as iCloud+, Apple Music and Apple TV, without sharing one Apple Account. For a couple already paying for two separate Apple plans, that is the first thing to compare before renewing either one."
+      ]
+    },
+    {
+      "heading": "Cancelling a plan the other one pays for",
+      "paragraphs": [
+        "Cancelling is where couples most often get stuck, because the subscription may sit under the other partner's account. On Android, Google Play says to sign in to the Google Account that holds the subscription, and to switch accounts if you cannot find it. Google also keeps access running until the end of the period you have already paid for.",
+        "On iPhone, Apple's help page says a subscription is cancelled from Settings, by tapping your name, then Subscriptions. If a family member's Apple Account is on the receipt, only that person can cancel it, so ask your partner rather than trying yourself. Afterwards, check the same screen again to confirm the Cancel button has gone or an expiry message has appeared."
+      ]
+    },
+    {
+      "heading": "Shared UPI AutoPay mandates",
+      "paragraphs": [
+        "A UPI AutoPay mandate is usually visible only in the UPI app of the person who approved it. If your partner set up a broadband or insurance mandate on their phone, you will not see it in yours. Ask them to open the Autopay section once and write down the merchant, amount, frequency and next debit date, then enter it in your shared list under their name.",
+        "Google Pay's help page shows that mandates sit in Live, Pending and Completed tabs. To pause or cancel a live mandate, you choose Pause autopay or Cancel autopay and enter your UPI PIN, and you can set a start and end date when pausing. Pausing or cancelling needs that app's owner, so agree in advance who manages each mandate."
+      ]
+    },
+    {
+      "heading": "Tracking both of you in Essara",
+      "paragraphs": [
+        "Essara is a manual tracker. Each partner can enter their own subscriptions and mandates, and the joint bills can be entered at each person's share, with the full amount in the entry name. The app then shows the monthly and yearly cost, the renewals for the next 30 days with a reminder before each one, and a monthly budget with a daily spending limit. It does not read bank, UPI or SMS data, so the list is only as accurate as what you enter."
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "name": "Agree on the split",
+      "text": "Decide which bills are joint, which subscriptions are personal, and who manages each joint bill."
+    },
+    {
+      "name": "Each partner lists personal plans",
+      "text": "Open your Google Play or Apple subscriptions and the Autopay section of your UPI app, and note each item with its price and renewal date."
+    },
+    {
+      "name": "Look for overlaps",
+      "text": "Compare the two lists side by side. Storage, music and streaming are the usual duplicates. Check whether a family plan could cover both of you."
+    },
+    {
+      "name": "Create your account",
+      "text": "Each partner signs up at essara.space/signup or installs the Android app from Google Play. Each account works on Android and the web app."
+    },
+    {
+      "name": "Add joint bills at your share",
+      "text": "Enter rent, electricity, broadband or phone at what you pay, with the full bill amount written in the entry name."
+    },
+    {
+      "name": "Add personal subscriptions and mandates",
+      "text": "Enter each subscription with its cycle and renewal date, and each UPI AutoPay mandate on the account of the partner whose app holds it."
+    },
+    {
+      "name": "Set reminders and a budget",
+      "text": "Check the 30-day renewals timeline, confirm a reminder is set before each renewal, then set a monthly budget with a daily spending limit."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can my partner and I see one shared Essara list?",
+      "a": "Not as a joint account. Essara's listed features do not include shared or joint accounts. Each of you keeps your own account, records your own subscriptions, and records your share of the joint bills. Agree the totals between you."
+    },
+    {
+      "q": "How do we stop paying for two storage plans?",
+      "a": "Check whether one of you can join the other's Google One family group or Apple Family Sharing group. Google requires invitees to live in the same country as the manager, and the plan manager must be 18 or older. Confirm the current rules on your plan before you cancel either one."
+    },
+    {
+      "q": "Can I cancel my partner's Apple subscription for them?",
+      "a": "Not if it is their Apple Account on the receipt. Apple says only the Apple Account shown on the receipt can cancel it, so ask your partner to sign in and cancel it themselves."
+    },
+    {
+      "q": "Does Essara connect to our bank accounts?",
+      "a": "No. Essara is manual. You add subscriptions, bills and UPI AutoPay mandates yourself. It never connects to your bank or UPI app, never reads SMS and never asks for your UPI PIN."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-google-one-india",
+    "cancel-subscriptions/cancel-spotify-premium-india",
+    "learn/money-leaks",
+    "learn/subscription-audit-checklist",
+    "for/families"
+  ],
+  "sources": [
+    {
+      "label": "Apple Support — Set up Family Sharing",
+      "url": "https://support.apple.com/en-in/HT201088"
+    },
+    {
+      "label": "Google One Help — Start or stop sharing with your family",
+      "url": "https://support.google.com/googleone/answer/9004015?hl=en"
+    },
+    {
+      "label": "Google Play Help — Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481?hl=en"
+    },
+    {
+      "label": "Apple Support — Cancel a subscription from Apple",
+      "url": "https://support.apple.com/en-in/118428"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}

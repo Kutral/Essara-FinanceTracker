@@ -2,7 +2,7 @@
   "slug": "free-trial-auto-renewal",
   "cluster": "learn",
   "title": "Free Trial Auto-Renewal: How to Avoid Unwanted Charges",
-  "metaDescription": "How free trials turn into paid plans in India, including UPI AutoPay mandates and card holds, the 24-hour pre-debit rule, and the steps to cancel before you are charged.",
+  "metaDescription": "Free trials can turn into paid plans through UPI AutoPay mandates or card billing. Learn the 24-hour notice rule and the steps to cancel before you are charged.",
   "h1": "How do free trials turn into paid plans, and how do you stop them?",
   "summary": "A free trial becomes a paid plan when the trial period ends and the provider charges the payment method you saved, unless you cancelled first. Trials that use UPI AutoPay depend on a mandate that stays active until you revoke it, and under RBI's 2026 e-mandate framework the bank or issuer must send you a notice at least 24 hours before each debit. To avoid the first charge, cancel before the trial ends and check that the linked UPI mandate or card permission has stopped as well.",
   "updated": "2026-10-09",
@@ -11,7 +11,7 @@
   "stepsHeading": "How to avoid an unwanted trial charge",
   "steps": [
     { "name": "Note the end date and the first charge", "text": "When you start a trial, write down the day it ends and the amount and frequency of the first paid billing period. Many sign-up pages show this in small print." },
-    { "name": "Set a reminder a day ahead", "text": "Apple's support page advises cancelling at least 24 hours before a trial ends if you do not want to renew. Google Play sends an email when a trial is about to end, but a calendar reminder is a useful backup." },
+    { "name": "Set a reminder a day ahead", "text": "Apple advises cancelling at least 24 hours before a trial ends if you do not want to renew. Google Play emails you when a trial is about to end, but a calendar reminder is a useful backup." },
     { "name": "Cancel in the place that bills you", "text": "Cancel through the App Store, Google Play, or the provider's website, depending on where you signed up. Cancelling an app does not cancel its subscription." },
     { "name": "Confirm the cancellation", "text": "Reopen the subscription and check that it shows as cancelled or as expiring. On Apple, if there is no Cancel button or you see an expiry message in red, the subscription is already cancelled." },
     { "name": "Stop the linked payment permission", "text": "If the trial was set up with a UPI AutoPay mandate or a card recurring permission, revoke or withdraw it too. A cancelled subscription and an active mandate are two separate things." }
@@ -21,8 +21,8 @@
       "heading": "How a free trial becomes a paid plan",
       "paragraphs": [
         "Most free trials ask for a payment method at sign-up, even when nothing is charged today. Google's help centre describes the sequence plainly: at the end of the trial period the first billing period begins, and you are charged the amount in the subscription terms unless you cancel before the trial expires.",
-        "Payment setups vary. Some UPI AutoPay integrations for trials authorise a small amount, such as ₹2, and refund it automatically to register the mandate. Adyen's developer documentation describes this flow for free trials, and suggests the merchant tells the customer about the charge and refund. The exact steps depend on the merchant and its payment provider, so read the confirmation screen carefully.",
-        "On Google Play, an authorisation hold can be placed on your payment method up to 5 days before a renewal if you are based in India. A hold is not the same as a charge, but it is a signal that a renewal is close. Cancelling before the next billing cycle begins removes the authorisation."
+        "Payment setups vary. Some UPI AutoPay integrations for trials authorise a small amount, such as ₹2, and refund it automatically to register the mandate. Adyen's developer documentation describes this flow and suggests the merchant tells the customer about it. The exact steps depend on the merchant and its payment provider, so read the confirmation screen carefully.",
+        "On Google Play, an authorisation hold can be placed up to 5 days before a renewal if you are based in India. A hold is not a charge, but cancelling before the next billing cycle begins removes it."
       ]
     },
     {
@@ -41,7 +41,7 @@
       "heading": "What happens after you cancel, and refunds",
       "paragraphs": [
         "Cancelling a trial normally means the first paid billing period never starts. For a paid subscription, Google says that once you cancel you keep access for the time you have already paid. It also says that uninstalling the app does not cancel the subscription.",
-        "If you were charged by accident, the quickest route is usually the developer. Google's refund guidance says the developer can process refunds under its own policies, and that contacting the developer directly is often the quickest way to resolve a purchase issue. If you cannot see the subscription in your app store, check your bank or card statement to find which company is billing you, then contact that company. Apple's support page gives the same advice."
+        "If you were charged by accident, Google's refund guidance says the developer can process refunds under its own policies, and that contacting the developer directly is often the quickest route. If you cannot see the subscription in your app store, check your bank or card statement to find which company is billing you, then contact that company. Apple's support page gives the same advice."
       ]
     },
     {
@@ -53,14 +53,14 @@
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "When you start a trial, add it to Essara with the end date and the first paid amount. Essara then shows the renewal in your upcoming timeline and sends a reminder before the renewal, so the date does not depend on memory. Essara is manual: you enter each trial and mandate yourself, and it does not connect to your bank, UPI app or SMS."
+        "When you start a trial, add it to Essara with the end date and the first paid amount. Essara then shows the renewal in your upcoming timeline and sends a reminder before it. Essara is manual: you enter each trial and mandate yourself, and it does not connect to your bank, UPI app or SMS."
       ]
     }
   ],
   "faqs": [
     { "q": "Will I be charged automatically after a free trial in India?", "a": "Usually, yes, if you do not cancel before the trial ends and the provider has your payment method saved. For UPI AutoPay, the debit should be preceded by a pre-transaction notice at least 24 hours in advance, so the notice is your last chance to stop it." },
     { "q": "Is a ₹2 charge on a free trial normal?", "a": "Some payment setups use a small authorisation of about ₹2 that is refunded automatically to register a mandate for a trial. Adyen's documentation describes this approach. It is not a rule that applies to every merchant, so check the refund in your statement and ask the merchant if you are unsure." },
-    { "q": "Does deleting the app cancel a free trial or subscription?", "a": "No. Google's help page says uninstalling the app does not cancel the subscription. Cancel it in the store or on the provider's website, and then check that the status shows as cancelled." },
+    { "q": "Does deleting the app cancel a free trial or subscription?", "a": "No. Google's help page says uninstalling the app does not cancel it, so cancel in the store or on the provider's website and check the status." },
     { "q": "Can I pause a subscription instead of cancelling it?", "a": "Some apps offer a pause. Google says that where an app supports it, the pause can run from one week to three months and starts at the end of the current billing period. Pausing is not available for every app, so check the subscription screen." },
     { "q": "Can I cancel a UPI mandate if I have already cancelled the subscription?", "a": "Yes, and you should check. RBI's framework lets you withdraw an e-mandate at any point. The option is usually in the AutoPay or Mandates section of your UPI app, though the label may vary by app version." }
   ],

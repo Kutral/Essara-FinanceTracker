@@ -1,0 +1,80 @@
+{
+  "slug": "money-leaks",
+  "cluster": "learn",
+  "title": "Money Leaks: Small Recurring Spends That Add Up (2026)",
+  "metaDescription": "Money leaks are small recurring or unnoticed spends, like unused subscriptions and forgotten UPI mandates. See illustrative rupee examples and how to plug them.",
+  "h1": "What are money leaks, and how much can small spends really cost?",
+  "summary": "Money leaks are small, recurring or habitual expenses that drain your money without giving you much value, such as an unused streaming plan, a forgotten UPI AutoPay mandate or frequent delivery fees. They are hard to spot because each payment is small and no single one feels like a decision. Adding up a month of them, and then a year, shows how much they can cost.",
+  "updated": "2026-10-09",
+  "keywords": ["money leaks", "what are money leaks", "small recurring expenses", "hidden monthly expenses India", "plug money leaks"],
+  "about": ["Money leak", "Personal finance", "Recurring payments"],
+  "sections": [
+    {
+      "heading": "What a money leak is",
+      "paragraphs": [
+        "Money leak is an informal personal finance term rather than a formal one. Outlook Money describes how many people lose money not through big mistakes but through unnoticed daily expenses, such as unused subscriptions, impulse buys and lifestyle upgrades. Axio points to recurring charges such as a streaming service you forgot to cancel after a free trial, a premium app you have not opened in months, or a gym membership that keeps renewing while you exercise at home.",
+        "The common thread is that the spend repeats or happens out of habit, and it does not give you much value in return. Whether a particular expense is a leak depends on how much you use it, so the test is personal."
+      ],
+      "list": [
+        "Subscriptions and memberships you no longer use.",
+        "UPI AutoPay mandates or card renewals you have forgotten about.",
+        "Delivery and convenience fees that add up over a month.",
+        "Impulse purchases that repeat.",
+        "Annual renewals that arrive once a year and are easy to forget."
+      ]
+    },
+    {
+      "heading": "Worked examples (illustrative)",
+      "paragraphs": [
+        "The figures in this section are hypothetical. They are chosen to make the arithmetic clear and are not averages, survey results or forecasts. Replace them with your own statement totals.",
+        "Each example multiplies a monthly amount by 12 to get a yearly figure, and the combined example adds the three monthly amounts together first."
+      ],
+      "list": [
+        "A ₹299 streaming plan you stopped using: ₹299 × 12 = ₹3,588 a year.",
+        "A ₹199 app subscription you forgot about: ₹199 × 12 = ₹2,388 a year.",
+        "₹40 delivery fees on 12 orders a month: ₹40 × 12 = ₹480 a month, or ₹5,760 a year.",
+        "All three together: ₹299 + ₹199 + ₹480 = ₹978 a month, or ₹11,736 a year. Over five years, and assuming no price increases, that is ₹58,680."
+      ]
+    },
+    {
+      "heading": "Why leaks are easy to miss",
+      "paragraphs": [
+        "Small recurring charges rarely feel like spending because there is no moment of payment. You do not decide to buy them again each month, so the amount never gets a second look. Axio argues that people often track small everyday purchases closely while ignoring the recurring charges that do the most damage.",
+        "Tracking every small item is not the answer on its own. Axio notes that logging every coffee and ride adds mental effort, and people who find it a chore often give up. A better approach is to focus on the recurring payments, which are fewer and matter more."
+      ]
+    },
+    {
+      "heading": "How to find and plug your leaks",
+      "paragraphs": [
+        "Start with the payments that repeat. Look at your bank or card statements for the last three months, then open the AutoPay or Mandates section of each UPI app you use and the subscription pages in the App Store and Google Play. Write down every item that renews, with its amount and its next date.",
+        "Then decide for each item whether you would sign up again today. If not, cancel it, and check that any linked UPI mandate has been revoked as well. Razorpay recommends reviewing active mandates every month, and keeping UPI app notifications turned on so that pre-debit alerts reach you before each debit."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker. You add each subscription, mandate or bill yourself, and it turns them into monthly and yearly totals with a renewal timeline. It does not connect to your bank, UPI app or SMS. If you want a quick estimate of what your leaks cost each month, Essara's free monthly money leak calculator is a good place to start."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "What is a money leak in simple terms?", "a": "A money leak is a small, recurring or habitual spend that drains your money without giving you much value in return. Typical examples are an unused streaming plan, a forgotten UPI AutoPay mandate and frequent delivery fees." },
+    { "q": "Are money leaks the same as subscription creep?", "a": "Subscription creep is one kind of money leak. It refers to recurring charges that build up over time, often unnoticed. Other leaks, such as delivery fees or impulse buys, are not subscriptions at all." },
+    { "q": "How much do money leaks cost in a year?", "a": "It depends entirely on your own statements, so there is no reliable typical figure. Add up your recurring payments for one month, multiply by 12, and you have a clear estimate for your situation." },
+    { "q": "Should I track every expense to find money leaks?", "a": "Not necessarily. Axio argues that over-tracking small items can cost more attention than it saves. Start with the recurring payments, then review the rest only if you want more detail." },
+    { "q": "Where do I find recurring UPI payments?", "a": "Open the AutoPay or Mandates section of each UPI app you use. The label may vary depending on your app version. If you use more than one UPI app, check each one, because a mandate usually appears only in the app where it was created." }
+  ],
+  "related": [
+    "learn/subscription-creep",
+    "learn/subscription-audit-checklist",
+    "learn/50-30-20-rule-india",
+    "learn/manual-vs-automatic-expense-tracking",
+    "learn/monthly-vs-yearly-subscription-cost"
+  ],
+  "sources": [
+    { "label": "Outlook Money: The hidden drains on your money", "url": "https://www.outlookmoney.com/amp/story/personal-finance/the-hidden-drains-on-your-money-how-everyday-spending-silently-erodes-wealth" },
+    { "label": "Axio: What most people track too much (and what they ignore completely)", "url": "https://www.axio.co.in/blogs/what-most-people-track-too-much-and-what-they-ignore-completely" },
+    { "label": "Razorpay: Is UPI AutoPay safe?", "url": "https://razorpay.com/blog/is-autopay-safe-upi-security-guide/" }
+  ],
+  "essaraTool": { "label": "Free monthly money leak calculator", "url": "https://essara.space/tools/monthly-money-leak-calculator" }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "small-business-owners",
+  "cluster": "for",
+  "title": "Small Business Subscription Tracking in India (2026)",
+  "metaDescription": "Small business owners can list software and tool subscriptions in one place, keep business spend apart from personal budgets, and spot renewals early.",
+  "h1": "How can a small business owner track software and tool subscriptions?",
+  "summary": "Small business owners can record every software tool, cloud plan and recurring vendor charge in Essara as a subscription, with its billing cycle, monthly and yearly cost and next renewal date. Essara is a personal money tracker, so it keeps business subscriptions visible next to your own budget, but it does not handle invoicing, GST or accounting. Entries are added manually because Essara does not connect to bank accounts or UPI apps.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "small business subscription tracker",
+    "SaaS subscription tracking India",
+    "track software subscriptions",
+    "business subscriptions India",
+    "subscription tracker for small business"
+  ],
+  "about": [
+    "Software as a service",
+    "Subscription billing",
+    "Small business"
+  ],
+  "sections": [
+    {
+      "heading": "Why software subscriptions slip through",
+      "paragraphs": [
+        "Software tools rarely arrive as one bill. One vendor may charge a card, another may sit on a UPI AutoPay mandate, and app-based tools may bill through Google Play or the Apple App Store. Essara's own comparison notes that the NPCI UPI help portal covers UPI AutoPay mandates only, so card, app-store and wallet charges do not appear there.",
+        "A tool installed on a phone can keep billing after the app is removed. Google's help page says that uninstalling the app does not cancel a Google Play subscription, so check the subscription list inside Google Play itself."
+      ]
+    },
+    {
+      "heading": "Keeping business spend apart from personal budgets",
+      "paragraphs": [
+        "Essara records money in categories you define, and every entry is one you choose. Give business tools their own category, such as Business software, so the category breakdown shows them as a group. Essara's public materials do not describe a separate business workspace, so a dedicated category is the practical way to keep the two apart.",
+        "If a vendor bills in US dollars, Essara supports multi-currency tracking with a base currency you choose, according to the Essara product manual. Check how each conversion is shown before you use the figures for a decision."
+      ]
+    },
+    {
+      "heading": "Annual plans, renewals and cancelling a business tool",
+      "paragraphs": [
+        "Annual plans are the usual trap, because a yearly charge can disappear from a monthly view. Record the billing cycle as yearly, and Essara converts it into a monthly and a yearly cost so both show up.",
+        "Cancelling happens in the billing place, not in Essara. For a subscription bought through the App Store, open Settings, tap your name, tap Subscriptions, select the subscription and tap Cancel Subscription. For Google Play, open subscriptions in Google Play, select the item and tap Cancel subscription. Google says you keep access for the period you have already paid for, and you are not charged again for the next period.",
+        "Confirm the cancellation on the store or vendor account page. Apple's support page says a missing Cancel button or a red expiry message means the subscription has already been cancelled. A tool bought directly from a vendor has to be cancelled on that vendor's own site or app."
+      ]
+    },
+    {
+      "heading": "Limits of tracking subscriptions by hand",
+      "paragraphs": [
+        "Essara does not read invoices from your email or bank, and it cannot cancel a payment at the merchant or bank. The receipt scanner can read a bill, but you review what it found before anything is saved.",
+        "Essara's manual suggests a monthly reset, in which you sort subscriptions by monthly cost and look at the smallest ones you have not opened in the last 30 days. Doing this once a month keeps a manual list from drifting away from what you are really paying."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara shows upcoming renewals for the next 30 days and a reminder before every renewal. For a business owner, the useful view is the renewal timeline, which shows which tool is about to bill so you can keep it, change the plan or cancel it before the charge."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can Essara create invoices or handle GST?",
+      "a": "No. Essara is a manual tracker for expenses, subscriptions, budgets, receipts and investments. Its public feature list does not include invoicing, GST filing or accounting reports, so use accounting software or your accountant for those tasks."
+    },
+    {
+      "q": "Can I keep business subscriptions separate from my personal ones?",
+      "a": "Yes, by giving business tools a category of their own and reviewing that category in the category breakdown. Essara's public materials do not describe a separate business workspace."
+    },
+    {
+      "q": "How do I cancel a software tool billed through Google Play?",
+      "a": "Open the Play Store, go to your subscriptions, select the subscription and tap Cancel subscription, then follow the on-screen steps. Google says you keep access until the period you have already paid for ends."
+    },
+    {
+      "q": "Does Essara cancel subscriptions for me?",
+      "a": "No. Essara cannot cancel a payment at the merchant or bank and does not change billing. Cancel in the store, the bank or the vendor's account, then update the entry in Essara."
+    },
+    {
+      "q": "Does Essara connect to my business bank account or card?",
+      "a": "No. Essara does not connect to bank accounts, card accounts or UPI apps, and it does not read SMS. Entries are added by you, or from a receipt you review before it is saved."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-microsoft-365-india",
+    "cancel-subscriptions/cancel-google-one-india",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "learn/subscription-creep",
+    "learn/monthly-vs-yearly-subscription-cost"
+  ],
+  "sources": [
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481"
+    },
+    {
+      "label": "Apple Support: Cancel a subscription from Apple",
+      "url": "https://support.apple.com/en-in/HT202039"
+    },
+    {
+      "label": "Essara product manual",
+      "url": "https://essara.space/docs"
+    },
+    {
+      "label": "Essara download page and FAQ",
+      "url": "https://essara.space/download"
+    }
+  ],
+  "essaraTool": {
+    "label": "Subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}
