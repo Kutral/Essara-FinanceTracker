@@ -27,7 +27,7 @@
       "heading": "UPI AutoPay mandates",
       "paragraphs": [
         "UPI AutoPay mandates are created inside a UPI app and debit the bank account linked to your UPI ID. You approve the request with your UPI PIN, and no card or separate login is involved. RBI's 2026 directions cover UPI on the same terms as cards, so the ₹15,000 and ₹1 lakh limits apply here too.",
-        "In Google Pay, mandates sit under the Autopay section, which you reach from your profile picture. Live mandates are active and can be paused for a start and end date, or cancelled, with your UPI PIN. Pending holds requests waiting for your action, and Completed lists executed, expired and revoked mandates. Other UPI apps use different labels, such as AutoPay or Mandates, so look for the word your app uses."
+        "In Google Pay, mandates sit under the Autopay section, which you reach from your profile picture. Live mandates are active and can be paused for a start and end date you choose, or cancelled, and the app asks for your UPI PIN to confirm. Pending holds requests waiting for your action, and Completed lists executed, expired and revoked mandates. Other apps may label this AutoPay or Mandates."
       ]
     },
     {
@@ -51,7 +51,7 @@
     {
       "heading": "Rules that apply across the rails",
       "paragraphs": [
-        "Under the RBI's 2026 directions, card and UPI e-mandates must give you a facility to withdraw an e-mandate at any point, and an issuer must send a pre-transaction notice at least 24 hours before each debit. Those obligations are explained in our guide to RBI recurring payment rules.",
+        "Under the RBI's 2026 directions, card and UPI e-mandates must give you a facility to withdraw an e-mandate at any point, and an issuer must send a pre-transaction notice at least 24 hours before each debit.",
         "NACH is not named in those directions. The notice and withdrawal rules for NACH come from NPCI and your bank, and I could not verify the NACH notice rule from an NPCI document, so check with your bank before assuming a notice will arrive."
       ]
     },

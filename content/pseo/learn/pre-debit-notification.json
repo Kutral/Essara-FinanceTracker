@@ -2,7 +2,7 @@
   "slug": "pre-debit-notification",
   "cluster": "learn",
   "title": "Pre-Debit Notification: What It Is and How to Respond",
-  "metaDescription": "A pre-debit notification warns you at least 24 hours before a recurring debit. Learn what it contains, how to pause, opt out or cancel, and why alerts get missed.",
+  "metaDescription": "A pre-debit notification warns you at least 24 hours before a recurring debit. Learn what it says, how to pause, opt out or cancel, and why alerts get missed.",
   "h1": "What is a pre-debit notification, and how should you respond to one?",
   "summary": "A pre-debit notification is an advance alert, sent at least 24 hours before a recurring debit, that gives the merchant, amount, date and mandate reference for that charge. Under the RBI's 2026 e-mandate directions, the issuer must send it for covered card and UPI mandates, and you can opt out of a single debit or of the whole mandate. If you do nothing, the debit goes ahead on the scheduled date unless it needs an authentication step you have not completed.",
   "updated": "2026-10-09",
