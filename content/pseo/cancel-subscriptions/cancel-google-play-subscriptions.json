@@ -32,14 +32,14 @@
       "heading": "Uninstalling is not the same as cancelling",
       "paragraphs": [
         "Google's help page is direct on this point: when you uninstall the app, your subscription does not cancel. The app disappears from your phone, but Google Play keeps billing you at the start of each billing cycle until you unsubscribe.",
-        "Uninstalling can still be useful, but treat it as a separate step. Cancel first, then remove the app if you want. Google also notes that if a developer removes an app from Google Play, the future subscription is cancelled, but past payments are not refunded except as its refund policy allows."
+        "Uninstalling can still be useful, but treat it as a separate step. Cancel first, then remove the app if you want. Google also notes that if an app is removed from Google Play, its future subscription is cancelled, and past subscriptions cannot be refunded except in the cases its refund policies cover."
       ]
     },
     {
       "heading": "Cancelling on a computer at play.google.com",
       "paragraphs": [
         "Go to play.google.com and sign in to the Google Account that holds the subscription. Go to subscriptions in Google Play, find the subscription and click Manage. Click Cancel subscription, pick a reason in the confirmation pop-up and click Continue.",
-        "If you cannot find the subscription, check whether it sits under another Google Account, a family member's account, or your Google Wallet. Google's help page recommends looking at the subscription under Google Wallet as well, and searching your email for the receipt that shows where you first subscribed."
+        "If you cannot find the subscription, it may be on a different Google Account. Google's help page suggests trying to switch between accounts, and making sure you are signed in to the Google Account that has the subscription."
       ]
     },
     {

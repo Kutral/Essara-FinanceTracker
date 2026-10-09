@@ -42,7 +42,7 @@
     {
       "heading": "Stopping the subscription itself",
       "paragraphs": [
-        "Revoking a mandate stops the bank debits. It does not end your account with the merchant. Cancel the subscription in the merchant's app or website as well, and check whether the merchant has its own subscription setting. Google's help does not cover refunds for amounts already debited, so ask the merchant directly for any refund.",
+        "Revoking a mandate stops the bank debits. It does not end your account with the merchant. Cancel the subscription in the merchant's app or website as well. Google's help does not cover refunds for amounts already debited, so ask the merchant directly for any refund.",
         "If you need help with a mandate you cannot resolve, open it from the Live tab, tap the menu at the top right, choose Get help, select the issue category and then Create a Ticket. The NPCI UPI Help portal (upihelp.npci.org.in) lets you view, pause or revoke UPI AutoPay mandates across UPI apps, so it can help when one app is stuck."
       ]
     },
@@ -56,7 +56,7 @@
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "Essara's UPI AutoPay tracker is manual. You add each mandate yourself with its amount and frequency, and Essara shows the auto-debits coming up this week and this month. It does not connect to Google Pay or your bank, and it never asks for your UPI PIN. You still make the pause or cancel change inside Google Pay, but a list in one place makes it easier to spot a mandate you forgot to revoke."
+        "Essara's UPI AutoPay tracker is manual. You add each mandate yourself with its amount and frequency, and Essara shows the auto-debits coming up this week and this month. It does not connect to Google Pay or your bank, and it never asks for your UPI PIN. The pause or cancel step still happens in Google Pay."
       ]
     }
   ],
@@ -67,7 +67,7 @@
     },
     {
       "q": "Why does Google Pay ask for my UPI PIN when I cancel AutoPay?",
-      "a": "Google's help page lists a UPI PIN step for cancelling and revoking a mandate, so the app asks for it before the change goes through. Never share your UPI PIN with anyone, including someone who calls claiming to be from Google Pay or your bank."
+      "a": "Google's help page lists a UPI PIN step for cancelling and revoking a mandate, so the app asks for it before the change goes through. Never share your UPI PIN, even with callers claiming to be from Google Pay or your bank."
     },
     {
       "q": "I cannot find Autopay in Google Pay. What should I do?",
@@ -75,7 +75,7 @@
     },
     {
       "q": "Will cancelling AutoPay in Google Pay stop my subscription?",
-      "a": "Not on its own. Revoking the mandate stops the UPI debits from your bank, but the subscription may still be active with the merchant. Cancel it in the merchant's app or website too, or it may renew through another payment method you saved with them."
+      "a": "Not on its own. Revoking the mandate stops UPI debits, but the subscription may stay active with the merchant. Cancel it in the merchant's app or website too."
     },
     {
       "q": "Can Google Pay refund a debit after I cancel?",

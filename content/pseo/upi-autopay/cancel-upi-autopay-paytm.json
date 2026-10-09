@@ -4,7 +4,7 @@
   "title": "Cancel UPI AutoPay in Paytm: Pause or Cancel (2026)",
   "metaDescription": "Cancel or pause a UPI AutoPay mandate in the Paytm app: go to UPI & Payment Settings, open Automatic Payments, pick the mandate and confirm with your UPI PIN.",
   "h1": "How do you cancel UPI AutoPay in the Paytm app?",
-  "summary": "In the Paytm app, tap your profile icon at the top left, choose UPI & Payment Settings, scroll down to Automatic Payments, open the mandate and tap the cancel option at the bottom of the screen. Paytm's help article also describes pausing a mandate for a set period, and the change is confirmed with your UPI PIN. Cancelling in Paytm stops future debits but does not end your subscription with the merchant, so cancel there too.",
+  "summary": "In the Paytm app, tap your profile icon at the top left, choose UPI & Payment Settings, scroll down to Automatic Payments, open the mandate and tap the cancel option at the bottom of the screen. Paytm's blog article also describes pausing a mandate for a set period, and the change is confirmed with your UPI PIN. Cancelling in Paytm stops future debits but does not end your subscription with the merchant, so cancel there too.",
   "updated": "2026-10-09",
   "keywords": ["cancel UPI AutoPay Paytm", "Paytm automatic payments cancel", "pause UPI AutoPay Paytm", "Paytm UPI mandate", "stop Paytm autopay"],
   "about": ["Paytm", "UPI AutoPay", "NPCI"],
@@ -21,22 +21,22 @@
     {
       "heading": "Where Paytm keeps UPI Automatic Payments",
       "paragraphs": [
-        "Paytm keeps its UPI mandates in the Automatic Payments section, which you reach from UPI & Payment Settings. Paytm's own help articles describe the route as profile icon, UPI & Payment Settings, then Automatic Payments. Paytm also has a Labels feature in that section, where you can give each automatic payment a custom name. This helps when several subscriptions bill under one merchant name, such as the Play Store, because the label tells you which service the debit belongs to.",
+        "Paytm keeps its UPI mandates in the Automatic Payments section, which you reach from UPI & Payment Settings. Paytm's own blog articles describe the route as profile icon, UPI & Payment Settings, then Automatic Payments. Paytm also has a Labels feature in that section, where you can give each automatic payment a custom name. This helps when several subscriptions bill under one merchant name, such as the Play Store, because the label tells you which service the debit belongs to.",
         "If a mandate you expected is not listed, it may have been approved in another UPI app such as Google Pay or PhonePe. Check those apps too. Third-party guides also say older versions of the Paytm app may not show the mandate options, so update the app if the section is missing."
       ]
     },
     {
       "heading": "Pause or cancel: what each option does",
       "paragraphs": [
-        "Paytm's help article says pausing temporarily suspends automatic deductions for a period you set. The mandate stays active and can be resumed, so pausing suits a seasonal service or a month when you want to skip a debit. Cancelling, which Paytm calls deactivating in its English article, permanently stops future deductions for that mandate.",
-        "Paytm's two help articles do not agree on what happens after a cancel. The English article says you will need to set up a new mandate to restart. The Hindi article says you can turn AutoPay back on later from Automatic Payments by selecting the service and enabling it again. Before you cancel, check which option your version offers if there is any chance you want the service back."
+        "Paytm's blog article says pausing temporarily suspends automatic deductions for a period you set. The mandate stays active and can be resumed, so pausing suits a seasonal service or a month when you want to skip a debit. Cancelling, which Paytm calls deactivating in its English article, permanently stops future deductions for that mandate.",
+        "Paytm's two blog articles do not agree on what happens after a cancel. The English article says you will need to set up a new mandate to restart. The Hindi article says you can turn AutoPay back on later from Automatic Payments by selecting the service and enabling it again. Before you cancel, check which option your version offers if there is any chance you want the service back."
       ]
     },
     {
       "heading": "What happens to the next debit",
       "paragraphs": [
-        "Paytm's help article does not say how a debit that is already scheduled will be handled. Third-party guides say that if the next payment is close, it may already be queued, and cancelling then may only stop the cycles after it. Check the next payment date in the mandate details before you act, because the earlier you pause or cancel, the more likely you are to stop the next charge.",
-        "Cancelling stops future deductions only. Third-party guides say payments already processed are not refunded through the app, so ask the merchant directly for any refund. Paytm's help does not promise refunds on your behalf."
+        "Paytm's blog article does not say how a debit that is already scheduled will be handled. Third-party guides say that if the next payment is close, it may already be queued, and cancelling then may only stop the cycles after it. Check the next payment date in the mandate details before you act, because the earlier you pause or cancel, the more likely you are to stop the next charge.",
+        "Cancelling stops future deductions only. Third-party guides say payments already processed are not refunded through the app, so ask the merchant directly for any refund. Paytm's blog does not promise refunds on your behalf."
       ]
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "q": "Do I need my UPI PIN to cancel Paytm AutoPay?",
-      "a": "Paytm's help article says you may be asked for your UPI PIN to authenticate the change, so keep it handy. Never share your UPI PIN with anyone, including someone claiming to be from Paytm support."
+      "a": "Paytm's blog article says you may be asked for your UPI PIN to authenticate the change, so keep it handy. Never share your UPI PIN with anyone, including someone claiming to be from Paytm support."
     },
     {
       "q": "Why can't I see my mandate in Paytm's Automatic Payments?",
@@ -75,7 +75,7 @@
     },
     {
       "q": "Will cancelling in Paytm refund my last payment?",
-      "a": "Paytm's help does not promise a refund for payments already processed. Cancelling only stops future deductions. Ask the merchant for the refund, and keep the payment details and a screenshot of the mandate in case you need to raise a dispute."
+      "a": "Paytm's blog does not promise a refund for payments already processed. Cancelling only stops future deductions. Ask the merchant for the refund, and keep the payment details and a screenshot of the mandate in case you need to raise a dispute."
     }
   ],
   "related": [
