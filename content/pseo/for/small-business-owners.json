@@ -22,7 +22,7 @@
     {
       "heading": "Why software subscriptions slip through",
       "paragraphs": [
-        "Software tools rarely arrive as one bill. One vendor may charge a card, another may sit on a UPI AutoPay mandate, and app-based tools may bill through Google Play or the Apple App Store. Essara's own comparison notes that the NPCI UPI help portal covers UPI AutoPay mandates only, so card, app-store and wallet charges do not appear there.",
+        "Software tools rarely arrive as one bill. One vendor may charge a card, another may sit on a UPI AutoPay mandate, and app-based tools may bill through Google Play or the Apple App Store. Essara's download page notes that the NPCI UPI help portal covers UPI AutoPay mandates only, so card, app-store and wallet charges do not appear there.",
         "A tool installed on a phone can keep billing after the app is removed. Google's help page says that uninstalling the app does not cancel a Google Play subscription, so check the subscription list inside Google Play itself."
       ]
     },
@@ -30,22 +30,21 @@
       "heading": "Keeping business spend apart from personal budgets",
       "paragraphs": [
         "Essara records money in categories you define, and every entry is one you choose. Give business tools their own category, such as Business software, so the category breakdown shows them as a group. Essara's public materials do not describe a separate business workspace, so a dedicated category is the practical way to keep the two apart.",
-        "If a vendor bills in US dollars, Essara supports multi-currency tracking with a base currency you choose, according to the Essara product manual. Check how each conversion is shown before you use the figures for a decision."
+        "If a vendor bills in US dollars, Essara's product manual says you can track money in your own base currency, and multi-currency support is part of the product. Check how each conversion is shown before you use the figures for a decision."
       ]
     },
     {
-      "heading": "Annual plans, renewals and cancelling a business tool",
+      "heading": "Annual plans and renewals",
       "paragraphs": [
-        "Annual plans are the usual trap, because a yearly charge can disappear from a monthly view. Record the billing cycle as yearly, and Essara converts it into a monthly and a yearly cost so both show up.",
-        "Cancelling happens in the billing place, not in Essara. For a subscription bought through the App Store, open Settings, tap your name, tap Subscriptions, select the subscription and tap Cancel Subscription. For Google Play, open subscriptions in Google Play, select the item and tap Cancel subscription. Google says you keep access for the period you have already paid for, and you are not charged again for the next period.",
-        "Confirm the cancellation on the store or vendor account page. Apple's support page says a missing Cancel button or a red expiry message means the subscription has already been cancelled. A tool bought directly from a vendor has to be cancelled on that vendor's own site or app."
+        "Annual plans are the usual trap, because a yearly charge can disappear from a monthly view. Record the billing cycle as yearly, and Essara shows both the monthly and the yearly cost so the charge is visible either way.",
+        "Cancelling happens with the store or vendor, not in Essara. The store's own help pages, listed in the sources, cover the cancellation steps. A tool bought directly from a vendor has to be cancelled on that vendor's own site or app, and then the matching entry in Essara should be updated."
       ]
     },
     {
       "heading": "Limits of tracking subscriptions by hand",
       "paragraphs": [
-        "Essara does not read invoices from your email or bank, and it cannot cancel a payment at the merchant or bank. The receipt scanner can read a bill, but you review what it found before anything is saved.",
-        "Essara's manual suggests a monthly reset, in which you sort subscriptions by monthly cost and look at the smallest ones you have not opened in the last 30 days. Doing this once a month keeps a manual list from drifting away from what you are really paying."
+        "Essara is a manual tracker. It does not connect to bank accounts, card accounts, UPI apps or SMS, and it cannot cancel a payment at the merchant or bank. The receipt scanner can read a bill, but you review what it found before anything is saved.",
+        "Essara's product manual suggests a monthly reset: sort subscriptions by monthly cost and look at the smallest few you have not opened in the last 30 days. Doing this once a month keeps a manual list from drifting away from what you are really paying."
       ]
     },
     {

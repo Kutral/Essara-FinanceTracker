@@ -2,9 +2,9 @@
   "slug": "streaming-households",
   "cluster": "for",
   "title": "Household OTT Subscriptions in India: Cost and Overlap",
-  "metaDescription": "Track OTT, music and telecom-bundled plans for your household in India. Split shared plans, total the real monthly cost, and spot overlapping catalogues.",
+  "metaDescription": "Track OTT, music and telecom-bundled plans for your household in India. Split shared plans, total the real monthly cost and spot services you pay for twice.",
   "h1": "How do households in India keep track of many OTT plans?",
-  "summary": "A household with several streaming plans can list every OTT, music and bundled service with its billing cycle, to see the real monthly and yearly total. Shared plans are best split by the number of people who use them, and overlapping catalogues show up when you check which shows each service carries. Essara's free OTT subscription cost calculator does the totals and splits, but it cannot see which shows sit on which app, so that check stays with you.",
+  "summary": "A household with several streaming plans can list every OTT, music and bundled service with its billing cycle, to see the real monthly and yearly total. Shared plans are best split by the number of people who use them, and overlapping services show up when you check which shows each one carries. Essara's free OTT subscription cost calculator does the totals and splits, but it cannot see which shows sit on which app, so that check stays with you.",
   "updated": "2026-10-09",
   "keywords": [
     "OTT subscription cost India",
@@ -22,7 +22,7 @@
     {
       "heading": "Why a household's streaming bill is hard to see",
       "paragraphs": [
-        "Streaming plans are billed in different ways. One household may pay by card, through a UPI AutoPay mandate, through Google Play or through the Apple App Store, and each one renews on its own date. Essara's comparison notes that the NPCI UPI help portal only shows UPI AutoPay mandates, so card-billed OTT and app-store plans do not appear there.",
+        "Streaming plans are billed in different ways. One household may pay by card, through a UPI AutoPay mandate, through Google Play or through the Apple App Store, and each one renews on its own date. Essara's OTT calculator notes that the NPCI UPI help portal shows only UPI AutoPay mandates, so card-billed OTT and app-store plans do not appear there.",
         "Closing the app is not always enough. Netflix's help page says that signing out of your account or deleting the Netflix app does not cancel your account, and that if you cancel with time left in the billing period, you can keep using Netflix until it closes at the end of that period.",
         "Some telecom recharge and broadband plans include OTT access. Those benefits change by plan and by operator, so record the plan, the services it includes and its validity date, and confirm the current details in the operator's own app."
       ]
@@ -35,17 +35,17 @@
       ]
     },
     {
-      "heading": "Overlapping catalogues: what to check by hand",
+      "heading": "Overlapping services: what to check by hand",
       "paragraphs": [
-        "Two services can carry the same films or series, and paying for both is the overlap to look for. The calculator flags repeated service names, but its own note says that check looks only at names and cannot see which shows sit on which app. To test overlap, search for the titles you watch most on each service and keep the cheaper service where both carry them, which is the approach the calculator suggests.",
-        "The calculator also suggests cancelling any service you have not opened in 30 days before looking for overlap. Treat that as a starting point for a household conversation rather than a rule."
+        "Two services can carry the same films or series, and paying for both is the overlap to look for. The calculator flags repeated service names, but its own note says that check looks only at names and cannot see which shows sit on which app. To test overlap, search for the titles you watch most on each service and keep the cheaper service where both carry them.",
+        "The calculator also suggests cancelling any service you have not opened in 30 days before you look for overlap. Treat that as a starting point for a household conversation rather than a rule."
       ]
     },
     {
       "heading": "Cancelling a plan and confirming it stopped",
       "paragraphs": [
         "Cancel where the plan is billed. For Netflix, use the cancellation option in your account. If that option is missing, the Netflix help page says to cancel with your payment partner. For Google Play or the Apple App Store, cancel in that store. Google says access continues for the period you have already paid for.",
-        "Afterwards, check that the renewal no longer appears in your billing account, and check that no other card or mandate is still billing for the same service. Apple's support page says a missing Cancel button or a red expiry message means the subscription has already been cancelled."
+        "Afterwards, check that the renewal no longer appears in your billing account, and check that no other card or mandate is still billing for the same service. On an iPhone, a missing Cancel button or a red expiry message in Settings tells you the plan has already ended."
       ]
     },
     {
@@ -96,10 +96,6 @@
     {
       "label": "Google Play Help: Cancel, pause, or change a subscription",
       "url": "https://support.google.com/googleplay/answer/7018481"
-    },
-    {
-      "label": "Essara download page and FAQ",
-      "url": "https://essara.space/download"
     }
   ],
   "essaraTool": {

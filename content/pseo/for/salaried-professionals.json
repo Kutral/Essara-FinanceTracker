@@ -30,7 +30,7 @@
     },
     {
       "name": "Log your salary as income",
-      "text": "Add your take-home pay in the Transactions ledger, which Essara describes as a manual income and expense ledger."
+      "text": "Add your take-home pay as income in the Transactions section, which Essara describes as a manual income and expense ledger."
     },
     {
       "name": "Add fixed bills as subscriptions",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Record SIPs under Investments",
-      "text": "Add each SIP in the Investments module, which covers SIPs alongside stocks, FDs, PPF, gold and crypto."
+      "text": "Add each SIP and holding in the Investments section, which covers SIPs, mutual funds, stocks, ETFs, fixed deposits, gold, silver and crypto."
     }
   ],
   "sections": [
@@ -53,7 +53,7 @@
       "heading": "Use the daily limit and the budget pace",
       "paragraphs": [
         "Essara's monthly budget shows what is left to spend and a daily spending limit. The product manual recommends a short morning check: open the dashboard, look at the budget-pace bar, and note any category that is already more than 30 percent spent by mid-week.",
-        "The way the daily limit is worked out is shown on your Budget settings. Check it the first time you use it, rather than assuming a formula."
+        "The daily limit sits alongside the monthly budget, so it works best as a daily check rather than a monthly target. If a category keeps running ahead of its pace, lower its cap for the rest of the month rather than waiting for the reset."
       ]
     },
     {
@@ -61,7 +61,7 @@
       "paragraphs": [
         "A systematic investment plan (SIP) puts a fixed amount into a mutual fund at regular intervals. SEBI's investor FAQ describes it as a way to invest as you earn, which lets you enter the market regularly and averages the acquisition cost of your units.",
         "Because the amount is fixed, the number of units you receive depends on the fund's NAV on each date. SEBI's example shows ₹1,000 buying 100 units at a NAV of 10, and about 105.26 units at a NAV of 9.5. The example shows units bought, not returns, so track the amount you invested each month and the units you hold, and check the current value in the fund's statement.",
-        "Essara's investment tracker covers SIPs alongside stocks, fixed deposits, PPF, gold and crypto. Essara has no broker or demat login and never places trades, so you enter SIP amounts and holdings yourself."
+        "Essara's investment tracker covers SIPs alongside stocks, mutual funds, fixed deposits, gold and crypto. Essara has no broker or demat login and never places trades, so you enter SIP amounts and holdings yourself."
       ]
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "q": "What is the daily spending limit in Essara?",
-      "a": "It is a figure shown with your monthly budget that indicates how much you can spend each day and still stay within the month's budget. Check the Budget settings for the calculation used in your account."
+      "a": "It is a figure shown with your monthly budget, alongside what is left to spend, that indicates how much you can spend each day and still stay within the month. Your budget settings control the monthly targets it works from."
     },
     {
       "q": "Does Essara connect to my salary account and detect salary credits?",

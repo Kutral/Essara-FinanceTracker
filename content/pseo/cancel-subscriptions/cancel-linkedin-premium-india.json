@@ -26,7 +26,7 @@
     },
     {
       "name": "Cancel a LinkedIn-billed plan on desktop",
-      "text": "Click the Me icon on the LinkedIn homepage and select Premium features. Click Manage subscription (it may appear as Subscription details under Resources) and you will be taken to LinkedIn Admin Center. Click Purchases, select your Active subscription, click Cancel subscription under Actions, then click Confirm cancel."
+      "text": "Click the Me icon on the LinkedIn homepage and select Premium features. Click Manage subscription under Plan Details. If you bought through Google Play, the link is Subscription details under Resources instead. Either way you will be taken to LinkedIn Admin Center. Click Purchases, select your Active subscription, click Cancel subscription under Actions, then click Confirm cancel."
     },
     {
       "name": "Cancel in the LinkedIn mobile app",
