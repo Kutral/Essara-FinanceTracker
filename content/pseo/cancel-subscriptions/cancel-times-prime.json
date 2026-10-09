@@ -15,7 +15,7 @@
     { "name": "Find the auto-renewal setting", "text": "In the app, scroll down and tap App Settings under Profile, then tap Auto Renewal. The FAQ's opt-out answer points to My Profile on the website for disabling auto-renewal." },
     { "name": "Turn off auto-renewal", "text": "Switch auto-renewal off and check that it shows as off. Note the date the current membership ends." },
     { "name": "Check your payment method", "text": "Open your bank app or card's recurring-payments section and cancel any Times Prime payment mandate that is still active. Times Prime's FAQ does not list UPI AutoPay among its payment methods." },
-    { "name": "Contact support if unsure", "text": "Email support@timesprime.com, or in the app go to Help and Feedback and tap Mail Us, and ask them to confirm the renewal is cancelled." }
+    { "name": "Contact support if unsure", "text": "Email support@timesprime.com, or in the app go to Help & Feedback and tap Mail Us, and ask them to confirm the renewal is cancelled." }
   ],
   "sections": [
     {
@@ -43,7 +43,7 @@
       "heading": "Confirming the cancellation and getting help",
       "paragraphs": [
         "After you change the setting, reopen it a day later to confirm it has stayed off. Save a screenshot of the setting and of your membership status. These are useful if a renewal charge appears later.",
-        "The FAQ gives two support routes: email support@timesprime.com, or in the app go to Help and Feedback and tap Mail Us, which opens your email app with the message ready to send. Include your registered email address and the date you turned off auto-renewal."
+        "The FAQ gives two support routes: email support@timesprime.com, or in the app go to Help & Feedback and tap Mail Us, which opens your email app with the message ready to send. Include your registered email address and the date you turned off auto-renewal."
       ]
     },
     {
@@ -57,7 +57,7 @@
     { "q": "Is Times Prime membership refundable?", "a": "No. Times Prime's FAQ says the membership is non-refundable. Turning off auto-renewal stops the next renewal but does not return money for the current year." },
     { "q": "How do I turn off Times Prime auto-renewal?", "a": "Use the My Profile section on timesprime.com to disable auto-renewal. In the app, the FAQ's path is Profile, then App Settings, then Auto Renewal. Check the setting afterwards to confirm it is off." },
     { "q": "Does Times Prime accept UPI AutoPay?", "a": "The FAQ's list of payment methods does not include UPI AutoPay. It lists cards, netbanking, PayZapp, Mobikwik, Airtel Money and Paytm. Still, check your UPI app's AutoPay section and your card's recurring payments to be sure." },
-    { "q": "Who do I contact about a Times Prime cancellation?", "a": "Email support@timesprime.com. In the app, go to Help and Feedback and tap Mail Us. The FAQ also lists a customer care phone number, which you can check on the FAQ page." },
+    { "q": "Who do I contact about a Times Prime cancellation?", "a": "Email support@timesprime.com. In the app, go to Help & Feedback and tap Mail Us. The FAQ also lists a customer care phone number, which you can check on the FAQ page." },
     { "q": "Will I be charged again after I turn off auto-renewal?", "a": "The FAQ describes renewal as happening at the end of the term when auto-renewal is on. Turning it off should stop that renewal, but check your bank or card for any leftover mandate and ask support to confirm." }
   ],
   "related": ["cancel-cultpass", "cancel-audible-india", "cancel-amazon-prime-india", "cancel-upi-autopay-google-pay"],

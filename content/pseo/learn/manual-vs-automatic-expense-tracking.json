@@ -20,14 +20,14 @@
       "heading": "What manual tracking asks of you",
       "paragraphs": [
         "Manual tracking means you record each expense yourself, usually with an amount, a date and a category. Each entry takes a few seconds, but the effort adds up over a month, and the record is only as complete as your habit. Cash spends, forgotten card swipes and small UPI payments are the usual gaps.",
-        "The privacy advantage is real but narrower than it sounds. A manual app does not need access to your bank, UPI app or SMS, so it cannot read those sources. Many manual apps still sync your entries to a cloud account across phones and browsers. Manual therefore answers the question of what the app can read, not where your entries are stored, so check the privacy policy either way."
+        "The privacy advantage is real but narrower than it sounds. A manual app does not need access to your bank, UPI app or SMS, so it cannot read those sources. Manual apps can still keep your entries in the cloud. Essara, for example, syncs one account across Android and the web, so manual does not mean offline. Check the privacy policy for where your entries are stored, whichever approach you choose."
       ]
     },
     {
       "heading": "What automatic tracking reads, and the permissions behind it",
       "paragraphs": [
         "SMS-based tracking reads bank and UPI alerts on your phone. On Android, Google Play generally allows SMS and Call Log permissions only for apps registered as the default SMS, phone or assistant handler. A narrow, temporary exception exists for some financial uses, including budget apps that read SMS, but Google grants it case by case and only where no alternative method exists. Google's policy also says budgeting apps may not share non-financial or personal SMS history, which is a useful limit to check.",
-        "Account aggregator tools work on consent instead of phone access. An account aggregator acts as a consent manager. You approve each consent, can review and revoke it in the aggregator's app, and each consent has an expiry date after which it is no longer usable. The trade-off is an extra regulated step in the data path, and the receiving app is still a party you must trust.",
+        "Account aggregator tools work on consent instead of phone access. An account aggregator acts as a consent manager. You approve each consent, and the aggregator's app shows the consents you have given, the ones you have revoked and a log of data requests. You can revoke a consent there. The trade-off is an extra regulated step in the data path, and the receiving app is still a party you must trust.",
         "Bank-sync tools that ask for your net banking login, or that use a third-party connector, ask you to trust how that credential or token is handled. Before connecting one, check what it reads, whether it stores credentials, and how you can disconnect it."
       ]
     },
@@ -60,7 +60,7 @@
     {
       "heading": "Where Essara fits",
       "paragraphs": [
-        "Essara is manual-first. You add expenses, income, subscriptions and UPI AutoPay mandates yourself. Essara does not connect to your bank, UPI app or SMS, and it never asks for your UPI PIN. The receipt scanner reads a photo of a bill and suggests the merchant, total and date, and you review everything before saving. The same account syncs across Android and the web, and the free plan includes unlimited manual expense tracking. Check the pricing page for current limits."
+        "Essara is manual-first. You add expenses, income, subscriptions and UPI AutoPay mandates yourself. Essara does not connect to your bank, UPI app or SMS, and it never asks for your UPI PIN. Its receipt scanner reads a bill or receipt and suggests the merchant, total and date, and you review everything before saving. The same account syncs across Android and the web, and the free plan includes unlimited manual expense tracking. Check the pricing page for current limits."
       ]
     }
   ],
@@ -87,10 +87,10 @@
     }
   ],
   "related": [
-    "learn/subscription-audit-checklist",
-    "learn/money-leaks",
-    "learn/subscription-creep",
-    "learn/50-30-20-rule-india"
+    "subscription-audit-checklist",
+    "money-leaks",
+    "subscription-creep",
+    "50-30-20-rule-india"
   ],
   "sources": [
     {

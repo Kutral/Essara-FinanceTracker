@@ -22,7 +22,7 @@
   "steps": [
     {
       "name": "Open subscriptions in Google Play",
-      "text": "Open the Google Play Store app and tap your profile picture at the top right. Look for Payments & subscriptions, then Subscriptions. Google's help article describes this as going to subscriptions in Google Play, and menu names can differ by version."
+      "text": "Open the Google Play Store app and tap your profile picture at the top right. Look for Payments & subscriptions, then Subscriptions. Google's help describes this as going to subscriptions in Google Play, and menu names can differ by version."
     },
     {
       "name": "Select the subscription",
@@ -42,21 +42,21 @@
       "heading": "Uninstalling is not the same as cancelling",
       "paragraphs": [
         "Google's help page is direct on this point: when you uninstall the app, your subscription does not cancel. The app disappears from your phone, but Google Play keeps billing you at the start of each billing cycle until you unsubscribe.",
-        "Uninstalling can still be useful, but treat it as a separate step. Cancel first, then remove the app if you want. Google also notes that if an app is removed from Google Play, its future subscription is cancelled, and past subscriptions cannot be refunded except in the cases its refund policies cover."
+        "Uninstalling can be a separate step after you cancel. If an app is removed from Google Play, its future subscription is cancelled, and past subscriptions cannot be refunded except in the cases Google's refund policies cover."
       ]
     },
     {
       "heading": "Cancelling on a computer at play.google.com",
       "paragraphs": [
-        "Go to play.google.com and sign in to the Google Account that holds the subscription. Go to subscriptions in Google Play, find the subscription and click Manage. Click Cancel subscription, pick a reason in the confirmation pop-up and click Continue.",
-        "If you cannot find the subscription, it may be on a different Google Account. Google's help page suggests trying to switch between accounts, and making sure you are signed in to the Google Account that has the subscription."
+        "Go to play.google.com and sign in to the Google Account that holds the subscription. Go to subscriptions in Google Play, find the subscription, click Manage, then click Cancel subscription and Continue.",
+        "Google's help says to sign in to the Google Account that has the subscriptions. If you cannot find it, it may be on a different Google Account, so switch accounts and check again."
       ]
     },
     {
       "heading": "What you keep after you cancel",
       "paragraphs": [
         "When you cancel, you can keep using the subscription for the time you have already paid for. Google gives an example: a one-year subscription bought on 1 January and cancelled on 1 July keeps access until 31 December, and is not charged again the following 1 January.",
-        "Prepaid plans work differently. They expire at the end of their billing period, so you do not need to cancel them. If an unused prepaid plan is still in your account, you can cancel it or ask for a refund under Google Play's refund rules.",
+        "Prepaid plans work differently. They expire at the end of their billing period, so you do not need to cancel them. If an unused prepaid plan is still in your account, you can request a refund under Google Play's refund rules.",
         "Some apps offer a pause instead. Pausing takes effect at the end of the current billing period and can run from one week to three months, depending on the app. If you cancel a Play Pass subscription, apps you installed remain on your device, but in-app purchases are removed."
       ]
     },
@@ -71,14 +71,14 @@
       "heading": "Payment notes for India",
       "paragraphs": [
         "Google Play's India page says that Netbanking has been discontinued as a payment method on Google Play from October 2025 until further notice. If your subscription was set up on Netbanking, add another payment method so the renewal does not fail.",
-        "UPI works on Google Play in India, and you can use UPI Autopay for recurring subscriptions such as monthly payments for YouTube Premium or Google One. You manage the mandate in Google Pay: tap your profile picture, select Autopay, open the Live tab, tap the mandate, then choose Pause autopay or Cancel autopay. Cancel autopay asks for your UPI PIN.",
+        "UPI works on Google Play in India, and you can set up UPI Autopay for recurring subscriptions such as YouTube Premium or Google One. You manage the mandate in Google Pay: tap your profile picture, select Autopay, open the Live tab, tap the mandate, then choose Pause autopay or Cancel autopay. Cancel autopay asks for your UPI PIN.",
         "Google Pay supports Autopay through certain UPI handles only. Google's page lists @okaxis, @okhdfcbank and @okicici, and explains how to create an additional UPI ID if yours ends in @oksbi. Cancelling the Play subscription and cancelling the mandate are separate steps, so check both."
       ]
     },
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "Essara is a manual tracker. You add each Google Play subscription with its amount, billing cycle and next renewal date, and it shows the upcoming renewals and sends a reminder before each one. It does not connect to your Google Account, your bank, your UPI app or your SMS, so it cannot see the charge. It only shows what you entered."
+        "Essara is a manual tracker. You add each Google Play subscription with its amount, billing cycle and next renewal date, and it shows the upcoming renewals with a reminder before each one. It cannot see the charge, because it does not connect to your Google Account, bank, UPI app or SMS."
       ]
     }
   ],
@@ -105,11 +105,11 @@
     }
   ],
   "related": [
-    "cancel-apple-subscriptions-iphone",
-    "cancel-zee5-subscription",
-    "cancel-youtube-premium-india",
-    "cancel-google-one-india",
-    "free-trial-auto-renewal"
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone",
+    "cancel-subscriptions/cancel-zee5-subscription",
+    "cancel-subscriptions/cancel-youtube-premium-india",
+    "cancel-subscriptions/cancel-google-one-india",
+    "learn/free-trial-auto-renewal"
   ],
   "sources": [
     {

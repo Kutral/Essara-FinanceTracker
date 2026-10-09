@@ -32,7 +32,7 @@
       "heading": "Finding subscriptions on a Mac or Windows PC",
       "paragraphs": [
         "On a Mac, open the App Store, click your name at the bottom of the sidebar, or click Sign In and sign in to your Apple Account. On the page that appears, click your name, then click Subscriptions. Click the subscription, then click Cancel Subscription.",
-        "On a Windows PC, open the Apple Music or Apple TV app, click your name at the bottom of the sidebar and choose View My Account. Under Settings, next to Subscriptions, click Manage, click Edit on the subscription and then click Cancel Subscription. Apple says you can also cancel Apple Music and Apple TV on the web."
+        "On a Windows PC, open the Apple Music or Apple TV app and go to your account. Under Settings, next to Subscriptions, click Manage, then Cancel Subscription. Subscriptions can also be managed at account.apple.com."
       ]
     },
     {
@@ -52,13 +52,13 @@
       "heading": "Trials, refunds and what the red message means",
       "paragraphs": [
         "If you started a trial and do not want it to renew, cancel it at least 24 hours before the trial ends. Apple's help page sets this limit, so do not wait until the last day.",
-        "If you were charged for a subscription you no longer want, you can ask for a refund at reportaproblem.apple.com. Sign in, tap or click I'd like to, choose Request a refund, pick the reason, choose the subscription and submit. Refund eligibility varies by country, and Apple says that consumer protection laws where you live still apply. You can also cancel the subscription on the same page so that it does not renew."
+        "If you were charged for a subscription you no longer want, you can ask for a refund at reportaproblem.apple.com. Sign in, tap or click I'd like to, choose Request a refund, pick the reason, choose the subscription and submit. Refund eligibility varies by country, and Apple says that consumer protection laws where you live still apply. You can also cancel the subscription from the same place so that it does not renew."
       ]
     },
     {
       "heading": "Apple payment methods for subscriptions in India",
       "paragraphs": [
-        "Apple's India billing page says you can pay for subscriptions with UPI Autopay, with an accepted credit or debit card, or with your Apple Account balance. The same page says accepted cards, App Store Codes, Net Banking and UPI are available, and that you can add funds to your balance. Check the Payment & Shipping screen in Settings to see which methods your account currently holds.",
+        "Apple's India billing page says you can pay for subscriptions with UPI Autopay, an accepted credit or debit card, or your Apple Account balance. You can also add funds to your balance using cards, App Store Codes, Net Banking or UPI. Check your payment method in your Apple Account settings.",
         "UPI Autopay needs a bank that supports it and enough funds in the account to cover the charge. To switch a subscription from UPI Autopay to a card, cancel it, wait until it expires and then subscribe again with the card. Apple also notes that Indian government rules can require extra steps, so you may need to update your payment method before a purchase goes through.",
         "Cancelling the subscription in Apple's settings stops the next renewal. If a UPI AutoPay mandate was linked to it, also check the AutoPay or Mandates section of your UPI app afterwards and revoke any mandate that is still active."
       ]
@@ -66,7 +66,7 @@
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "Essara is a manual tracker. You add each Apple subscription with its amount, billing cycle and renewal date, and Essara lists the upcoming renewals and sends a reminder before each one. It does not connect to your Apple Account, your bank, your UPI app or your SMS, so it cannot see Apple's charges. It only shows what you entered, which is why the renewal date must be typed in once."
+        "Essara is a manual tracker. You add each Apple subscription with its amount, billing cycle and renewal date, and it lists upcoming renewals with a reminder before each one. It cannot see your Apple Account, your bank, your UPI app or Apple's charges, so the renewal date has to be typed in once."
       ]
     }
   ],
@@ -93,14 +93,14 @@
     }
   ],
   "related": [
-    "cancel-google-play-subscriptions",
-    "cancel-zee5-subscription",
-    "cancel-spotify-premium-india",
-    "cancel-youtube-premium-india",
-    "free-trial-auto-renewal"
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-zee5-subscription",
+    "cancel-subscriptions/cancel-spotify-premium-india",
+    "cancel-subscriptions/cancel-youtube-premium-india",
+    "learn/free-trial-auto-renewal"
   ],
   "sources": [
-    { "label": "Apple Support: Cancel a subscription from Apple (India)", "url": "https://support.apple.com/en-in/ht202039" },
+    { "label": "Apple Support: Cancel a subscription from Apple (India)", "url": "https://support.apple.com/en-in/HT202039" },
     { "label": "Apple Support: About billing for Apple subscriptions and media products in India", "url": "https://support.apple.com/en-us/108110" },
     { "label": "Apple Support: Request a refund for apps or content you've bought from Apple", "url": "https://support.apple.com/en-in/HT204084" },
     { "label": "Apple Support: Payment methods that you can use with your Apple Account (India)", "url": "https://support.apple.com/en-in/111741" }

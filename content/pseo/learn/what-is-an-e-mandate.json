@@ -27,7 +27,7 @@
       "heading": "UPI AutoPay mandates",
       "paragraphs": [
         "A UPI AutoPay mandate is created inside a UPI app and debits the bank account linked to your UPI ID. You approve the request with your UPI PIN, and no card or separate login is involved. The RBI's 2026 directions cover UPI on the same terms as cards, so the ₹15,000 and ₹1 lakh thresholds apply here too.",
-        "Google Pay keeps these under Autopay, in Live, Pending and Completed tabs. Other UPI apps use labels such as AutoPay, Mandates or Subscriptions."
+        "Google Pay keeps these under Autopay, in Live, Pending and Completed tabs. Other UPI apps use their own names for the same list."
       ]
     },
     {
