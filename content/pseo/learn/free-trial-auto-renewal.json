@@ -1,0 +1,126 @@
+{
+  "slug": "free-trial-auto-renewal",
+  "cluster": "learn",
+  "title": "Free Trial Auto-Renewal: How to Avoid Unwanted Charges",
+  "metaDescription": "Free trials turn into paid plans via a saved card, app-store billing or a UPI AutoPay mandate. Learn the 24-hour notice rule and how to stop the first charge.",
+  "h1": "How do free trials turn into paid plans, and how do you stop them?",
+  "summary": "A free trial becomes a paid plan when the trial ends and the provider charges the payment method saved at sign-up, unless you cancelled first. For UPI AutoPay, RBI's 2026 e-mandate framework requires the issuer to send a pre-transaction notice at least 24 hours before each debit. To avoid the first charge, cancel before the trial ends, then check that any linked UPI mandate or card permission has stopped too.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "free trial auto-renewal",
+    "free trial charges India",
+    "cancel free trial before charged",
+    "UPI AutoPay free trial",
+    "avoid subscription charges"
+  ],
+  "about": [
+    "Free trial",
+    "UPI AutoPay",
+    "RBI e-mandate framework"
+  ],
+  "stepsHeading": "How to avoid an unwanted trial charge",
+  "steps": [
+    {
+      "name": "Note the end date and the first charge",
+      "text": "When you start a trial, write down the day it ends and the amount and frequency of the first paid period. Sign-up pages often show these details in small print."
+    },
+    {
+      "name": "Set a reminder a day ahead",
+      "text": "Apple advises cancelling at least 24 hours before a trial ends if you do not want to renew. Google Play emails you when a trial is about to end, but a calendar reminder is a useful backup."
+    },
+    {
+      "name": "Cancel where you were billed",
+      "text": "Cancel through Google Play, the App Store or the provider's website, depending on where you signed up. Deleting the app does not cancel the subscription. The menu steps for each store are on the Google Play and Apple cancellation guides on this site."
+    },
+    {
+      "name": "Confirm the cancellation",
+      "text": "Reopen the subscription and check that it shows as cancelled or expiring. On an iPhone, a missing Cancel button or an expiry message in red text means the subscription has already been cancelled."
+    },
+    {
+      "name": "Stop the linked payment permission",
+      "text": "If the trial used a UPI AutoPay mandate or a card recurring permission, revoke or withdraw that too. A cancelled subscription and an active mandate are two separate things."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "How a free trial becomes a paid plan",
+      "paragraphs": [
+        "Most free trials ask for a payment method at sign-up, even when nothing is charged today. Google's help centre says it emails you when a trial is about to end, and that at the end of the trial the first billing period begins and you are charged unless you cancel before the trial expires.",
+        "Some setups also place a small check on your payment method. Google says an authorisation hold can be placed up to 5 days before the next renewal if you are based in India or Brazil. A hold is not a charge in itself, but cancelling before the next billing cycle begins removes it.",
+        "UPI AutoPay trials can work differently. Adyen's developer documentation describes a flow in which 2 INR is charged and refunded automatically to register the mandate, and it suggests the merchant tells the customer about this. It depends on the merchant and its payment provider, so read the confirmation screen carefully."
+      ]
+    },
+    {
+      "heading": "UPI mandates and the 24-hour notice",
+      "paragraphs": [
+        "RBI's Digital Payments E-mandate Framework, 2026 requires the issuer to send a pre-transaction notification at least 24 hours before a recurring debit. The notice must show the merchant name, the amount, the date and time of the debit, the e-mandate reference number and the reason for the debit.",
+        "You can opt out of a particular transaction or the whole e-mandate, and you can choose whether notices arrive by SMS, email or another available mode. You can also withdraw an e-mandate at any point, but the issuer must validate the withdrawal with additional factor authentication. The per-transaction limits are covered in the RBI recurring payment rules guide on this site."
+      ]
+    },
+    {
+      "heading": "What to do if you were charged by mistake",
+      "paragraphs": [
+        "Cancelling a trial normally means the first paid billing period never starts. If a charge still arrives, check your bank or card statement to see which company is billing you, then contact that company. Apple's support page gives the same advice when a receipt cannot be found."
+      ]
+    },
+    {
+      "heading": "Illustrative example",
+      "paragraphs": [
+        "This example is hypothetical and is shown only to make the arithmetic concrete. Suppose a streaming plan costs ₹299 a month after a 7-day trial. If it renews and nobody cancels for a full year, the total is ₹299 × 12 = ₹3,588, before any price change."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "When you start a trial, add it to Essara with its end date and first paid amount. It then appears in your upcoming renewals, with a reminder before the charge. Essara is manual: you enter each trial and mandate yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I be charged automatically after a free trial in India?",
+      "a": "Usually yes, if you do not cancel before the trial ends and the provider has your payment method saved. For UPI AutoPay, a pre-transaction notice must reach you at least 24 hours before the debit, which is your last chance to stop it."
+    },
+    {
+      "q": "Is a ₹2 charge on a free trial normal?",
+      "a": "Some merchants set up UPI AutoPay trials with a ₹2 authorisation that is refunded automatically. Adyen's documentation describes this approach. It is not a rule for every merchant, so check your statement for the refund and ask the merchant if it does not arrive."
+    },
+    {
+      "q": "Can I cancel a UPI mandate after I have cancelled the subscription?",
+      "a": "Yes, and you should check. Cancelling the service does not always end the mandate. Look in the AutoPay or Mandates section of your UPI app, though the label may vary by app version, and revoke any mandate for a service you have stopped using."
+    },
+    {
+      "q": "Should I rely on the pre-debit notice to stop a trial charge?",
+      "a": "No. Cancel before the trial's end date. Apple advises cancelling at least 24 hours before a trial ends if you do not want to renew, and the pre-debit notice is a safety net for UPI payments, not a substitute for cancelling."
+    }
+  ],
+  "related": [
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "learn/pre-debit-notification",
+    "learn/rbi-recurring-payment-rules",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone"
+  ],
+  "sources": [
+    {
+      "label": "Google Play Help: Subscribe to services or content",
+      "url": "https://support.google.com/googleplay/answer/2476088?hl=en"
+    },
+    {
+      "label": "Apple Support: Cancel a subscription from Apple (India)",
+      "url": "https://support.apple.com/en-in/118428"
+    },
+    {
+      "label": "RBI: Digital Payments E-mandate Framework, 2026",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
+    },
+    {
+      "label": "Adyen docs: UPI AutoPay (web)",
+      "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/web"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "Essara - Modern Personal Finance & Money Clarity App",
-  "description": "Essara is a modern personal finance and money-clarity app. Track spending, understand habits, build budgets, set savings goals, and achieve financial freedom with a calm, intuitive experience.",
+  "name": "Essara: Subscription, UPI AutoPay & Expense Tracker",
+  "description": "Subscription tracker, UPI AutoPay tracker and expense tracker made for India. No bank login, no SMS, no UPI PIN. Free to start on Android and web.",
   "requestFramePermissions": [],
   "majorCapabilities": [],
   "url": "https://essara.space/",
@@ -8,19 +8,17 @@
   "logo": "https://essara.space/logo.png",
   "category": "FinanceApplication",
   "keywords": [
-    "personal finance app",
-    "money tracker",
+    "subscription tracker",
+    "UPI AutoPay tracker",
     "expense tracker",
     "budget planner",
-    "savings goals",
-    "financial clarity",
-    "spending habits",
-    "money management",
-    "wealth building",
-    "financial freedom",
+    "renewal reminders",
+    "bill reminders",
+    "receipt scanner",
+    "personal finance India",
     "Essara"
   ],
   "author": "Essara",
-  "language": "en-US",
+  "language": "en-IN",
   "themeColor": "#000000"
 }

@@ -1,0 +1,116 @@
+{
+  "slug": "rbi-recurring-payment-rules",
+  "cluster": "learn",
+  "title": "RBI Recurring Payment Rules: E-Mandate Limits (2026)",
+  "metaDescription": "RBI's 2026 e-mandate directions: recurring card and UPI debits up to ₹15,000 can skip extra authentication, ₹1 lakh for three categories, and a 24-hour notice.",
+  "h1": "What are the RBI rules for recurring payments and e-mandates in 2026?",
+  "summary": "The RBI's Digital Payments - E-mandate Framework, 2026, dated April 21, 2026, is the current rulebook for recurring card, prepaid instrument and UPI transactions. Recurring debits up to ₹15,000 per transaction can be authorised without an additional factor of authentication (AFA), and insurance premiums, mutual fund subscriptions and credit card bill payments can go up to ₹1 lakh. The issuer must send a pre-transaction notice at least 24 hours before each debit, and you can withdraw an e-mandate at any point.",
+  "updated": "2026-10-09",
+  "keywords": ["RBI e-mandate rules", "RBI recurring payment limit", "e-mandate framework 2026", "RBI 15000 AFA limit", "RBI pre-transaction notice"],
+  "about": ["Reserve Bank of India", "E-mandate", "Recurring payments"],
+  "sections": [
+    {
+      "heading": "What the 2026 directions replace",
+      "paragraphs": [
+        "The directions are reference RBI/DPSS/2026-27/396, dated April 21, 2026, and take effect immediately. They apply to payment system providers and participants that process recurring transactions, domestic or cross-border, using cards, prepaid payment instruments (PPI) or UPI.",
+        "They consolidate and repeal eight earlier RBI circulars, from the August 21, 2019 card circular to the August 22, 2024 circular. If an older article quotes a 2020 or 2021 notice, treat it as superseded and use the 2026 text as the reference."
+      ]
+    },
+    {
+      "heading": "How the limits changed",
+      "paragraphs": [
+        "The ceiling for recurring debits without AFA has been revised several times since the 2019 card circular. In June 2022 the RBI allowed AFA relaxation for subsequent recurring transactions up to ₹15,000 per transaction. On December 12, 2023, it raised the limit from ₹15,000 to ₹1 lakh per transaction for three categories only: subscriptions to mutual funds, insurance premiums and credit card bill payments.",
+        "The 2026 directions carry both limits forward. The clause heading mentions a velocity check, but the clause text sets a per-transaction cap and no monthly total."
+      ],
+      "list": [
+        "Up to ₹15,000 per transaction: no AFA for subsequent recurring debits (clause 8(a)).",
+        "Above ₹15,000, other than the three categories: AFA for each transaction.",
+        "Insurance premiums, mutual fund subscriptions and credit card bill payments: no AFA up to ₹1 lakh per transaction (clause 8(b))."
+      ]
+    },
+    {
+      "heading": "Registration, the first payment and changes",
+      "paragraphs": [
+        "A customer registers an e-mandate once. The mandate is registered only after AFA is validated, on top of the bank's normal process. The first transaction also needs AFA, and the two checks can be combined if the first payment is taken at registration. Variable mandates let you set the maximum value of any recurring transaction.",
+        "Every e-mandate carries a validity period. The issuer must let you modify that period or withdraw the mandate at any point, and any change or withdrawal needs AFA. No charges can be levied for the e-mandate facility, and existing card e-mandates can be mapped to a reissued card."
+      ]
+    },
+    {
+      "heading": "The 24-hour pre-transaction notice",
+      "paragraphs": [
+        "The issuer must send a pre-transaction notification at least 24 hours before the debit. It must state, at a minimum, the merchant's name, the amount, the date and time of the debit, the e-mandate reference number and the reason for the debit. You can choose or change the channel, such as SMS or email.",
+        "You can opt out of a particular transaction or of the whole e-mandate, and the opt-out is validated with AFA. FASTag and NCMC auto-replenishment mandates are exempt from the pre-transaction notice. A post-transaction notice must follow each debit, with grievance redressal details."
+      ]
+    },
+    {
+      "heading": "Where bank pages and the rules disagree",
+      "paragraphs": [
+        "Some bank help pages still quote older figures. HSBC's e-mandate FAQ, for example, describes a ₹5,000 threshold for authorising larger debits, which predates the ₹15,000 limit in the 2026 directions. Google Pay's help pages describe the ₹15,000 and ₹1 lakh thresholds, which match the directions.",
+        "The directions do not use the word pause. They require a facility to modify the validity period or withdraw the mandate. A pause in your app is a feature of that app, not something the directions require."
+      ]
+    },
+    {
+      "heading": "Disputes and NACH",
+      "paragraphs": [
+        "If a debit is wrong, raise it with your issuer first. The directions require a dispute redressal system, and the RBI's customer liability rules for unauthorised transactions apply to e-mandate transactions.",
+        "The 2026 directions do not name NACH. Its notice and withdrawal rules come from NPCI and your bank, so confirm them with the bank before assuming a notice will arrive."
+      ]
+    },
+    {
+      "heading": "Keeping a list against these rules",
+      "paragraphs": [
+        "Essara's UPI AutoPay tracker can hold a list of your mandates and show upcoming auto-debits. It cannot read the directions, your bank's notices or the validity date on a mandate, so enter the dates you know yourself."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the RBI limit for UPI AutoPay without a UPI PIN?",
+      "a": "Under the 2026 directions, recurring transactions up to ₹15,000 per transaction can be authorised without AFA. Google Pay's help describes the same threshold in terms of the UPI PIN: for a mandate under ₹15,000 you enter your PIN the first time, and for larger amounts you enter it on each payment."
+    },
+    {
+      "q": "Is the ₹15,000 limit per transaction or per month?",
+      "a": "Per transaction. Clause 8(a) allows each recurring transaction up to ₹15,000 without AFA, and the clause text does not set a monthly total. If you want a cap on total monthly debits, ask your issuer whether it offers one."
+    },
+    {
+      "q": "Does the ₹1 lakh limit apply to EMIs and loan repayments?",
+      "a": "The directions name three categories for the ₹1 lakh limit: insurance premiums, mutual fund subscriptions and credit card bill payments. Other recurring debits above ₹15,000, including loan EMIs, need AFA for each transaction. Check your lender's terms for how EMIs are collected."
+    },
+    {
+      "q": "Why does my bank app still mention ₹5,000?",
+      "a": "Some bank help pages were written under the earlier ₹5,000 figure. The RBI's current directions are the reference: ₹15,000 for general recurring debits and ₹1 lakh for three categories."
+    },
+    {
+      "q": "Does the 2026 framework replace the earlier RBI e-mandate rules?",
+      "a": "Yes. The directions consolidate and repeal eight earlier circulars, and they take effect immediately. For recurring transactions made with cards, PPI and UPI, the 2026 text is the reference."
+    }
+  ],
+  "related": [
+    "what-is-an-e-mandate",
+    "pre-debit-notification",
+    "what-is-upi-autopay",
+    "card-standing-instructions-vs-upi-autopay"
+  ],
+  "sources": [
+    {
+      "label": "RBI: Digital Payments - E-mandate Framework, 2026",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
+    },
+    {
+      "label": "RBI: Processing of e-mandates for recurring transactions (Dec 12, 2023)",
+      "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12570&Mode=0"
+    },
+    {
+      "label": "Google Pay Help: Manage AutoPay",
+      "url": "https://support.google.com/pay/india/answer/10452280?hl=en"
+    },
+    {
+      "label": "HSBC India: e-mandates FAQ",
+      "url": "https://hsbc.co.in/help/faqs/e-mandates"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
+}

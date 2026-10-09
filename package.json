@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
+    "build": "vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr --emptyOutDir && node scripts/build-static-seo.mjs",
     "preview": "vite preview",
-    "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "clean": "rm -rf dist dist-ssr",
+    "lint": "tsc --noEmit",
+    "seo:check": "node scripts/build-static-seo.mjs --check"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",

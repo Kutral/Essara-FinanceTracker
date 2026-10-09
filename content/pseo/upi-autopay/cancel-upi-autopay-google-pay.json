@@ -1,0 +1,137 @@
+{
+  "slug": "cancel-upi-autopay-google-pay",
+  "cluster": "upi-autopay",
+  "title": "Cancel UPI AutoPay in Google Pay: Pause or Cancel (2026)",
+  "metaDescription": "Pause or cancel a UPI AutoPay mandate in Google Pay: open Profile, Autopay, the Live tab, pick Pause or Cancel, then confirm with your UPI PIN.",
+  "h1": "How do you cancel or pause UPI AutoPay in Google Pay?",
+  "summary": "In Google Pay, tap your profile picture at the top right, select Autopay, open the mandate in the Live tab, and choose Pause autopay or Cancel autopay. Pausing lets you set a start and end date, while cancelling revokes the mandate so the merchant can no longer debit your account for it, and you confirm with your UPI PIN. Cancelling in Google Pay may not end your subscription with the merchant, so cancel there as well.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "cancel UPI AutoPay Google Pay",
+    "pause AutoPay GPay",
+    "Google Pay autopay mandate",
+    "revoke UPI mandate Google Pay",
+    "Google Pay AutoPay not showing"
+  ],
+  "about": [
+    "Google Pay",
+    "UPI AutoPay",
+    "NPCI"
+  ],
+  "steps": [
+    {
+      "name": "Open your profile",
+      "text": "Open the Google Pay app and tap your profile picture at the top right of the home screen."
+    },
+    {
+      "name": "Select Autopay",
+      "text": "Tap Autopay. If it is missing, check for a Google Pay update in the Play Store, because Google says the section may not be available on older versions."
+    },
+    {
+      "name": "Open the Live tab",
+      "text": "The Live tab holds approved mandates that have not been executed yet. Tap the mandate you want to change."
+    },
+    {
+      "name": "Choose Pause or Cancel",
+      "text": "Select Pause autopay to set a start and end date, or Cancel autopay to revoke the mandate."
+    },
+    {
+      "name": "Enter your UPI PIN",
+      "text": "Google's help page lists a UPI PIN step when you revoke a live mandate, so have your PIN ready before you start."
+    },
+    {
+      "name": "Check the status",
+      "text": "Google says to check the status in the Live tab. A revoked mandate moves to the Completed tab, along with executed and expired mandates."
+    }
+  ],
+  "stepsHeading": "How to pause or cancel AutoPay in Google Pay",
+  "sections": [
+    {
+      "heading": "The three tabs and where your mandates sit",
+      "paragraphs": [
+        "Google Pay groups every UPI AutoPay mandate under Autopay in three tabs. Pending holds requests that need your action, such as a new mandate you can accept or decline. Live holds approved mandates that have not been executed yet, and it is where you change or revoke them. Completed holds executed, expired and revoked mandates.",
+        "Google's help page says AutoPay is supported through the @okaxis, @okhdfcbank and @okicici UPI handles. If your UPI ID ends with @oksbi, the page explains how to create an additional UPI ID. A mandate usually appears only in the app where you approved it, so check your other UPI apps if one is missing."
+      ]
+    },
+    {
+      "heading": "Pause or cancel: what each option does",
+      "paragraphs": [
+        "Pause autopay suits a seasonal service or a few months away, because you choose the start and end date and the mandate stays in Live. Cancel autopay revokes the mandate. Google's Manage AutoPay page says that after you revoke a mandate, merchants can no longer debit your account for it, and revoking also needs your UPI PIN.",
+        "Loan-related AutoPay mandates cannot be cancelled through Google Pay. Google's help page says to contact the merchant for those. If you get an error when you try to cancel, the bank account linked to the mandate needs to be in an active state, so reactivate it and try again."
+      ]
+    },
+    {
+      "heading": "The debit that is coming up",
+      "paragraphs": [
+        "Google's Manage AutoPay page says you are notified within 24 hours before a debit from your bank. Tap that notification to see the details, then pause or cancel from there. The notice is your last easy chance, because Google's help page does not say how a debit that is already scheduled is handled.",
+        "For amounts, Google's help page says a mandate above ₹15,000 needs your UPI PIN when each payment is due. For insurance, mutual fund and credit card bill mandates, the PIN is needed when the amount exceeds ₹1,00,000."
+      ]
+    },
+    {
+      "heading": "Stopping the subscription and getting help",
+      "paragraphs": [
+        "Revoking a mandate stops the bank debits, but it does not close your account with the merchant. Cancel the subscription in the merchant's app or website too. Google's help does not cover refunds for amounts already debited, so ask the merchant directly.",
+        "For a mandate you cannot resolve, open it from the Live tab, tap the menu at the top right, choose Get help, select the issue category and then Create a Ticket. The NPCI UPI Help portal at upihelp.npci.org.in is described in press coverage as a place to view and manage UPI AutoPay mandates across apps. This guide could not load the site to confirm what it offers today, so check it yourself before relying on it."
+      ]
+    },
+    {
+      "heading": "Checking that the change took effect",
+      "paragraphs": [
+        "After you pause or cancel, reopen Autopay and check the status in the Live tab, as Google's help page advises. A cancelled mandate should no longer show as live and should appear under Completed. If it still looks active after a few minutes, go back in and repeat the change."
+      ]
+    },
+    {
+      "heading": "Where Essara fits in",
+      "paragraphs": [
+        "Essara's UPI AutoPay tracker works from your own list. You add each mandate with its amount and frequency, and Essara shows the auto-debits due this week and this month. It does not connect to Google Pay or your bank and never asks for your UPI PIN, so the pause or cancel step still happens in Google Pay."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is pausing UPI AutoPay in Google Pay the same as cancelling?",
+      "a": "No. Pause autopay keeps the mandate in the Live tab and lets you set a start and end date. Cancel autopay revokes the mandate, so merchants can no longer debit your account for it. If you might want the service back, pause it and check the Live tab afterwards."
+    },
+    {
+      "q": "I cannot find Autopay in Google Pay. What should I do?",
+      "a": "Google's help page says to check whether you have the latest version of Google Pay and to update it from the Play Store if an update is available. If Autopay is still missing, check the other UPI apps you use, since a mandate usually appears only in the app where it was approved."
+    },
+    {
+      "q": "Why does cancelling my AutoPay give an error?",
+      "a": "Google's help page says the bank account linked to the mandate must be active before you can cancel it. If the account is inactive, reactivate it and try again. Loan-related mandates cannot be cancelled through Google Pay at all, so contact the merchant for those."
+    },
+    {
+      "q": "Can I get a refund from Google Pay after I revoke a mandate?",
+      "a": "Google's help does not cover refunds for debits already made. Revoking only stops future debits. Ask the merchant first. If you believe a debit was not authorised, use Get help on the mandate in the Live tab to raise a ticket, and contact your bank."
+    },
+    {
+      "q": "Will Google Pay warn me before a debit?",
+      "a": "Yes. Google's Manage AutoPay page says you are notified within 24 hours before a debit from your bank, and you can tap the notification to pause or cancel."
+    }
+  ],
+  "related": [
+    "cancel-upi-autopay-phonepe",
+    "cancel-upi-autopay-paytm",
+    "find-all-upi-autopay-mandates",
+    "pre-debit-notification",
+    "what-is-upi-autopay"
+  ],
+  "sources": [
+    {
+      "label": "Google Pay Help: Learn how to manage recurring payments",
+      "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
+    },
+    {
+      "label": "Google Pay Help: Manage AutoPay",
+      "url": "https://support.google.com/pay/india/answer/10452280?hl=en"
+    },
+    {
+      "label": "NPCI UPI Help portal",
+      "url": "https://upihelp.npci.org.in"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
+}

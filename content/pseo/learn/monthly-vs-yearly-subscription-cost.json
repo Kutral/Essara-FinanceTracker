@@ -1,0 +1,106 @@
+{
+  "slug": "monthly-vs-yearly-subscription-cost",
+  "cluster": "learn",
+  "title": "Monthly vs Yearly Subscription Cost: When Annual Saves",
+  "metaDescription": "Convert monthly, quarterly and weekly plans to a yearly cost and see when an annual plan saves money. Clear rupee examples, break-even points and refund limits.",
+  "h1": "Is a yearly subscription cheaper than paying monthly?",
+  "summary": "To compare plans fairly, convert every price to a yearly figure: multiply a monthly price by 12, a quarterly price by 4 and a weekly price by 52. A yearly plan saves money only if you keep the service long enough to beat the monthly total, and the break-even point is often close to a full year. A monthly plan can look dearer on paper and still cost less if you stop early.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "monthly vs yearly subscription",
+    "annual subscription cost India",
+    "is yearly subscription cheaper",
+    "convert monthly subscription to yearly cost",
+    "yearly plan trap"
+  ],
+  "about": [
+    "Subscription pricing",
+    "Google Play",
+    "Apple App Store"
+  ],
+  "sections": [
+    {
+      "heading": "How to annualise a subscription cost",
+      "paragraphs": [
+        "The fair way to compare plans is to put them on the same yearly basis. A weekly charge is multiplied by 52, because a year has 52 weeks, not 48. To get an effective monthly cost from a yearly price, divide by 12.",
+        "Take an illustrative plan at ₹199 a month. The monthly plan costs ₹199 × 12 = ₹2,388 a year. A quarterly plan at ₹549 per quarter costs ₹549 × 4 = ₹2,196 a year. A yearly plan at ₹1,999 costs ₹1,999 a year, which is about ₹167 a month. These are example numbers, not a real plan's price, so check the current price on the plan page before you decide."
+      ],
+      "list": [
+        "Monthly price × 12 = yearly cost",
+        "Quarterly price × 4 = yearly cost",
+        "Weekly price × 52 = yearly cost (₹50 a week is ₹2,600 a year)",
+        "Yearly price ÷ 12 = effective monthly cost"
+      ]
+    },
+    {
+      "heading": "When a yearly plan saves money",
+      "paragraphs": [
+        "In the illustrative example, the yearly plan saves ₹2,388 - ₹1,999 = ₹389 a year against the monthly plan. That is about 16 per cent of the monthly plan's yearly cost (₹389 ÷ ₹2,388 = 16.3 per cent). The quarterly plan saves ₹2,388 - ₹2,196 = ₹192 a year. A saving of this size is only worth having if you would really keep the service for the whole year.",
+        "The break-even point is what matters. The monthly plan costs ₹199 for each month you stay. Ten months on the monthly plan costs ₹1,990, which is ₹9 less than the yearly ₹1,999, so monthly is cheaper for any stay of up to 10 months. At 11 months the monthly plan costs ₹2,189, so the yearly plan wins from 11 months onwards."
+      ]
+    },
+    {
+      "heading": "When a yearly plan is a trap",
+      "paragraphs": [
+        "The trap is the upfront charge. A yearly plan takes the full amount at renewal, so if you stop in month 4, you have paid for eight months you did not use. The saving is only real if you use the service for the whole term.",
+        "Refunds are not guaranteed. Google's refund help page describes partial refunds for subscriptions as a region-specific policy that covers Israel, France and Germany. Google's cancellation help uses a one-year example in which access continues until the end of the paid year, not a refund for the unused months. For an Indian yearly plan, check the developer's refund terms and do not assume a pro-rated refund.",
+        "Check the price again at every renewal. A yearly plan bought at one price may renew at a different price, so the saving you were promised may not hold the next year."
+      ]
+    },
+    {
+      "heading": "What cancelling does on each store",
+      "paragraphs": [
+        "Cancelling stops the next renewal, but the store's rules decide what access you keep. On Google Play, you keep using the subscription for the time you have already paid, and uninstalling the app does not cancel it. On an iPhone, a missing Cancel button or an expiry message in red text means the subscription has already been cancelled. The menu steps are in the Google Play and Apple cancellation guides on this site."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Once you know the yearly cost, the harder part is remembering when the charge will come. Essara is a manual tracker: you add each subscription and choose a monthly, quarterly or yearly cycle, and it shows the cost per month and per year along with upcoming renewals. You enter these details yourself, because Essara does not connect to your bank account or UPI app."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a yearly subscription always cheaper?",
+      "a": "No. A yearly plan is cheaper only if you keep the service long enough to make up the saving. In the example above, the monthly plan is cheaper for any stay of up to 10 months, and the yearly plan wins from 11 months onwards."
+    },
+    {
+      "q": "How do I convert a quarterly or weekly price to a yearly cost?",
+      "a": "Multiply a quarterly price by 4 and a weekly price by 52. For example, ₹549 a quarter is ₹2,196 a year, and ₹50 a week is ₹2,600 a year."
+    },
+    {
+      "q": "Can I get a refund for the unused months of a yearly plan?",
+      "a": "Sometimes, but it depends on the seller's policy. Google's refund help page describes partial refunds for subscriptions as a policy for Israel, France and Germany only. Check the app developer's refund terms and contact them directly."
+    },
+    {
+      "q": "Should I switch from monthly to yearly to save money?",
+      "a": "Only if you are confident you will keep the service for the full year. If there is a real chance you will stop within the first 10 months, the monthly plan is the cheaper choice in the example above."
+    }
+  ],
+  "related": [
+    "learn/subscription-creep",
+    "learn/free-trial-auto-renewal",
+    "learn/money-leaks",
+    "learn/subscription-audit-checklist",
+    "cancel-subscriptions/cancel-google-play-subscriptions"
+  ],
+  "sources": [
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481"
+    },
+    {
+      "label": "Google Play Help: Learn about Google Play refund policies",
+      "url": "https://support.google.com/googleplay/answer/2479637"
+    },
+    {
+      "label": "Apple Support: Cancel a subscription from Apple (India)",
+      "url": "https://support.apple.com/en-in/118428"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}

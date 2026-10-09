@@ -1,0 +1,106 @@
+{
+  "slug": "50-30-20-rule-india",
+  "cluster": "learn",
+  "title": "50/30/20 Rule India: Worked Example on Take-Home Pay",
+  "metaDescription": "See how the 50/30/20 budget rule works on a ₹50,000 take-home salary, where rent and EMIs break it, and how to adjust the split for your city.",
+  "h1": "How does the 50/30/20 budget rule work on an Indian salary?",
+  "summary": "The 50/30/20 rule splits take-home pay, meaning income after tax, into 50 per cent for needs, 30 per cent for wants and 20 per cent for savings and investments. On ₹50,000 take-home, that is ₹25,000 for needs, ₹15,000 for wants and ₹10,000 for savings. It is a planning guide rather than an official Indian standard, and where rent or EMIs are high, the needs bucket can run over 50 per cent.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "50/30/20 rule India",
+    "50 30 20 budget rule",
+    "50/30/20 budget example",
+    "budget on take-home salary India",
+    "needs wants savings India"
+  ],
+  "about": [
+    "50/30/20 rule",
+    "Personal budgeting",
+    "Take-home pay"
+  ],
+  "sections": [
+    {
+      "heading": "How the rule works",
+      "paragraphs": [
+        "The rule was popularised by Elizabeth Warren and her daughter Amelia Warren Tyagi in their book All Your Worth. It applies to take-home pay and divides it into three buckets: needs take 50 per cent, wants take 30 per cent, and savings and investments take the remaining 20 per cent.",
+        "Needs cover essentials such as rent or home-loan EMIs, groceries, utilities, transport, healthcare and insurance. Wants cover discretionary spending such as dining out, shopping, entertainment, travel, hobbies and subscriptions. The savings bucket covers an emergency fund, retirement and investing."
+      ]
+    },
+    {
+      "heading": "A worked example on ₹50,000 take-home",
+      "paragraphs": [
+        "On take-home pay of ₹50,000, the targets are ₹25,000 for needs, ₹15,000 for wants and ₹10,000 for savings. The figures below are all hypothetical, not a survey of real household spending.",
+        "Imagine a renter in a metro city. Rent is ₹22,000, groceries ₹6,000, electricity, phone and internet ₹2,500, and transport ₹3,000. Needs come to ₹33,500, which is 67 per cent of take-home. That leaves ₹16,500, so a realistic plan is ₹8,500 for wants (17 per cent) and ₹8,000 for savings (16 per cent). The total is ₹33,500 + ₹8,500 + ₹8,000 = ₹50,000.",
+        "Now add a car EMI of ₹8,000 to the same person. Needs rise to ₹41,500, which is 83 per cent of take-home and ₹16,500 above the ₹25,000 target. Only ₹8,500 is left for wants and savings combined, so the rule has to be treated as a direction rather than a fixed split.",
+        "In a smaller city, the same person might pay rent of ₹12,000, with groceries of ₹6,000, bills of ₹2,500 and transport of ₹2,000. Needs then come to ₹22,500 (45 per cent). Wants at ₹15,000 (30 per cent) leave ₹12,500 for savings, which is 25 per cent and above the 20 per cent target. Here the rule works as written, with room to spare."
+      ]
+    },
+    {
+      "heading": "Where the rule breaks down",
+      "paragraphs": [
+        "Rent and EMIs are a major pressure in large cities. Analytics Insight notes that someone in a major city may spend a substantial share of income on rent or a home-loan EMI, which can make a 50 per cent needs cap unrealistic. When needs go above half, its suggested approach is to cut discretionary spending before compromising long-term savings.",
+        "Analytics Insight counts rent and home-loan EMIs as needs. Whatever you decide about loan prepayments, use the same method every month so that the figures stay comparable.",
+        "The rule is not an official Indian budgeting standard. Treat 50/30/20 as a starting point and adjust it for your income, city, debt and goals."
+      ]
+    },
+    {
+      "heading": "How to apply it this month",
+      "paragraphs": [
+        "Start with needs, because they are the least flexible. Add up the essentials, then compare the total with half of your take-home pay. Set a wants limit next, and move the savings amount out of your account on salary day rather than saving whatever is left at month end.",
+        "Compare the plan with what you actually spent, not with the plan alone. Each month, note where the money went and adjust the next month's limits."
+      ],
+      "list": [
+        "Add up needs: rent or EMI, groceries, bills, transport, insurance and medicines.",
+        "Compare needs with 50 per cent of take-home pay.",
+        "Set a monthly wants limit, including subscriptions.",
+        "Move the savings amount on salary day.",
+        "Review at month end against actual spending."
+      ]
+    },
+    {
+      "heading": "Tracking the three buckets in Essara",
+      "paragraphs": [
+        "Essara's expense tracker and budget planner let you log expenses and income, set a monthly budget with what is left to spend, and see spending by category. The free 50/30/20 budget planner on essara.space is a quick way to try the split first. You enter each entry yourself, and Essara does not read your bank account or SMS, so the buckets are only as accurate as the entries you add."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the 50/30/20 rule based on gross or take-home salary?",
+      "a": "Use take-home pay after tax. Analytics Insight describes the rule as applying to post-tax income, which is the figure that lands in your account."
+    },
+    {
+      "q": "What if my rent alone is half my salary?",
+      "a": "On ₹50,000 take-home, rent of ₹25,000 already fills the whole needs bucket before groceries or bills. In that case 50/30/20 is a target to work towards, and wants have to shrink first while you move towards it."
+    },
+    {
+      "q": "Is 50/30/20 an official RBI budgeting rule?",
+      "a": "No. It is a rule of thumb popularised by Elizabeth Warren and Amelia Warren Tyagi in their book All Your Worth, not a rule issued by the RBI or any Indian regulator. Treat the percentages as a starting point and adjust them to your rent, EMIs and goals."
+    },
+    {
+      "q": "Where do subscriptions fit in 50/30/20?",
+      "a": "Subscriptions such as streaming, music and app plans usually count as wants, alongside dining out and entertainment. Some people count phone and internet as needs. Pick one approach and use it consistently."
+    }
+  ],
+  "related": [
+    "learn/money-leaks",
+    "learn/subscription-creep",
+    "learn/manual-vs-automatic-expense-tracking",
+    "learn/monthly-vs-yearly-subscription-cost",
+    "learn/subscription-audit-checklist"
+  ],
+  "sources": [
+    {
+      "label": "Analytics Insight: 50/30/20 Budget Rule, Does It Really Work in India?",
+      "url": "https://www.analyticsinsight.net/amp/story/finance/503020-budget-rule-does-it-really-work-in-india"
+    },
+    {
+      "label": "InCharge.org: The 50/30/20 Rule for Budgeting",
+      "url": "https://www.incharge.org/financial-literacy/budgeting-saving/50-30-20-rule/"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free 50/30/20 budget planner",
+    "url": "https://essara.space/tools/budget-planner"
+  }
+}

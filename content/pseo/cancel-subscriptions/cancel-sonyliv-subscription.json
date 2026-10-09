@@ -1,0 +1,106 @@
+{
+  "slug": "cancel-sonyliv-subscription",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel SonyLIV Subscription: Steps for Each Payment Method",
+  "metaDescription": "Cancel your SonyLIV subscription from My Purchases, Google Play, Apple or Amazon, learn what access you keep and refund rules, and stop a UPI AutoPay mandate.",
+  "h1": "How do you cancel a SonyLIV subscription in India?",
+  "summary": "How you cancel SonyLIV depends on how you paid. If you paid by card, UPI or wallet, open My Purchases in SonyLIV and select Cancel, then choose a reason and submit. If you paid through Google Play, Apple or Amazon, cancel in that store's subscription settings, and SonyLIV's help page says you keep access until the end of the period you have already paid for.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel SonyLIV subscription", "SonyLIV refund after cancel", "stop SonyLIV auto debit", "cancel SonyLIV Google Play", "SonyLIV UPI AutoPay cancel"],
+  "about": ["SonyLIV", "UPI AutoPay", "Google Play"],
+  "stepsHeading": "How to cancel a SonyLIV subscription",
+  "steps": [
+    {
+      "name": "Find out who bills you",
+      "text": "Check the statement or receipt for the SonyLIV charge. SonyLIV's help page sorts cancellations by payment method: card, debit card, UPI or wallet; Google Play; Apple's App Store; and Amazon, where you subscribed with Amazon."
+    },
+    {
+      "name": "Cancel a card, UPI or wallet payment",
+      "text": "Open the My Purchases section in SonyLIV, click the Cancel button, select your cancellation reason and submit. The help page does not say whether this section sits in the app or on the website, so check both if you cannot find it."
+    },
+    {
+      "name": "Cancel a Google Play or Apple payment",
+      "text": "For Google Play, go to your Play Store account, select Subscriptions and click Unsubscribe. For Apple, open Settings, tap iTunes & App Store, tap your Apple ID, choose View Apple ID, sign in, select Subscriptions and pick the SonyLIV pack you want to end."
+    },
+    {
+      "name": "Cancel an Amazon payment",
+      "text": "On Amazon.com, go to Your Memberships and Subscriptions, select Manage Subscription next to SonyLIV, then follow the Advance Controls link to the main subscription page and end the subscription there."
+    },
+    {
+      "name": "Revoke any UPI mandate",
+      "text": "If your SonyLIV payment came from a UPI AutoPay mandate, open the AutoPay section of your UPI app and revoke it with your UPI PIN. In Google Pay this is under Autopay, Live tab, then the mandate. The label may vary by app version."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Packs that expire on their own",
+      "paragraphs": [
+        "SonyLIV's help page says that if you paid by a method that is not one of the listed options (card, debit card, UPI, wallets, Google Play, Apple or Amazon), you are charged once and the subscription expires automatically when the pack ends. In that case there is nothing to cancel, though it is still worth checking your bank or wallet statement in case a second charge appears.",
+        "A pack is a fixed period of access, so the date that matters is the expiry date, not the charge date. Note the date your pack ends when you buy it, because access stops then whether or not you cancel."
+      ]
+    },
+    {
+      "heading": "What you keep after cancelling, and refunds",
+      "paragraphs": [
+        "SonyLIV's refund article says it does not give refunds or credits for partial-month membership periods or for unwatched content. Access continues until the end of the subscription period, so cancelling in the middle of a month means you can keep watching until the period runs out, but you will not get money back for the unused days.",
+        "If you paid through Google Play, Google's help says that when you cancel you keep access for the time you have already paid for, and you will not be charged for the next period. Refunds for Google Play purchases follow Google's refund rules, which depend on the purchase, so check SonyLIV's refund terms first and contact SonyLIV support if you need help."
+      ]
+    },
+    {
+      "heading": "Uninstalling the app and confirming the cancellation",
+      "paragraphs": [
+        "Deleting the SonyLIV app does not cancel your subscription. SonyLIV's help page only lists the payment-based cancellation routes, and Google's help says that uninstalling an app does not cancel a Google Play subscription, so the same applies there.",
+        "SonyLIV's help page does not say whether it sends a cancellation email. Keep a screenshot of the confirmation screen after you submit. If you cancelled through Google Play or Apple, check the subscriptions page in that store, since that is where the cancellation is recorded."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI mandate",
+      "paragraphs": [
+        "Cancelling in SonyLIV does not automatically revoke a UPI AutoPay mandate in your UPI app. Google Pay's help says you can change or revoke a mandate from the Autopay section, Live tab, and that revoking needs your UPI PIN.",
+        "If you still see a debit from SonyLIV after your cancellation, revoke the mandate first, then contact SonyLIV with the transaction reference and the date of the debit. Menu wording differs between UPI apps, so look for AutoPay or Mandates in whichever app shows the payment."
+      ]
+    },
+    {
+      "heading": "Why tracking renewals helps",
+      "paragraphs": [
+        "SonyLIV can be billed by a card, a UPI mandate, Google Play, Apple or Amazon, so its renewal or expiry date is easy to lose. A single list with the service, the amount and the date it renews or expires shows what is coming before money leaves your account. Essara works that way: you enter each subscription or mandate yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I get a refund if I cancel SonyLIV?",
+      "a": "SonyLIV's help page says it does not provide refunds or credits for partial-month membership periods or unwatched content. You keep access until the end of the subscription period, so cancelling early means watching out the time you have paid for."
+    },
+    {
+      "q": "Does deleting the SonyLIV app cancel my subscription?",
+      "a": "No. SonyLIV's help lists cancellation routes that depend on how you paid, and none of them is uninstalling the app. Google's help also says that uninstalling an app does not cancel a Play subscription."
+    },
+    {
+      "q": "How do I cancel SonyLIV if I paid through Google Play?",
+      "a": "Open your Play Store account, select Subscriptions and click Unsubscribe, as SonyLIV's help page describes. Google's own help gives the same route, opening subscriptions in Google Play, selecting the subscription and tapping Cancel subscription."
+    },
+    {
+      "q": "Where is My Purchases in the SonyLIV app?",
+      "a": "SonyLIV's help page names the My Purchases section but does not say whether it is in the app or the website. Check both. The cancel button sits inside that section, so once you find it, follow the reason-and-submit step."
+    },
+    {
+      "q": "Why is a SonyLIV UPI debit still coming through?",
+      "a": "The debit may be an active UPI AutoPay mandate. Open the AutoPay or Mandates section of your UPI app, find the SonyLIV mandate and revoke it with your UPI PIN. Then contact SonyLIV about any debit that came after the cancellation."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-zee5-subscription",
+    "cancel-subscriptions/cancel-jiohotstar-subscription",
+    "cancel-subscriptions/cancel-netflix-subscription-india",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone"
+  ],
+  "sources": [
+    { "label": "SonyLIV Help: How can I cancel my subscription?", "url": "https://help.sonyliv.com/categories/cat-subscription/articles/how-can-i-cancel-my-subscription" },
+    { "label": "SonyLIV Help: Will I get a refund if I cancel my subscription?", "url": "https://help.sonyliv.com/categories/cat-subscription/articles/will-i-get-a-refund-if-i-cancel-my-subscription" },
+    { "label": "Google Play Help: Cancel, pause, or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481?hl=en" },
+    { "label": "Google Pay Help: Learn how to manage recurring payments", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

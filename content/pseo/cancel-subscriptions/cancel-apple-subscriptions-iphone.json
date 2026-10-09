@@ -1,0 +1,109 @@
+{
+  "slug": "cancel-apple-subscriptions-iphone",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel Apple Subscriptions on iPhone, iPad and Mac (2026)",
+  "metaDescription": "See every App Store and Apple subscription on your iPhone, iPad or Mac and cancel it in a few taps. Includes India payment notes for UPI AutoPay and refunds.",
+  "h1": "How do I see and cancel an Apple subscription on my iPhone, iPad or Mac?",
+  "summary": "On an iPhone or iPad, open Settings, tap your name, tap Subscriptions, choose the subscription and tap Cancel Subscription. On a Mac, open the App Store, click your name in the sidebar, click Subscriptions and then Cancel Subscription. If the subscription is not on any device, sign in at account.apple.com with your Apple Account and cancel it there.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Apple subscription iPhone", "cancel App Store subscription", "Apple subscriptions list iPhone", "cancel Apple Music subscription", "Apple subscription UPI AutoPay India"],
+  "about": ["Apple Account", "App Store", "UPI AutoPay"],
+  "stepsHeading": "Cancel an Apple subscription on iPhone or iPad",
+  "steps": [
+    {
+      "name": "Open Settings and tap your name",
+      "text": "Open the Settings app and tap your name at the top. This is the Apple Account that is signed in on the device."
+    },
+    {
+      "name": "Tap Subscriptions",
+      "text": "Tap Subscriptions. Every subscription billed by Apple to this Apple Account is listed here, including App Store apps, Apple Music and Apple TV."
+    },
+    {
+      "name": "Choose the subscription",
+      "text": "Tap the subscription you want to end. If you cannot see it, sign in with a different Apple Account, because the subscription may sit under another one."
+    },
+    {
+      "name": "Tap Cancel Subscription",
+      "text": "Scroll down if needed and tap Cancel Subscription. If there is no Cancel button, or you see an expiry message in red text, the subscription has already been cancelled or has ended."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Finding subscriptions on a Mac or Windows PC",
+      "paragraphs": [
+        "On a Mac, open the App Store, click your name at the bottom of the sidebar, or click Sign In and sign in to your Apple Account. On the page that appears, click your name, then click Subscriptions. Click the subscription, then click Cancel Subscription.",
+        "On a Windows PC, open the Apple Music or Apple TV app and go to your account. Under Settings, next to Subscriptions, click Manage, then Cancel Subscription. Subscriptions can also be managed at account.apple.com."
+      ]
+    },
+    {
+      "heading": "When the subscription is not on your device",
+      "paragraphs": [
+        "Search your email for the words receipt from Apple or invoice from Apple. The receipt shows which Apple Account paid for the subscription. If that account is one you use, sign in to it on the device or at account.apple.com and cancel from there.",
+        "If a family member's Apple Account appears on the receipt, only that person can cancel it, because you cannot cancel a family member's subscription. If you cannot find an Apple receipt at all, the plan was probably bought from another company. Check your bank or card statement for the company that bills you, and cancel with that company. Apple says that a subscription you received through a wireless network operator or other provider should be handled by contacting that operator."
+      ]
+    },
+    {
+      "heading": "Cancelling from Android",
+      "paragraphs": [
+        "Apple's help page says Apple Music or Apple TV subscriptions billed through Google Play are cancelled in the Google Play app. Apple subscriptions billed by Apple can be cancelled by going to account.apple.com, following the on-screen steps and signing in with your Apple Account."
+      ]
+    },
+    {
+      "heading": "Trials, refunds and what the red message means",
+      "paragraphs": [
+        "If you started a trial and do not want it to renew, cancel it at least 24 hours before the trial ends. Apple's help page sets this limit, so do not wait until the last day.",
+        "If you were charged for a subscription you no longer want, you can ask for a refund at reportaproblem.apple.com. Sign in, tap or click I'd like to, choose Request a refund, pick the reason, choose the subscription and submit. Refund eligibility varies by country, and Apple says that consumer protection laws where you live still apply. You can also cancel the subscription from the same place so that it does not renew."
+      ]
+    },
+    {
+      "heading": "Apple payment methods for subscriptions in India",
+      "paragraphs": [
+        "Apple's India billing page says you can pay for subscriptions with UPI Autopay, an accepted credit or debit card, or your Apple Account balance. You can also add funds to your balance using cards, App Store Codes, Net Banking or UPI. Check your payment method in your Apple Account settings.",
+        "UPI Autopay needs a bank that supports it and enough funds in the account to cover the charge. To switch a subscription from UPI Autopay to a card, cancel it, wait until it expires and then subscribe again with the card. Apple also notes that Indian government rules can require extra steps, so you may need to update your payment method before a purchase goes through.",
+        "Cancelling the subscription in Apple's settings stops the next renewal. If a UPI AutoPay mandate was linked to it, also check the AutoPay or Mandates section of your UPI app afterwards and revoke any mandate that is still active."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara is a manual tracker. You add each Apple subscription with its amount, billing cycle and renewal date, and it lists upcoming renewals with a reminder before each one. It cannot see your Apple Account, your bank, your UPI app or Apple's charges, so the renewal date has to be typed in once."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why can't I see a subscription I bought?",
+      "a": "It was probably bought with another Apple Account, or billed by another company. Check the receipt from Apple, which shows the Apple Account used, and sign in with that account. If there is no Apple receipt, the subscription was bought from a different company, so cancel with that company."
+    },
+    {
+      "q": "Can I cancel a subscription from my family member's account?",
+      "a": "No. Apple says you cannot cancel a family member's subscription, so ask the family member whose Apple Account is on the receipt to cancel it."
+    },
+    {
+      "q": "What does the red expiry message mean?",
+      "a": "It means the subscription has already been cancelled or has ended, so there is nothing more to cancel. Apple uses it in place of the Cancel Subscription button."
+    },
+    {
+      "q": "Can I cancel an Apple Music subscription from an Android phone?",
+      "a": "Yes, but where you cancel depends on who bills you. If Google Play bills you, cancel in the Google Play app. If Apple bills you, go to account.apple.com and follow the on-screen instructions."
+    },
+    {
+      "q": "Can I get my money back after cancelling an App Store subscription?",
+      "a": "Cancelling stops future renewals. For a refund on a charge you do not want, request one at reportaproblem.apple.com. Refund eligibility varies by country, and Apple does not guarantee a refund for every charge."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-zee5-subscription",
+    "cancel-subscriptions/cancel-spotify-premium-india",
+    "cancel-subscriptions/cancel-youtube-premium-india",
+    "learn/free-trial-auto-renewal"
+  ],
+  "sources": [
+    { "label": "Apple Support: Cancel a subscription from Apple (India)", "url": "https://support.apple.com/en-in/HT202039" },
+    { "label": "Apple Support: About billing for Apple subscriptions and media products in India", "url": "https://support.apple.com/en-us/108110" },
+    { "label": "Apple Support: Request a refund for apps or content you've bought from Apple", "url": "https://support.apple.com/en-in/HT204084" },
+    { "label": "Apple Support: Payment methods that you can use with your Apple Account (India)", "url": "https://support.apple.com/en-in/111741" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

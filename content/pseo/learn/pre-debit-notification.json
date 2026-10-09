@@ -1,0 +1,91 @@
+{
+  "slug": "pre-debit-notification",
+  "cluster": "learn",
+  "title": "Pre-Debit Notification: What It Is and How to Respond",
+  "metaDescription": "A pre-debit notification warns you at least 24 hours before a recurring debit. Learn what to check, how to pause, opt out or cancel, and why alerts get missed.",
+  "h1": "What is a pre-debit notification, and how should you respond to one?",
+  "summary": "A pre-debit notification is an advance alert, sent at least 24 hours before a recurring debit, that shows the merchant, amount, date and mandate reference. Under the RBI's 2026 e-mandate directions, the issuer must send it for covered card and UPI mandates, and you can opt out of one debit or the whole mandate. If you do nothing, the debit normally goes ahead on its date, unless it needs an authentication step you have not completed.",
+  "updated": "2026-10-09",
+  "keywords": ["pre-debit notification", "pre-debit notice 24 hours", "UPI AutoPay pre-debit alert", "opt out of recurring debit", "e-mandate notification"],
+  "about": ["Pre-debit notification", "E-mandate", "Recurring payments"],
+  "stepsHeading": "How to respond to a pre-debit notification",
+  "steps": [
+    { "name": "Read the notice before the due date", "text": "Open the alert and check the merchant name, the amount, the date and time of the debit, and the e-mandate reference. Compare them with the subscription you signed up for. A mismatch is a reason to act, not just to wait." },
+    { "name": "Decide what you want", "text": "You can let the debit go through, opt out of this one debit, pause the mandate for a period, or cancel it. These are different actions, so read the options before you tap anything." },
+    { "name": "Act in the app or portal that holds the mandate", "text": "In Google Pay, tap the notification to see the details, then pause or cancel the mandate with your UPI PIN. For a card mandate, sign in to the issuer's mandate portal, such as HSBC's MandateHQ, and pause or cancel with the OTP sent to your registered mobile number." },
+    { "name": "Confirm the status changed", "text": "In Google Pay, open Autopay and check the Live tab to see whether the mandate now shows as paused or cancelled. On a bank portal, keep any reference number it gives you. A request on screen is not proof of cancellation until the status changes." },
+    { "name": "Cancel the service with the merchant too", "text": "Stopping a mandate stops future debits, but it may not end your account with the merchant. Cancel the subscription itself, and check your next statement for any debit that still goes through." }
+  ],
+  "sections": [
+    {
+      "heading": "What to check in the notice",
+      "paragraphs": [
+        "The notice is the last easy point to stop a debit, so read it. The directions set the minimum content: the merchant's name, the amount, the date and time of the debit, the e-mandate reference and the reason for the debit. Compare each item with what you approved. A different amount or an unfamiliar merchant is a reason to contact the issuer before the due date.",
+        "The notice is not the debit. It is sent before any money moves. Once a debit has gone through, a post-transaction notice follows, and any dispute goes through your issuer's grievance process."
+      ]
+    },
+    {
+      "heading": "Why notices get missed",
+      "paragraphs": [
+        "A notice only reaches you through the channel you chose. If the phone number or email on file is out of date, the alert may never arrive. The directions let you choose or change the channel, so check the setting in your bank or card account.",
+        "App alerts can be switched off in your phone's settings, and an SMS can be missed after a number change. If you think you missed one, check the mandate in the Live or Pending list of your UPI app, or in your card issuer's portal, before the due date."
+      ]
+    },
+    {
+      "heading": "Pause, opt out or cancel: what each does",
+      "paragraphs": [
+        "These are different actions. An opt-out skips one debit. A pause holds the mandate for a period, and Google Pay lets you set the start and end dates. A cancellation ends the mandate. Whether your app lets you skip a single debit, or only pause, depends on the app.",
+        "A cancelled mandate is final. HSBC's MandateHQ lets a paused mandate be resumed, but a cancelled one has to be registered again. If you are unsure, pausing gives you time to check the merchant's terms and your next statement."
+      ]
+    },
+    {
+      "heading": "Seeing debits before the notice",
+      "paragraphs": [
+        "Notices arrive one at a time, in different apps, so it is easy to miss one. Essara's UPI AutoPay tracker lets you enter each mandate yourself and shows upcoming auto-debits for the week and month, so you can see what is due before the notice arrives. It does not read your bank's alerts, SMS or UPI app, so it is only as current as the entries you make."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to respond to a pre-debit notification?",
+      "a": "Usually not. If you do nothing, the debit goes ahead on the scheduled date, unless it needs an authentication step you have not completed. Respond only if you want to skip, pause or cancel that debit."
+    },
+    {
+      "q": "Can I skip one payment without cancelling the whole mandate?",
+      "a": "The RBI directions require the issuer to let you opt out of a particular transaction, and the opt-out is validated with AFA. Whether your app offers a one-off skip, or only a pause for a date range, depends on the app, so read the options in the notice."
+    },
+    {
+      "q": "What should I do if a debit happened without any notice?",
+      "a": "Raise it with your issuer in writing and keep the reference number. The directions require issuers to run a grievance redressal system, and the RBI's customer liability rules apply to e-mandate transactions. If the notice is missing, check which channel is on file first."
+    },
+    {
+      "q": "Does a pre-debit notice mean the money has already left my account?",
+      "a": "No. The notice is sent before the debit, so it confirms what is scheduled, not what has been paid. Post-transaction alerts confirm that a debit has happened."
+    }
+  ],
+  "related": [
+    "rbi-recurring-payment-rules",
+    "what-is-upi-autopay",
+    "cancel-upi-autopay-google-pay",
+    "free-trial-auto-renewal",
+    "subscription-audit-checklist"
+  ],
+  "sources": [
+    {
+      "label": "RBI: Digital Payments - E-mandate Framework, 2026",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
+    },
+    {
+      "label": "Google Pay Help: Manage AutoPay",
+      "url": "https://support.google.com/pay/india/answer/10452280?hl=en"
+    },
+    {
+      "label": "HSBC India: e-mandates FAQ",
+      "url": "https://hsbc.co.in/help/faqs/e-mandates"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
+}

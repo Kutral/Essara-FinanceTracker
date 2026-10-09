@@ -1,0 +1,26 @@
+[
+  {
+    "q": "What is Essara?",
+    "a": "Essara is a subscription tracker, UPI AutoPay tracker and expense tracker made for India. You add your subscriptions, AutoPay mandates, bills, expenses and investments, and Essara shows what renews next, what it costs per month and per year, and where your money goes. It works on Android and on the web at essara.space."
+  },
+  {
+    "q": "Does Essara need my bank login or read my SMS?",
+    "a": "No. Essara never asks for your bank login, UPI PIN or SMS access, and it never connects to your bank or UPI app. You add entries yourself or scan a receipt and review it before saving."
+  },
+  {
+    "q": "Can Essara track UPI AutoPay mandates?",
+    "a": "Yes. Add each UPI AutoPay mandate once and Essara shows the upcoming auto-debits for this week and this month, reminds you before each renewal and helps you spot old mandates you no longer need. You still pause or revoke a mandate in your UPI app or on the NPCI UPI help portal."
+  },
+  {
+    "q": "Is Essara free?",
+    "a": "Yes, Essara is free to start with no card needed. The free plan includes unlimited manual expense tracking, 3 months of history, 5 receipt scans a month, 5 subscription slots and 2 investment slots. At the time of writing, Pro costs ₹100 a month or ₹1,000 a year, and Lifetime is ₹2,000 one-time."
+  },
+  {
+    "q": "Is Essara available on iPhone?",
+    "a": "There is no native iPhone app. iPhone users can use Essara in the browser at essara.space or add it to the home screen as a web app, with the same account as the Android app."
+  },
+  {
+    "q": "Can I use Essara outside India?",
+    "a": "Yes. Essara works worldwide on the web and on Google Play wherever it is available, with multi-currency support. India-specific features such as UPI AutoPay tracking and NSE/BSE prices are there if you need them."
+  }
+]

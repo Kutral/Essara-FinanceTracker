@@ -1,0 +1,126 @@
+{
+  "slug": "subscription-creep",
+  "cluster": "learn",
+  "title": "Subscription Creep: What It Is and How to Reverse It",
+  "metaDescription": "Subscription creep is the slow build-up of small recurring charges you no longer use. Learn its traps, why cancelled plans still bill you and how to reverse it.",
+  "h1": "What is subscription creep, and how do you reverse it?",
+  "summary": "Subscription creep is the slow, mostly unnoticed build-up of recurring charges you forgot about or no longer use. It happens because each charge looks small, free trials and price rises go unreviewed, and monthly amounts hide the yearly total. You reverse it by checking whether your recurring total has grown, keeping only the charges that still earn their place, and revoking the payment permission behind each one you cancel.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "subscription creep",
+    "what is subscription creep",
+    "forgotten subscriptions India",
+    "subscription price increase",
+    "reduce subscription costs India"
+  ],
+  "about": [
+    "Subscription creep",
+    "Recurring payments",
+    "Lifestyle creep"
+  ],
+  "stepsHeading": "How to reverse subscription creep",
+  "steps": [
+    {
+      "name": "Compare the total with last year",
+      "text": "Work out your recurring total for this month and compare it with a figure from a year ago, if you have one. A total that keeps growing with no new purpose is the clearest sign of creep."
+    },
+    {
+      "name": "Look for price rises at renewal",
+      "text": "Check each renewal notice or plan page for a higher price. A small rise is easy to accept, but several small rises across services move the total."
+    },
+    {
+      "name": "Decide whether each charge earns its place",
+      "text": "Ask when you last used each service and whether you would sign up again today. Keep the ones you use regularly and mark the rest to cancel or downgrade."
+    },
+    {
+      "name": "Revoke the payment permission too",
+      "text": "After cancelling, check the UPI AutoPay or Mandates section of your UPI apps and the recurring billing on your card. Razorpay's guide notes that in older systems, cancelling a service did not always cancel the linked bank instruction."
+    },
+    {
+      "name": "Check new trials before they convert",
+      "text": "Trials are one of the main ways creep returns. Before you start one, set a calendar reminder for its end date and decide in advance whether you will keep it."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What subscription creep means",
+      "paragraphs": [
+        "PocketGuard describes subscription creep as the slow, mostly unnoticed build-up of recurring charges that adds up to real money before anyone totals it. It is rarely one bad decision. It is a series of small, reasonable choices that never get reviewed again.",
+        "Outlook Money uses the related term lifestyle creep for spending that rises as income rises, such as upgrading gadgets, subscribing to premium services and dining out more often. The two overlap, but subscription creep is specifically about recurring charges that continue after the reason for them has gone."
+      ]
+    },
+    {
+      "heading": "The three traps behind it",
+      "paragraphs": [
+        "PocketGuard names three psychological traps. Free-trial anchoring makes a charge feel small because it is compared with zero rather than with your budget. Sunk cost keeps a service running because you have already paid for it. Quiet price rises are absorbed at renewal because a few extra rupees do not seem worth the effort of cancelling.",
+        "Razorpay's guide to UPI AutoPay gives a typical case: you sign up for a trial, plan to review it later, and the monthly charge continues. At ₹199 or ₹299 a month, it rarely raises an alarm."
+      ]
+    },
+    {
+      "heading": "Why cancelled services can still bill you",
+      "paragraphs": [
+        "Cancelling the service does not always cancel the payment permission behind it. Razorpay describes zombie mandates in older systems, where a debit continued after the user believed the service had ended. Mandates sit inside your UPI app, so check there, and check your card statement for merchant charges that may not appear in any app-store list.",
+        "Google's help page says that where an app offers a pause, it can run from one week to three months and starts at the end of the current billing period. A pause suits a service you expect to return to. For one you have finished with, cancel it and keep the confirmation."
+      ]
+    },
+    {
+      "heading": "Illustrative example (not real data)",
+      "paragraphs": [
+        "This example is hypothetical. Suppose five plans cost ₹149, ₹199, ₹299, ₹99 and ₹499 a month. Together they come to ₹1,245 a month, and over a year that is ₹1,245 × 12 = ₹14,940. Each plan looks modest on its own, but the yearly total is the figure that changes decisions."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Enter each subscription in Essara with its amount, billing cycle and renewal date, and the monthly and yearly totals sit in one place. The renewal timeline then shows what is due soon, so creep is easier to spot before the next charge. Essara is manual: you add each item yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know if I have subscription creep?",
+      "a": "Add up every recurring payment for one month, including UPI AutoPay mandates and app-store subscriptions. If the total surprises you, or you cannot say what some charges are for, you have creep. Repeating the total every few months shows whether it is growing."
+    },
+    {
+      "q": "Is subscription creep the same as lifestyle creep?",
+      "a": "They are related but not the same. Subscription creep is about recurring charges that continue unnoticed. Lifestyle creep is about spending rising as income rises. Both can happen at the same time."
+    },
+    {
+      "q": "Can a cancelled subscription still be charged?",
+      "a": "Yes, if the payment permission is still active. Razorpay's guide describes older systems in which cancelling a service did not automatically cancel the linked bank instruction. Revoke the mandate in the UPI app that created it, and check your card statement after cancelling."
+    },
+    {
+      "q": "Should I pause or cancel a service I rarely use?",
+      "a": "Pause it only if you expect to come back to it. Google says a pause can run from one week to three months where an app offers one. If you are not sure you will return, cancel it, since a paused service that you forget about is still creep."
+    }
+  ],
+  "related": [
+    "learn/free-trial-auto-renewal",
+    "learn/money-leaks",
+    "learn/subscription-audit-checklist",
+    "learn/monthly-vs-yearly-subscription-cost",
+    "learn/manual-vs-automatic-expense-tracking"
+  ],
+  "sources": [
+    {
+      "label": "PocketGuard: The Psychology of Subscription Creep",
+      "url": "https://pocketguard.com/blog/subscription-creep/"
+    },
+    {
+      "label": "Outlook Money: The hidden drains on your money",
+      "url": "https://www.outlookmoney.com/amp/story/personal-finance/the-hidden-drains-on-your-money-how-everyday-spending-silently-erodes-wealth"
+    },
+    {
+      "label": "Razorpay: Is UPI AutoPay safe?",
+      "url": "https://razorpay.com/blog/is-autopay-safe-upi-security-guide/"
+    },
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}

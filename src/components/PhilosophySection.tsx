@@ -12,7 +12,7 @@ export function PhilosophySection() {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-7xl lg:text-8xl text-white tracking-tight mb-16 md:mb-24 font-sans"
         >
-          Financial clarity <span className="font-serif italic text-white/40">x</span> Vision.
+          Private <span className="font-serif italic text-white/40">x</span> Built for India.
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
@@ -32,7 +32,7 @@ export function PhilosophySection() {
               autoPlay
               loop
               playsInline
-              preload="auto"
+              preload="metadata"
               aria-label="Animation representing financial clarity and money management"
             />
           </motion.div>
@@ -46,19 +46,18 @@ export function PhilosophySection() {
             className="flex flex-col justify-center space-y-12"
           >
             <article>
-              <h3 className="text-white/40 text-xs tracking-widest uppercase mb-4">Choose your space</h3>
+              <h3 className="text-white/40 text-xs tracking-widest uppercase mb-4">Private by design</h3>
               <p className="text-white/70 text-base md:text-lg leading-relaxed font-sans speakable-services">
-                Every meaningful breakthrough begins at the intersection of discipline and clarity. We operate at that crossroads, turning raw transactions into tangible outcomes that give you peace of mind. Our expense tracker and budget planner work together to surface the insights that actually matter for your personal finance goals. Get started now at <a href="https://essara.space/" className="text-white underline underline-offset-4 hover:opacity-80" rel="noopener noreferrer">essara.space</a>.
+                Essara does not ask for your bank login, read your SMS or ask for your UPI PIN, and it does not connect to your UPI app. There are no ads, your data is never sold, and you can delete your account and data at any time. Connections use HTTPS, and data is kept in secure cloud storage with row-level security. Read more at <a href="https://essara.space/" className="text-white underline underline-offset-4 hover:opacity-80" rel="noopener noreferrer">essara.space</a>.
               </p>
             </article>
 
             <div className="w-full h-px bg-white/10" aria-hidden="true" />
 
             <article>
-              <h3 className="text-white/40 text-xs tracking-widest uppercase mb-4">Shape the future</h3>
+              <h3 className="text-white/40 text-xs tracking-widest uppercase mb-4">Built for how India pays</h3>
               <p className="text-white/70 text-base md:text-lg leading-relaxed font-sans speakable-services">
-                We believe that the best financial habits emerge when curiosity meets conviction. Essara is designed to uncover hidden spending patterns and translate them into positive experiences that resonate long after you check your dashboard. From daily expense tracking to long-term savings goals, essara.space helps you build a financial future you can actually see.
-              </p>
+                Track UPI AutoPay mandates, OTT and music plans, mobile recharge plans, rent, electricity, broadband and phone bills, and SIP investments in one list. Amounts are in INR, and Pro adds live NSE and BSE prices for stocks and funds. Outside India, multi-currency support lets you track money in other currencies.</p>
             </article>
           </motion.div>
         </div>

@@ -3,6 +3,8 @@ import { AboutSection } from './components/AboutSection';
 import { FeaturedVideoSection } from './components/FeaturedVideoSection';
 import { PhilosophySection } from './components/PhilosophySection';
 import { ServicesSection } from './components/ServicesSection';
+import { GuidesSection } from './components/GuidesSection';
+import { HomeFAQ } from './components/HomeFAQ';
 
 export default function App() {
   return (
@@ -13,10 +15,12 @@ export default function App() {
         <FeaturedVideoSection />
         <PhilosophySection />
         <ServicesSection />
+        <GuidesSection />
+        <HomeFAQ />
       </main>
       
-      {/* Final barebones footer linking back to essara.space */}
-      <footer className="w-full bg-black py-12 border-t border-white/5 flex flex-col items-center z-10 relative" role="contentinfo" aria-label="Essara footer">
+      {/* Footer linking back to essara.space and the Play Store */}
+      <footer className="w-full bg-black py-12 px-6 text-center border-t border-white/5 flex flex-col items-center z-10 relative" role="contentinfo" aria-label="Essara footer">
         <p className="text-white/40 text-sm font-sans mb-4">
           Ready to take control of your personal finances?
         </p>
@@ -34,10 +38,12 @@ export default function App() {
           </svg>
           Get the Android App
         </a>
-        <nav className="mt-8 flex gap-6" aria-label="Footer navigation">
+        <nav className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-3" aria-label="Footer navigation">
           <a href="#about" className="text-white/40 text-sm hover:text-white/80 transition-colors">About</a>
           <a href="#features" className="text-white/40 text-sm hover:text-white/80 transition-colors">Features</a>
-          <a href="#pricing" className="text-white/40 text-sm hover:text-white/80 transition-colors">Pricing</a>
+          <a href="#guides" className="text-white/40 text-sm hover:text-white/80 transition-colors">Guides</a>
+          <a href="#faq" className="text-white/40 text-sm hover:text-white/80 transition-colors">FAQ</a>
+          <a href="https://essara.space/pricing" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener">Pricing</a>
           <a href="https://essara.space/" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener noreferrer">Web App</a>
           <a href="https://play.google.com/store/apps/details?id=space.essara.app" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener noreferrer">Android</a>
         </nav>
@@ -50,10 +56,10 @@ export default function App() {
               <div className="flex flex-col gap-1.5">
                 <a href="https://essara.space/essara-app" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara App</a>
                 <a href="https://essara.space/download" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Download</a>
-                <a href="https://essara.space/dashboard" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Dashboard</a>
-                <a href="https://essara.space/scanner" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Scanner</a>
-                <a href="https://essara.space/subscription-manager" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Subscriptions</a>
-                <a href="https://essara.space/investments" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Investments</a>
+                <a href="https://essara.space/subscription-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Subscription Tracker</a>
+                <a href="https://essara.space/receipt-scanner-expense-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Receipt Scanner</a>
+                <a href="https://essara.space/expense-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Expense Tracker</a>
+                <a href="https://essara.space/investment-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Investment Tracker</a>
               </div>
             </div>
             <div>
@@ -74,7 +80,7 @@ export default function App() {
                 <a href="https://essara.space/blog" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Blog</a>
                 <a href="https://essara.space/contact" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Contact</a>
                 <a href="https://essara.space/pricing" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Pricing</a>
-                <a href="https://essara.space/referral" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Referral</a>
+                <a href="https://essara.space/guides" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Guides</a>
                 <a href="https://essara.space/docs" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Docs</a>
               </div>
             </div>
@@ -82,7 +88,7 @@ export default function App() {
               <h4 className="text-white/30 text-[10px] uppercase tracking-widest mb-3">Resources</h4>
               <div className="flex flex-col gap-1.5">
                 <a href="https://essara.space/compare" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Compare</a>
-                <a href="https://essara.space/compare/essara-vs-ynab" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs YNAB</a>
+                <a href="https://essara.space/alternatives" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Alternatives</a>
                 <a href="https://essara.space/compare/essara-vs-monarch-money" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs Monarch</a>
                 <a href="https://essara.space/compare/essara-vs-rocket-money" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs Rocket</a>
                 <a href="https://essara.space/privacy-policy" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Privacy Policy</a>
@@ -93,7 +99,7 @@ export default function App() {
         </div>
 
         <p className="text-white/20 text-xs mt-10">
-          © {new Date().getFullYear()} Essara. All rights reserved. Personal Finance & Money Clarity.
+          © {new Date().getFullYear()} Essara. All rights reserved. Subscription, UPI AutoPay & expense tracker.
         </p>
       </footer>
     </div>

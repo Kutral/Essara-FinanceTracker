@@ -1,0 +1,88 @@
+{
+  "slug": "cancel-zomato-gold",
+  "cluster": "cancel-subscriptions",
+  "title": "How to Stop Zomato Gold Charges in India (2026) | Essara",
+  "metaDescription": "Stop Zomato Gold charges in India: what Zomato's terms say about Gold refunds and renewal, how to ask for a cancellation, and how to revoke the UPI mandate.",
+  "h1": "How do you stop Zomato Gold charges in India?",
+  "summary": "Zomato Gold is an invite-only membership in select cities, and Zomato's terms say a purchased membership is non-refundable. The terms do not describe how to cancel or say whether a plan renews automatically, and the Gold page we could read shows no price. To stop a charge, check the Zomato app for a membership setting, ask Gold support to cancel in writing, and revoke the UPI AutoPay mandate or store subscription that collects the payment.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Zomato Gold", "stop Zomato Gold charges", "Zomato Gold auto renewal", "Zomato Gold refund India", "revoke Zomato UPI AutoPay"],
+  "about": ["Zomato Gold", "Zomato", "UPI AutoPay"],
+  "stepsHeading": "How to stop Zomato Gold charges",
+  "steps": [
+    { "name": "Find the charge", "text": "Check your bank, card or UPI app statement for a Zomato entry. Note the date, the amount and the payment method, because the method decides where you stop it." },
+    { "name": "Look for a membership setting in the app", "text": "Open the Zomato app and look for a Gold or membership section in your account. If you find a renewal or auto-pay setting, turn it off. If you cannot find one, move on to the next step, because the terms do not describe an in-app cancellation route." },
+    { "name": "Ask Gold support in writing", "text": "Zomato's terms name Gold chat support in the Zomato app and the email address gold@zomato.com. Ask them to stop any renewal and to say in writing whether any amount can be refunded. Save the chat transcript or the email." },
+    { "name": "Revoke the UPI mandate", "text": "If the charge is a UPI AutoPay mandate, open Google Pay, tap your profile picture, select Autopay, open the Live tab, choose the Zomato mandate, select Cancel autopay and enter your UPI PIN. In other UPI apps, look for Autopay or Mandates, because the label varies." },
+    { "name": "Cancel store billing if it applies", "text": "If you paid through Google Play, open subscriptions in Google Play on your Android device, select the subscription and tap Cancel subscription. For App Store billing, cancel from the App Store's subscription settings." },
+    { "name": "Check your next statement", "text": "Keep the support confirmation and check your next statement. If a charge still appears, raise it with the payment provider that processed it." }
+  ],
+  "sections": [
+    {
+      "heading": "What Zomato's terms say about Gold",
+      "paragraphs": [
+        "Zomato's Terms of Service, in the clause headed Zomato Gold, describe Gold as an invite-only membership programme available in select cities. The membership fee depends on the plan you choose, and the terms refer to buying and renewing that plan through the Zomato platform.",
+        "The same clause says the membership, once purchased, is non-transferable and non-refundable. It also says Zomato can terminate the Gold programme at any time, with immediate effect and without prior notice. The terms do not describe how to cancel, and they do not say whether a plan renews automatically."
+      ]
+    },
+    {
+      "heading": "What the Gold page does and does not show",
+      "paragraphs": [
+        "The Gold page lists free delivery from restaurants within 7 km on orders above ₹99, and up to 30% extra off above existing offers at more than 20,000 partner restaurants. Its FAQ includes a 'Coming Soon' message for some visitors and asks which cities Gold is available in, so access varies by city and account.",
+        "The text we could read on that page does not show a price. Third-party sites may quote prices or renewal rules, but we could not check them against Zomato. Treat any such figure with caution, and check the membership details in your own app and payment records."
+      ]
+    },
+    {
+      "heading": "Why a charge can continue after you stop using Zomato",
+      "paragraphs": [
+        "A membership can stop being useful to you while a payment still runs in the background. The charge is usually tied to a payment permission that sits outside the Zomato app, such as a UPI AutoPay mandate, a card's recurring billing instruction, or a subscription in Google Play or the App Store. Cancelling inside the app does not always remove that permission, so check the payment side as well.",
+        "Google Pay's help page describes a common snag with UPI mandates: cancellation can fail if the bank account linked to the mandate is inactive. In that case, reactivate the account and try again. The Autopay section can also be missing in an older version of the app, and Google suggests updating Google Pay."
+      ]
+    },
+    {
+      "heading": "Refunds: what to ask for",
+      "paragraphs": [
+        "The terms say a purchased Gold membership is non-refundable, so a refund is unlikely under them. It is still worth asking Gold support in writing whether any amount can be returned for the current period, and keeping their reply. Do not assume a refund either way.",
+        "If the charge was billed through Google Play, Google's refund page says purchases follow Google Play's refund policies, and that you should report a purchase you did not make, and that nobody you know made, within 120 days of the transaction. For a UPI or card charge, your bank or card issuer is the right place to raise a dispute if support does not resolve it."
+      ]
+    },
+    {
+      "heading": "Tracking renewals in Essara",
+      "paragraphs": [
+        "A membership that you forgot about is the usual reason charges keep coming. Essara is a manual tracker: you add a subscription yourself with its cost and billing cycle, and it shows upcoming renewals and sends a reminder before each one. Essara does not connect to your bank, UPI app or SMS, so it only knows what you enter."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Zomato Gold still available in 2026?",
+      "a": "We could not confirm it from Zomato's pages. The Gold page is live and describes an invite-only programme in select cities, and it shows a 'Coming Soon' message for some visitors. Check the Zomato app for a membership section, or ask Gold support whether your city and account have access."
+    },
+    {
+      "q": "Does Zomato Gold renew automatically?",
+      "a": "The terms refer to buying and renewing a membership plan, but they do not say whether renewal is automatic. Check your payment records for a recurring charge, and check the UPI AutoPay, card or store subscription behind it."
+    },
+    {
+      "q": "Can I get a refund for a Zomato Gold charge?",
+      "a": "Zomato's terms say a purchased Gold membership is non-refundable. You can still ask Gold support in writing whether any amount can be returned. For Google Play billing, Google's refund policies apply, and for UPI or card charges your bank or card issuer can help with a dispute."
+    },
+    {
+      "q": "What if Zomato keeps charging me after I cancelled?",
+      "a": "Look at the payment method on the charge. If it is a UPI mandate, revoke it in your UPI app. If it is store billing, cancel it in the store. If it is a card, ask your card issuer to stop the recurring charge. Keep the support confirmation and raise a dispute with the payment provider if needed."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-swiggy-one",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "upi-autopay/cancel-upi-autopay-google-pay",
+    "learn/free-trial-auto-renewal"
+  ],
+  "sources": [
+    { "label": "Zomato Terms of Service (clause 4, Zomato Gold)", "url": "https://www.zomato.com/policies/terms-of-service/" },
+    { "label": "Zomato Gold membership page", "url": "https://www.zomato.com/gold" },
+    { "label": "Google Pay Help: Learn how to manage recurring payments", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" },
+    { "label": "Google Play Help: Learn about Google Play refund policies", "url": "https://support.google.com/googleplay/answer/2479637?hl=en" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

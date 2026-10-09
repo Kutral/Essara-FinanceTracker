@@ -1,0 +1,102 @@
+{
+  "slug": "cancel-upi-autopay-amazon-pay",
+  "cluster": "upi-autopay",
+  "title": "Cancel Amazon Pay Auto Pay and UPI Mandates (2026)",
+  "metaDescription": "Turn off Amazon Pay Auto Pay and Subscribe & Save payments, then check the UPI mandate in the app that approved it. Learn what to do with a debit already due.",
+  "h1": "How do you cancel Amazon Pay AutoPay without missing a UPI mandate?",
+  "summary": "Amazon Pay's Auto Pay settings sit in the Amazon Pay dashboard: go to Account, then Auto Pay, pick the category and choose Disable or Pause/Delete. Subscribe & Save payment methods are removed separately in the Subscribe & Save settings on Amazon.in. These steps cover payments Amazon runs, so also check any UPI mandate in the app or bank that approved it, because cancelling stops future debits but does not refund payments already processed.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Amazon Pay AutoPay", "Amazon Pay Auto Pay disable", "Amazon Pay UPI mandate", "cancel Subscribe and Save payment", "Amazon Pay auto reload cancel"],
+  "about": ["Amazon Pay", "UPI AutoPay", "NPCI"],
+  "stepsHeading": "How to cancel Amazon Pay AutoPay and the matching UPI mandate",
+  "steps": [
+    {
+      "name": "Open the Amazon Pay dashboard",
+      "text": "In the Amazon app, open the Amazon Pay dashboard. Amazon's UPI FAQ places the Auto Pay settings there, though the menu may be labelled differently in some app versions."
+    },
+    {
+      "name": "Go to Account, then Auto Pay",
+      "text": "Inside the dashboard, tap Account and then Auto Pay."
+    },
+    {
+      "name": "Pick the category to stop",
+      "text": "Auto Pay is listed by category, such as Amazon Pay Wallet, Gold SIP, electricity bill payment or Amazon Prime. Open the category you want to change."
+    },
+    {
+      "name": "Disable, or pause or delete",
+      "text": "Amazon's UPI FAQ says the category page offers Disable or Pause/Delete at the top right. Choose one, then tap Yes. Read the confirmation wording first, because the two options work differently."
+    },
+    {
+      "name": "Remove Subscribe & Save separately",
+      "text": "On Amazon.in, open the Subscribe & Save management page, go to the Settings tab and choose Remove under Payment Methods. Amazon says the change can take up to 15 minutes to show."
+    },
+    {
+      "name": "Check the mandate in the approving app",
+      "text": "Open the UPI app or bank app where the mandate was approved, look for AutoPay or Mandates, and cancel or revoke it there with your UPI PIN."
+    },
+    {
+      "name": "Keep the confirmation",
+      "text": "Save a screenshot of each confirmation and check that the mandate shows as cancelled or revoked. Look at your next statement to make sure no debit arrives."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Auto Pay and Subscribe & Save are separate settings",
+      "paragraphs": [
+        "Amazon runs several recurring payment features, and each has its own control. Amazon's UPI FAQ describes Auto Pay as a set of categories in the Amazon Pay dashboard, where you disable or pause or delete the ones you no longer want. Subscribe & Save has its own Payment Methods section on the management page, so check it separately.",
+        "Amazon's Subscribe & Save help also says you can cancel Auto Pay from Amazon.in or through the bank's website or portal. Those are two routes to the same mandate, so use whichever one works for you and confirm the result."
+      ]
+    },
+    {
+      "heading": "Check the mandate in the app that approved it",
+      "paragraphs": [
+        "Amazon's pages describe the payments Amazon runs. They do not say that the dashboard lists every UPI mandate you have approved for other merchants, so a mandate can stay active after you change Amazon's settings.",
+        "HDFC Bank's guide says a UPI mandate can be cancelled from the UPI app where it was created, under Profile or Settings, in the AutoPay, Mandates or Subscriptions section. If you cannot find it there, NPCI's UPI Help portal at upihelp.npci.org.in is the next place to look."
+      ]
+    },
+    {
+      "heading": "Loans and debt mandates",
+      "paragraphs": [
+        "HDFC Bank says cancellations of debt collection and loan repayment mandates are not allowed through a UPI app, so contact the lender or merchant directly for those. Before you stop any mandate tied to a loan, check the loan terms, because a missed debit can affect the loan itself."
+      ]
+    },
+    {
+      "heading": "Pending debits and refunds",
+      "paragraphs": [
+        "Cancelling stops future auto-debits. It does not refund payments already processed, so the time to act is before the next debit date. HDFC Bank's guide says payments already completed are not reversed when a mandate is cancelled.",
+        "If an unexpected debit still goes through, contact Amazon Pay support first, then raise a UPI complaint in the app the payment went through."
+      ]
+    },
+    {
+      "heading": "Where Essara fits in",
+      "paragraphs": [
+        "Essara is a manual list. You add each Amazon Pay or merchant mandate yourself with its amount and frequency, and Essara shows the upcoming auto-debits for the week and the month. It cannot change an Amazon setting, and it does not connect to Amazon Pay, your bank or your SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I pause Amazon Pay Auto Pay instead of deleting it?",
+      "a": "Amazon's UPI FAQ lists Disable and Pause/Delete as the choices for each Auto Pay category. Read the confirmation screen before you tap Yes, because the wording shows whether the category is paused or removed."
+    },
+    {
+      "q": "Does removing Subscribe & Save stop a UPI mandate too?",
+      "a": "Not necessarily. Removing the payment method on Amazon.in changes only Amazon's side. If a UPI mandate was approved for the same service, cancel it in the app where it was set up, or ask your bank."
+    },
+    {
+      "q": "A debit still arrives after I disabled Auto Pay. What now?",
+      "a": "Check the merchant's own platform, since Amazon's Auto Pay FAQ says third-party Auto Pay is set up there. Then look in the UPI app where the mandate was approved, and use NPCI's UPI Help portal if you cannot find it."
+    },
+    {
+      "q": "Can I get my money back after I stop Amazon Pay debits?",
+      "a": "Stopping future payments does not refund amounts already processed. For an unexpected debit, contact Amazon Pay customer service first, then raise a UPI complaint in the app through which the payment went."
+    }
+  ],
+  "related": ["cancel-upi-autopay-google-pay", "cancel-upi-autopay-paytm", "find-all-upi-autopay-mandates", "cancel-upi-autopay-bhim", "cancel-amazon-prime-india"],
+  "sources": [
+    { "label": "Amazon Customer Service: Unified Payment Interface (UPI) FAQs", "url": "https://www.amazon.in/gp/help/customer/display.html?nodeId=202212990" },
+    { "label": "Amazon Customer Service: Manage your Subscribe & Save payment method", "url": "https://www.amazon.in/gp/help/customer/display.html?nodeId=G5WVQH8J9METZRLY" },
+    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

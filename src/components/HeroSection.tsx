@@ -1,4 +1,4 @@
-import { Globe, Instagram, Twitter } from "lucide-react";
+import { Globe, X } from "lucide-react";
 import { useSeamlessVideoFade } from "../hooks/useSeamlessVideoFade";
 
 export function HeroSection() {
@@ -27,18 +27,20 @@ export function HeroSection() {
           <div className="flex items-center">
             <Globe className="w-6 h-6 text-white mr-2" aria-hidden="true" />
             <span className="text-white font-semibold text-lg" aria-label="Essara Logo">Essara</span>
-            
+
             <div className="hidden md:flex items-center gap-8 ml-8">
               <a href="#features" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="Features section">Features</a>
-              <a href="#pricing" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="Pricing section">Pricing</a>
+              <a href="#guides" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="Guides section">Guides</a>
               <a href="#about" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="About Essara section">About</a>
+              <a href="#faq" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="FAQ section">FAQ</a>
+              <a href="https://essara.space/pricing" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="Pricing on essara.space" rel="noopener noreferrer">Pricing</a>
               <a href="https://essara.space/" className="text-white/80 hover:text-white text-sm font-medium transition-colors" aria-label="Visit essara.space" rel="noopener noreferrer">Visit essara.space</a>
             </div>
           </div>
 
           <div className="flex flex-row items-center gap-4">
-             <a href="https://essara.space/" className="hidden sm:block text-white text-sm font-medium hover:text-white/80 transition-colors" aria-label="Sign up at essara.space" rel="noopener noreferrer">
-               Sign Up at essara.space
+             <a href="https://essara.space/" className="hidden sm:block text-white text-sm font-medium hover:text-white/80 transition-colors" rel="noopener noreferrer">
+               Open web app
              </a>
              <a href="https://essara.space/" className="liquid-glass rounded-full px-6 py-2 text-white text-sm font-medium hover:bg-white/5 transition-colors" aria-label="Login to Essara" rel="noopener noreferrer">
                Login
@@ -49,14 +51,18 @@ export function HeroSection() {
 
       {/* Hero Content */}
       <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 py-12 text-center -translate-y-[10%]">
-        <h1 className="speakable-hero text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-white tracking-tight whitespace-nowrap font-serif mb-8">
-          Track it, then <em className="italic">master</em> it.
-        </h1>
-        
-        <p className="text-white/70 text-lg md:text-xl max-w-2xl mb-8 speakable-hero" aria-label="Essara value proposition">
-          The modern personal finance app that turns everyday expense tracking into lasting money clarity. Build budgets, set savings goals, and understand your spending habits — all in one beautiful, intuitive dashboard.
+        <p className="uppercase tracking-widest text-white/50 text-xs sm:text-sm mb-4">
+          Subscription, UPI AutoPay &amp; expense tracker for India
         </p>
-        
+
+        <h1 className="speakable-hero text-5xl sm:text-7xl md:text-8xl lg:text-9xl text-white tracking-tight font-serif text-balance mb-8">
+          Every renewal, <em className="italic">before</em> it renews.
+        </h1>
+
+        <p className="text-white/70 text-lg md:text-xl max-w-2xl mb-8 speakable-hero" aria-label="Essara value proposition">
+          See every subscription and UPI AutoPay mandate in one list, get a reminder before each renewal, and log spends and scan bills. No bank login, no SMS, no UPI PIN. Free to start on Android and the web.
+        </p>
+
         <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4" aria-label="Essara live app links">
           <a
             href="https://essara.space/"
@@ -82,16 +88,16 @@ export function HeroSection() {
         <p className="text-white/45 text-xs uppercase tracking-[0.24em] mb-8">
           Live now on web and Android
         </p>
-        
-        <p className="text-white/80 text-sm leading-relaxed px-4 max-w-lg mb-8 speakable-hero">
-          Stay updated with the latest news and insights into personal finance, money management, and wealth building. Get started taking control of your money today at <a href="https://essara.space/" className="underline underline-offset-4 hover:text-white" rel="noopener noreferrer">essara.space</a>.
+
+        <p className="text-white/60 text-sm px-4 mb-8">
+          No bank login · No SMS access · No ads
         </p>
       </div>
 
       {/* App Download & Social Footer */}
-      <div className="relative z-10 flex flex-col items-center gap-4 pb-12 w-full" role="contentinfo" aria-label="App download and social media links">
-        <a 
-          href="https://play.google.com/store/apps/details?id=space.essara.app" 
+      <div className="relative z-10 flex flex-col items-center gap-4 pb-12 w-full">
+        <a
+          href="https://play.google.com/store/apps/details?id=space.essara.app"
           className="liquid-glass rounded-full px-6 py-3 text-white text-sm font-medium hover:bg-white/5 transition-colors flex items-center gap-2 mb-2"
           aria-label="Download Essara app from Google Play Store"
           rel="noopener noreferrer"
@@ -102,13 +108,10 @@ export function HeroSection() {
           Get it on Google Play
         </a>
         <div className="flex justify-center gap-4">
-          <a href="https://essara.space/" className="liquid-glass rounded-full p-4 text-white/80 hover:text-white hover:bg-white/5 transition-all outline-none" aria-label="Essara Instagram" rel="noopener noreferrer">
-            <Instagram className="w-5 h-5" aria-hidden="true" />
+          <a href="https://x.com/essaraapp" className="liquid-glass rounded-full p-4 text-white/80 hover:text-white hover:bg-white/5 transition-all outline-none" aria-label="Essara on X" rel="noopener noreferrer">
+            <X className="w-5 h-5" aria-hidden="true" />
           </a>
-          <a href="https://essara.space/" className="liquid-glass rounded-full p-4 text-white/80 hover:text-white hover:bg-white/5 transition-all outline-none" aria-label="Essara Twitter" rel="noopener noreferrer">
-            <Twitter className="w-5 h-5" aria-hidden="true" />
-          </a>
-          <a href="https://essara.space/" className="liquid-glass rounded-full p-4 text-white/80 hover:text-white hover:bg-white/5 transition-all outline-none" aria-label="Essara Website" rel="noopener noreferrer">
+          <a href="https://essara.space/" className="liquid-glass rounded-full p-4 text-white/80 hover:text-white hover:bg-white/5 transition-all outline-none" aria-label="Essara website" rel="noopener noreferrer">
             <Globe className="w-5 h-5" aria-hidden="true" />
           </a>
         </div>

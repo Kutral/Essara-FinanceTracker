@@ -4,18 +4,19 @@
 - React 19 + TypeScript + Vite 6 + Tailwind CSS v4 (`@tailwindcss/vite` plugin)
 - Entry: `src/main.tsx` → `src/App.tsx`
 - Path alias `@` maps to repo root (not `src/`)
-- Static assets go in `public/` (served at root); currently holds `sitemap.xml`, `robots.txt`
+- Static assets go in `public/` (served at the base path): `robots.txt`, `sitemap.xsl`, `og-image.png`, icons, `site.webmanifest`
 
 ## Dev Commands
 | Command | What it does |
 |---------|--------------|
 | `npm run dev` | Vite dev server on port 3000 |
-| `npm run build` | Production build into `dist/` |
+| `npm run build` | Client build + SSR build + `scripts/build-static-seo.mjs` (prerender + PSEO) into `dist/` |
+| `npm run seo:check` | Validate `content/pseo/**/*.json` without building |
 | `npm run preview` | Preview production build |
 | `npm run lint` | `tsc --noEmit` (typecheck only) |
 | `npm run clean` | `rm -rf dist` |
 
-There are **no tests** in this repo. Verification = `npm run lint && npm run build`.
+There are **no tests** in this repo. Verification = `npm run lint && npm run build` (the build fails on invalid PSEO content).
 
 ## Build / Deploy Notes
 - `vite.config.ts` sets `base: '/Essara-FinanceTracker/'` — output is intended for GitHub Pages at that subpath.
@@ -29,6 +30,10 @@ There are **no tests** in this repo. Verification = `npm run lint && npm run bui
 - Dark theme only (`bg-black text-white`).
 
 ## SEO / Content
-- `index.html` contains extensive JSON-LD structured data, Open Graph, Twitter Cards, and Google site verification meta. Keep it in sync when changing page topics.
-- `public/sitemap.xml` and `public/robots.txt` are manually maintained; update them if URLs or sections change.
+- `content/FACTS.md` is the source of truth for every claim about Essara (checked against the Play listing and essara.space). Never add ratings, review counts, certifications or features not listed there.
+- `index.html` holds one JSON-LD `@graph` (WebSite, Organization, MobileApplication, WebPage), Open Graph/Twitter tags and the Google site verification meta. Canonical is self-referencing (`https://kutral.github.io/Essara-FinanceTracker/`).
+- The home page is prerendered at build time (`src/entry-server.tsx` → `dist/index.html`, hydrated by `src/main.tsx`) so crawlers and AI agents that skip JavaScript see the content. Keep components SSR-safe (no `window` access during render).
+- Home FAQ: edit `content/home-faq.json`; it feeds both the visible `HomeFAQ` section and the injected FAQPage schema.
+- Programmatic SEO: one JSON file per page in `content/pseo/<cluster>/<slug>.json` (clusters: `upi-autopay`, `cancel-subscriptions`, `learn`, `for`; see `CLUSTERS` in `scripts/build-static-seo.mjs`). The build renders each to static HTML with Article/HowTo/FAQPage/BreadcrumbList schema, plus hub pages, `sitemap.xml`, `llms.txt`, `llms-full.txt` and `404.html`. Do not hand-edit a sitemap — it is generated.
+- `content/llms-header.md` is the top of the generated `llms.txt`. `public/robots.txt` is hand-maintained.
 - App Play Store link: `https://play.google.com/store/apps/details?id=space.essara.app`

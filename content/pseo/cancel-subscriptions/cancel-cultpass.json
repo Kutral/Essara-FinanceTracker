@@ -1,0 +1,73 @@
+{
+  "slug": "cancel-cultpass",
+  "cluster": "cancel-subscriptions",
+  "title": "How to Cancel CultPass Membership in India (2026)",
+  "metaDescription": "Stop CultPass auto-renewal in India, understand what cult.fit refunds and what you keep after cancelling, pause a Pro plan, and check the card mandate.",
+  "h1": "How do I cancel my CultPass membership and stop auto-renewal?",
+  "summary": "Monthly CultPass memberships can be cancelled according to cult.fit's monthly-payment guidance, and cancelling stops the next monthly charge. A purchased pack is not refunded, and one cult.fit article says there is no way to cancel an active membership, so if the app shows no cancel option, ask support before assuming the renewal has stopped. Monthly renewals are charged to a debit or credit card, so check the card's recurring-payment settings too.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel CultPass membership", "cultpass auto renewal", "cult.fit cancel subscription", "pause cultpass pro", "cultpass refund India"],
+  "about": ["CultPass", "cult.fit", "Tata Neu"],
+  "stepsHeading": "How to cancel a monthly CultPass membership",
+  "steps": [
+    { "name": "Open the app and sign in", "text": "Open the cult.fit app and sign in. Tata Neu's help article on cancelling a monthly CultPass ELITE plan describes the route from inside the Tata Neu app, under Fitness, so check there if you cannot find the option in cult.fit." },
+    { "name": "Go to your active subscriptions", "text": "Tap your profile and select Active packs/subscriptions. In the Tata Neu app, open Fitness first, then the menu and your profile." },
+    { "name": "Open the monthly plan", "text": "Select your active monthly subscription. If the item you open is a one-time pack, there is nothing to cancel, because a pack does not renew." },
+    { "name": "Cancel the subscription", "text": "Tap the three dots next to the subscription name and select cancel subscription." },
+    { "name": "Confirm the cancellation", "text": "Check that the plan now shows as cancelled. Keep a screenshot for your records." },
+    { "name": "Check your card", "text": "Look in your bank app or net banking for a recurring or e-mandate payment linked to cult.fit, and cancel it there if it is still active." },
+    { "name": "Ask support if the option is missing", "text": "If there is no cancel option, use Home, then Profile, then Support in the cult.fit app. Ask support to confirm in writing that the next renewal will not be charged." }
+  ],
+  "sections": [
+    {
+      "heading": "Which CultPass plans can be cancelled",
+      "paragraphs": [
+        "cult.fit's help says that a monthly subscription renews automatically on the billing date until you cancel, and that cancelling it means you are not charged the following month. Its refund article says cult.fit does not refund any amount for a purchased CultPass pack.",
+        "The help pages do not all agree. A cult.fit article last updated in October 2024 says there is no facility to cancel an active CultPass membership. That does not match the monthly guidance, so if the app does not show a cancel option, ask support before you assume the renewal has stopped."
+      ]
+    },
+    {
+      "heading": "What you keep after cancelling and refunds",
+      "paragraphs": [
+        "Cancelling a monthly membership stops the next renewal. A Tata Neu help article on cancelling a monthly ELITE plan says you keep access until the billing date. Because purchased packs are not refunded, cancelling does not bring back money for the current period.",
+        "If you are charged for a plan you did not expect, contact cult.fit through Home, then Profile, then Support, and give the date and amount of the charge. The help pages do not promise a refund for an unwanted renewal, so cancel before the next billing date to avoid the question."
+      ]
+    },
+    {
+      "heading": "Pausing a CultPass Pro membership",
+      "paragraphs": [
+        "If you want a break instead of cancelling, cult.fit's help article on pausing a CultPass PRO membership describes the steps. Open your profile in the top left corner, select Active Packs/Subscriptions, choose your active CultPass PRO, and tap pause. Choose the end date and the reason, and the pause is set.",
+        "Each membership pack comes with a fixed number of pause days, so a long pause uses up the allowance. You can resume early from the same page. Pause rules can differ between plans, so check the limit shown in your app."
+      ]
+    },
+    {
+      "heading": "Stopping the card mandate and failed renewals",
+      "paragraphs": [
+        "cult.fit's payment help article says auto-renewal is currently available only on payments made with debit and credit cards. The recurring charge should therefore show up as a card payment rather than a UPI AutoPay mandate. Cancelling in the app is still the first step, and checking your bank's recurring-payment settings is the second.",
+        "If a renewal fails, cult.fit says you can renew manually at the monthly price within 3 days of the pack end date. After that you must buy a new subscription and pay the full first-month price. If you change how you pay, the article says to cancel and renew manually with the new payment mode, and any extra amount paid is refunded."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "A CultPass renewal is easy to miss because it appears as a small monthly charge. Essara is a manual tracker, so you add the membership with its renewal date and amount and see it in your monthly total. It does not connect to your bank or card, so it cannot see the charge or cancel the plan for you."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Does cult.fit refund CultPass payments?", "a": "cult.fit's refund article says it does not refund any amount for a purchased CultPass pack. For a monthly subscription, you can cancel so that you are not charged next month. Contact support through Home, then Profile, then Support, for anything specific." },
+    { "q": "Can I cancel an active CultPass membership?", "a": "Monthly plans can be cancelled according to cult.fit's monthly-payment guidance, but a cult.fit article from October 2024 says there is no facility to cancel an active membership. If the app shows no cancel option, ask support in writing before assuming the renewal has stopped." },
+    { "q": "Can I pause CultPass instead of cancelling?", "a": "cult.fit's help describes pausing for CultPass PRO. Go to your profile, select Active Packs/Subscriptions, select the plan and tap pause. Each pack has a fixed number of pause days, and the allowance can differ by plan." },
+    { "q": "Is CultPass charged through UPI AutoPay?", "a": "cult.fit's payment help says auto-renewal is currently available only on debit and credit cards. Check your card's recurring payments in your bank app if you want to stop the charge at the source." },
+    { "q": "What happens if my CultPass renewal fails?", "a": "You can renew manually at the monthly price within 3 days of the pack end date. After 3 days you must buy a new subscription and pay the full first-month price." },
+    { "q": "Can I change the card used for my CultPass membership?", "a": "Yes, by cancelling and renewing manually with the new payment mode. cult.fit's help says any extra amount you paid is refunded, so contact support if you are charged twice." }
+  ],
+  "related": ["cancel-subscriptions/cancel-audible-india", "cancel-subscriptions/cancel-times-prime", "cancel-subscriptions/cancel-swiggy-one", "learn/subscription-creep"],
+  "sources": [
+    { "label": "cult.fit help: can I get a refund for my CultPass", "url": "https://support.cure.fit/support/solutions/articles/25000017566-how-can-i-get-a-refund-for-my-cultpass-" },
+    { "label": "cult.fit help: how monthly CultPass ELITE payment works", "url": "https://support.cure.fit/support/solutions/articles/25000018172-how-does-payment-for-monthly-cultpass-elite-work-" },
+    { "label": "cult.fit help: can I pause my CultPass PRO", "url": "https://support.cure.fit/support/solutions/articles/25000020488-can-i-pause-my-cultpass-pro-" },
+    { "label": "Tata Neu support: cancel monthly CultPass ELITE", "url": "https://support.tatadigital.com/support/solutions/articles/81000402631-how-do-i-cancel-my-cultpass-elite-monthly-subscription-" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "iphone-users",
+  "cluster": "for",
+  "title": "Essara on iPhone: Web App and Home Screen Setup",
+  "metaDescription": "Essara has no native iPhone app. Here is how to open essara.space in Safari, add it to your Home Screen, and use the same account you use on Android.",
+  "h1": "How do iPhone users use Essara without an iOS app?",
+  "summary": "Essara does not have a native iPhone app. iPhone users open essara.space in Safari, add it to the Home Screen with Add to Home Screen, and sign in with the same Essara account they use on Android. Apple's Safari guide describes the same steps for any website.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "Essara iPhone",
+    "subscription tracker iPhone",
+    "add website to Home Screen iPhone",
+    "Essara web app",
+    "expense tracker for iPhone India"
+  ],
+  "about": [
+    "Essara",
+    "Safari",
+    "Progressive web app"
+  ],
+  "stepsHeading": "Set up Essara on your iPhone",
+  "steps": [
+    {
+      "name": "Open Safari",
+      "text": "Open the Safari app on your iPhone. Apple's guide for turning a website into an app uses Safari, so use Safari for this set-up."
+    },
+    {
+      "name": "Go to essara.space",
+      "text": "Type essara.space in the address bar and open the site. Sign in to your existing account, or create a free account if you have not used Essara before."
+    },
+    {
+      "name": "Tap Share",
+      "text": "Tap the Share button in Safari. If your tab layout is set to Bottom or Top, look for the button in that bar."
+    },
+    {
+      "name": "Choose Add to Home Screen",
+      "text": "Scroll down the list of options and tap Add to Home Screen. If you cannot see it, scroll to the bottom, tap Edit Actions, and add it from there."
+    },
+    {
+      "name": "Turn on Open as Web App",
+      "text": "Make sure Open as Web App is switched on. This makes the Home Screen icon open Essara in its own window, the way an app opens."
+    },
+    {
+      "name": "Tap Add and open from the Home Screen",
+      "text": "Tap Add. An Essara icon appears on your Home Screen, and tapping it opens the web app. Menu labels can shift between iOS versions, so if a name differs slightly, follow the closest match."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why there is no iPhone app",
+      "paragraphs": [
+        "Essara's Android app is listed on Google Play as space.essara.app and needs Android 7.0 or later. Essara's download page says the native mobile app is Android-only and that iPhone users should use the web app at essara.space, which can also be installed as a progressive web app (PWA) from a browser.",
+        "The web app is the iPhone route, and it uses the same account as the Android app. According to the same download page, the Android app, the web app and the installable PWA share one Essara account and workspace, with changes syncing in real time."
+      ]
+    },
+    {
+      "heading": "What is the same on every device, and where receipt scanning differs",
+      "paragraphs": [
+        "Your expenses, subscriptions, budgets and investments live in your Essara account rather than on the phone, so an entry you add on Android appears on the web app and the other way round.",
+        "Receipt scanning runs in a slightly different place. Essara's product manual says the scanner reads a receipt in your browser on the web and the PWA, and on Essara's server in the Android app. Either way you review what the scanner read before anything is saved.",
+        "At the time of writing, the free plan includes unlimited manual expense tracking, 5 receipt scans a month and 5 subscription slots. Check the pricing page for current limits before you rely on them."
+      ]
+    },
+    {
+      "heading": "Cancelling subscriptions billed through the App Store",
+      "paragraphs": [
+        "Essara cannot cancel a payment at the merchant or bank, and it does not change billing for you. The product manual says so directly. To stop a subscription billed by Apple, open the Settings app on your iPhone, tap your name, tap Subscriptions, choose the subscription and tap Cancel Subscription. You may need to scroll down to find that button.",
+        "Apple's support page says that if there is no Cancel button, or you see an expiry message in red text, the plan has already ended. Apple's page covers subscriptions billed by Apple and those bought through App Store apps, so a plan you bought directly from a website has to be cancelled with that company. After cancelling, update or remove the matching entry in Essara so the list matches what you have actually stopped."
+      ]
+    },
+    {
+      "heading": "Keeping renewals in view on your iPhone",
+      "paragraphs": [
+        "Essara's subscription list shows upcoming renewals for the next 30 days and gives you a reminder before each renewal. Once the web app is on your Home Screen, the same list opens from that icon, which helps most with annual plans that are easy to forget until the charge arrives."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there an Essara app for iPhone?",
+      "a": "No. Essara's download page says the native mobile app is Android-only. iPhone users use the web app at essara.space, and can add it to the Home Screen from Safari."
+    },
+    {
+      "q": "Do I need a separate account for my iPhone?",
+      "a": "No. According to Essara's download page, the Android app, the web app and the installable PWA share one account and workspace, with changes syncing in real time. Sign in with the account you already use."
+    },
+    {
+      "q": "Can I use Essara on iPhone without adding it to the Home Screen?",
+      "a": "Yes. Essara works on the web, so you can open essara.space in Safari whenever you need it. The Home Screen icon is a shortcut that opens the same web app."
+    },
+    {
+      "q": "I cannot find Add to Home Screen. What should I do?",
+      "a": "Scroll to the bottom of the Share options, tap Edit Actions, and add Add to Home Screen from the list, as Apple's Safari guide describes. Then make sure Open as Web App is on before you tap Add."
+    },
+    {
+      "q": "Does Essara read my bank SMS or connect to my UPI app on iPhone?",
+      "a": "No. Essara does not connect to your bank or UPI app and does not read SMS. You add entries yourself, or scan a receipt and review the result before it is saved."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "learn/manual-vs-automatic-expense-tracking",
+    "learn/subscription-audit-checklist",
+    "for/families"
+  ],
+  "sources": [
+    {
+      "label": "Apple Support: Turn a website into an app in Safari on iPhone",
+      "url": "https://support.apple.com/en-in/guide/iphone/iphea86e5236/ios"
+    },
+    {
+      "label": "Apple Support: Cancel a subscription from Apple",
+      "url": "https://support.apple.com/en-in/HT202039"
+    },
+    {
+      "label": "Essara download page and FAQ",
+      "url": "https://essara.space/download"
+    },
+    {
+      "label": "Essara product manual",
+      "url": "https://essara.space/docs"
+    }
+  ],
+  "essaraTool": {
+    "label": "Subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
+}
