@@ -1,0 +1,100 @@
+{
+  "slug": "cancel-youtube-premium-india",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel YouTube Premium in India: Steps, Google Play, Refunds",
+  "metaDescription": "Cancel YouTube Premium in India on Android, computer or iPhone, including Google Play and Apple billing. Learn when benefits end, refund rules and how to stop the UPI mandate.",
+  "h1": "How do you cancel YouTube Premium in India, whichever way you paid?",
+  "summary": "To cancel YouTube Premium in India, open Paid memberships in the YouTube app or go to youtube.com/paid_memberships, then choose the membership and cancel it. If Google Play bills you, cancel in your Google Play subscriptions instead, and if Apple bills you, cancel through your Apple subscriptions. Your benefits continue until the end of the billing period, and you are not charged again unless you re-subscribe.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel YouTube Premium India", "cancel YouTube Premium subscription", "YouTube Premium refund India", "YouTube Premium Google Play cancel", "YouTube Premium annual plan India"],
+  "about": ["YouTube Premium", "Google Play", "UPI AutoPay"],
+  "stepsHeading": "How to cancel YouTube Premium in India",
+  "steps": [
+    {
+      "name": "Check how you are billed",
+      "text": "Look at your payment history at payments.google.com, or open youtube.com/purchases. Google's help says that if you signed up through Google Play billing or through Apple, the membership is cancelled in that account rather than in YouTube, and that iPhone users billed through Google must cancel from a non-iOS device such as a computer."
+    },
+    {
+      "name": "Cancel on Android or in the YouTube app",
+      "text": "Tap your profile picture, then Paid memberships. Tap the membership you want to cancel, tap Continue to cancel, choose your reason and tap Next, then tap Yes, cancel."
+    },
+    {
+      "name": "Cancel on a computer",
+      "text": "Go to youtube.com/paid_memberships, click Manage membership, click Deactivate, click Continue to cancel, choose your reason, click next, then click Yes, cancel."
+    },
+    {
+      "name": "Cancel an Apple or Google Play billing plan",
+      "text": "For Apple, open Settings, tap Purchases and memberships, tap the membership, tap Manage Apple Subscriptions, tap your membership and tap Cancel. For Google Play, open subscriptions in Google Play, select the YouTube subscription, tap Cancel subscription and follow the instructions."
+    },
+    {
+      "name": "Confirm and revoke the UPI mandate",
+      "text": "Check youtube.com/paid_memberships for the end date, and look for a cancellation email from an @youtube.com address. Then open the AutoPay section of your UPI app and revoke any mandate that belongs to YouTube or Google Play."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Monthly, annual and prepaid plans in India",
+      "paragraphs": [
+        "A monthly YouTube Premium membership renews automatically. Google's help says you are charged the membership price at the start of each billing cycle until you cancel, so cancelling is the only way to stop it.",
+        "Google's help page for annual plans lists India as a country where annual plans are available. Annual plans are prepaid, non-recurring memberships for individual users: you pay for 12 months upfront, the benefits end after that period, and you buy again to keep access. The help page says you can buy up to 24 months of prepaid access at a time, and that annual plans are not refundable and cannot be paused. Because they do not renew, there is nothing to cancel at the end of the year. To move from a monthly plan to an annual plan, Google says you first cancel the existing membership. The 1-month and 3-month prepaid plans announced for India in 2019 do not appear in the current help article I read, so check the plan list in the app before you pay."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel, and refunds",
+      "paragraphs": [
+        "After you cancel, your benefits continue until the end of the billing period you have already paid for. Google's help says you will not be charged again unless you re-subscribe. The end date is the last day of your billing cycle, and it is shown at youtube.com/paid_memberships. Pausing is not available if Google Play or Apple bills you, so if you want a break, cancel and sign up again later.",
+        "YouTube's refund page says you will not be refunded for the period between cancelling and the end of your membership, and that once a refund is processed you lose access to the benefits. If you want to cancel immediately and get money back, the page says to contact YouTube support. For a Google Play purchase, Google's Play refund policy says that within 48 hours of purchase you may be able to get a refund, depending on the details of the purchase. After 48 hours, Google points you to the developer, and for YouTube the request goes through YouTube's refund page instead."
+      ]
+    },
+    {
+      "heading": "Still being charged after cancelling",
+      "paragraphs": [
+        "Start with the cancellation confirmation. YouTube's troubleshooting page says you should see a notification in the app or on the computer, and a cancellation email to the address on your account. If you do not see either, reload the page or restart the app, try a different browser or an incognito window, or log in on another device and try again.",
+        "If the charge continues, the likely causes are a different Google subscription, a second Google account with its own membership, or a membership that was reactivated by mistake. Google's help suggests checking the Activity section in your Google payments centre to see what the charge is for, and using Switch account in the profile menu to check other accounts you own."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI mandate in your UPI app",
+      "paragraphs": [
+        "A YouTube charge that comes from UPI is a mandate in your UPI app, and cancelling the membership does not revoke it by itself. In Google Pay, Google's help says to open Autopay, go to the Live tab, tap the mandate and change or revoke it with your UPI PIN. The label may read Autopay or AutoPay, and if the section is missing, update Google Pay. Other UPI apps use different menus, so look for an AutoPay or Mandates section in each app you have used.",
+        "There is also a Paytm-specific issue. Outlook Money reported in August 2025, citing a Google notice, that Google Play would stop accepting @paytm UPI handles from 31 August 2025 on NPCI's instruction. If your YouTube or Google One payment still points to a Paytm handle, add a different UPI ID to your Play account and move the subscription to it before you cancel."
+      ]
+    },
+    {
+      "heading": "Why tracking renewals helps",
+      "paragraphs": [
+        "YouTube Premium can be billed through Google Play, a UPI mandate, or Apple, so the same service can show up in three different places. Keeping one list with each renewal date and monthly cost means you can see that YouTube is still active without digging through every app. Essara is built around this: you add each subscription and mandate yourself, set the renewal date and see the monthly and yearly total. It does not connect to your bank, UPI app or SMS, so every entry is typed in by you."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to cancel an annual YouTube Premium plan in India?",
+      "a": "No. Google's help says annual plans are prepaid and non-recurring, so the benefits simply end after the 12 months you paid for. You would only need to act if you want to stop access early, and Google says to contact YouTube support for that."
+    },
+    {
+      "q": "How do I check when my YouTube Premium ends?",
+      "a": "Visit youtube.com/paid_memberships or youtube.com/purchases. The date shown there is the last day of your billing cycle, and it is also when your benefits end."
+    },
+    {
+      "q": "Can I pause YouTube Premium if Google Play bills me?",
+      "a": "No. YouTube's refund page says that with Google Play billing you cannot pause your membership. You can cancel and sign up again at any time instead. Apple billing does not allow pausing either."
+    },
+    {
+      "q": "I cancelled YouTube Premium but a charge still came through. Why?",
+      "a": "The charge may belong to another Google subscription, your membership may have been reactivated by mistake, or another Google account may hold a membership. Check the Activity section of your Google payments centre to see what the charge is for."
+    },
+    {
+      "q": "Will YouTube refund the rest of my month after I cancel?",
+      "a": "Usually not. YouTube's refund policy says you will not be refunded for the period between cancelling and the end of the membership. If you need an immediate cancellation with a refund, contact YouTube support, because that is handled case by case."
+    }
+  ],
+  "related": ["cancel-spotify-premium-india", "cancel-google-play-subscriptions", "cancel-google-one-india", "cancel-apple-subscriptions-iphone", "free-trial-auto-renewal"],
+  "sources": [
+    { "label": "YouTube Help: Cancel YouTube Premium or YouTube Music Premium", "url": "https://support.google.com/youtube/answer/6308278" },
+    { "label": "Google Play Help: Cancel, pause, or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481?hl=en" },
+    { "label": "YouTube Help: Request a refund for YouTube Premium", "url": "https://support.google.com/youtube/answer/12014038" },
+    { "label": "YouTube Help: Sign up for a YouTube Premium annual plan", "url": "https://support.google.com/youtube/answer/11417260" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

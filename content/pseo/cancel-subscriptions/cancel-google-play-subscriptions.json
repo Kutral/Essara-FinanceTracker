@@ -2,12 +2,22 @@
   "slug": "cancel-google-play-subscriptions",
   "cluster": "cancel-subscriptions",
   "title": "Cancel a Google Play Subscription on Android or Web (2026)",
-  "metaDescription": "Cancel any subscription billed through Google Play on Android or play.google.com. Learn why uninstalling the app does not stop billing, and what India UPI notes apply.",
+  "metaDescription": "Cancel any Google Play subscription on Android or play.google.com. Uninstalling the app does not stop billing. Learn the steps and India UPI Autopay notes.",
   "h1": "How do I cancel a subscription that is billed through Google Play?",
   "summary": "On Android, open Google Play, go to your subscriptions under your profile, tap the subscription and choose Cancel subscription. On a computer, go to play.google.com, select Subscriptions, click Manage on the subscription and choose Cancel subscription. Uninstalling the app does not cancel it, and after you cancel you keep access until the end of the billing period you have already paid for.",
   "updated": "2026-10-09",
-  "keywords": ["cancel Google Play subscription", "cancel subscription play.google.com", "uninstall app subscription still charged", "Google Play subscription UPI AutoPay", "cancel Play Store subscription Android"],
-  "about": ["Google Play", "Google Pay", "UPI AutoPay"],
+  "keywords": [
+    "cancel Google Play subscription",
+    "cancel subscription play.google.com",
+    "uninstall app subscription still charged",
+    "Google Play subscription UPI AutoPay",
+    "cancel Play Store subscription Android"
+  ],
+  "about": [
+    "Google Play",
+    "Google Pay",
+    "UPI AutoPay"
+  ],
   "stepsHeading": "Cancel a Google Play subscription on Android",
   "steps": [
     {
@@ -102,10 +112,25 @@
     "free-trial-auto-renewal"
   ],
   "sources": [
-    { "label": "Google Play Help: Cancel, pause, or change a subscription (Android)", "url": "https://support.google.com/googleplay/answer/7018481?hl=en" },
-    { "label": "Google Play Help: Cancel, pause, or change a subscription (computer)", "url": "https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DDesktop" },
-    { "label": "Google Play Help: Accepted payment methods on Google Play, India", "url": "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DIN" },
-    { "label": "Google Pay Help: Learn how to manage recurring payments on Google Pay", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription (Android)",
+      "url": "https://support.google.com/googleplay/answer/7018481?hl=en"
+    },
+    {
+      "label": "Google Play Help: Cancel, pause, or change a subscription (computer)",
+      "url": "https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DDesktop"
+    },
+    {
+      "label": "Google Play Help: Accepted payment methods on Google Play, India",
+      "url": "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DIN"
+    },
+    {
+      "label": "Google Pay Help: Learn how to manage recurring payments on Google Pay",
+      "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
+    }
   ],
-  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+  "essaraTool": {
+    "label": "Free subscription leak check",
+    "url": "https://essara.space/tools/subscription-leak-detector"
+  }
 }

@@ -1,0 +1,131 @@
+{
+  "slug": "cancel-microsoft-365-india",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel Microsoft 365 India: Steps, Refunds & Renewal (2026)",
+  "metaDescription": "Cancel Microsoft 365 in India from your Microsoft account, turn off renewal, and understand Microsoft's refund window. Store-billed plans need the store.",
+  "h1": "How do I cancel Microsoft 365 from India and stop it renewing?",
+  "summary": "To cancel Microsoft 365 in India, sign in at account.microsoft.com/services with the Microsoft account that bought it, select Manage on the subscription, then choose Cancel or Turn off recurring billing. If you bought through Google Play, the Apple App Store or a retailer, Microsoft says you must contact that seller, because Microsoft cannot cancel or change those renewals. Access normally continues until the end of the current billing period, and a refund depends on Microsoft's rules when you cancel.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "cancel Microsoft 365 India",
+    "Microsoft 365 refund India",
+    "turn off recurring billing Microsoft 365",
+    "stop Microsoft 365 auto renewal",
+    "cancel Microsoft 365 Google Play"
+  ],
+  "about": [
+    "Microsoft 365",
+    "Microsoft account",
+    "Google Play"
+  ],
+  "stepsHeading": "How to cancel Microsoft 365 step by step",
+  "steps": [
+    {
+      "name": "Confirm who bills the subscription",
+      "text": "Sign in at account.microsoft.com/services with the Microsoft account you used to buy Microsoft 365. If you see options such as Manage, Cancel or Change payment, Microsoft bills the plan. If the subscription was bought from Google Play, the Apple App Store or a retailer, Microsoft says to contact that seller instead."
+    },
+    {
+      "name": "Open the subscription",
+      "text": "Find the Microsoft 365 subscription and select Manage. If you see Turn on recurring billing instead of a Manage link, the subscription is already set to expire on the date shown and will not be charged again."
+    },
+    {
+      "name": "Cancel the subscription",
+      "text": "Select Cancel on the next page (it may read Upgrade or Cancel, depending on the plan), then follow the on-screen instructions. The page will say whether the cancellation qualifies for a refund."
+    },
+    {
+      "name": "Or only stop renewal",
+      "text": "If you want to keep using Microsoft 365 until the end of the period, select Turn off recurring billing instead. Microsoft says you will not be billed in the future and can keep using the subscription until the expiry date."
+    },
+    {
+      "name": "Cancel a store-billed plan with the store",
+      "text": "For Google Play, manage the subscription in the Google Play app. For an App Store plan on an iPhone, use the store's subscription list under Settings, your name, Subscriptions. Microsoft says refund requests for store purchases must go to the seller that took the payment."
+    },
+    {
+      "name": "Confirm the end date",
+      "text": "Reopen Microsoft 365 in your account and check that the page shows an expiry date and no active renewal. Keep the confirmation for your records in case a charge appears later."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why the seller decides who cancels",
+      "paragraphs": [
+        "Microsoft separates subscriptions it bills from those sold through third parties. Its help pages say Microsoft cannot cancel or turn recurring billing on or off for a third-party purchase, and it did not receive the payment for that purchase, so refunds also go to the seller. This is the first thing to check, because a cancellation attempt on the Microsoft account will not stop a Play Store or App Store renewal.",
+        "Microsoft says that if the subscriptions page shows Manage, Cancel or Change payment, Microsoft is the billing party. If those options are missing, the plan is likely managed by a third party, so check the receipt before you cancel anything."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "If no refund is issued, Microsoft says you typically keep using Microsoft 365 until the end of the current billing period. A refund, when it is granted, can end the subscription immediately. Turning off recurring billing works differently: you will not be billed again, and you keep the service until the expiry date shown in your account.",
+        "Turning off recurring billing also applies to people you share a Microsoft 365 Family subscription with. They can keep using it until the expiry date, so warn them before you stop renewal."
+      ]
+    },
+    {
+      "heading": "Refunds and the 30-day rule",
+      "paragraphs": [
+        "Microsoft's refund policy says that for subscriptions bought directly from Microsoft, you may receive a refund within 30 days of the initial purchase or before the first recurring billing date, whichever is sooner, by cancelling through the standard steps. Separately, you can get a refund of your most recent renewal charge if you cancel within 30 days after that payment. This renewal refund is limited to one time per Microsoft account, per subscription product.",
+        "Microsoft states that not every cancellation results in a refund, and eligibility is decided automatically during cancellation. Its refund policy says prorated refunds apply only in some countries. India is not among the countries I could find listed for prorated refunds, so do not expect a partial refund for the rest of a period you have already paid for."
+      ]
+    },
+    {
+      "heading": "UPI, cards and mandates",
+      "paragraphs": [
+        "The Microsoft pages I checked describe cancellation and refunds, but they do not explain how UPI AutoPay or card e-mandates work for Microsoft 365 charges in India. Do not assume your Microsoft renewal is set up as a UPI mandate. Check the AutoPay or Mandates section of your UPI app, and your card's recurring payments, after you turn off renewal.",
+        "If a Microsoft-related mandate still appears after you have cancelled or turned off renewal, revoke it in the app where it was created, or ask your bank to stop it."
+      ]
+    },
+    {
+      "heading": "Tracking renewals in Essara",
+      "paragraphs": [
+        "Add Microsoft 365 to Essara with its renewal date, its cost and the route it is billed through. Essara reminds you before each renewal and shows the next 30 days of renewals, which helps you act before the Microsoft refund window closes. You enter the details yourself. Essara does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a refund for Microsoft 365 in India?",
+      "a": "Sometimes. Microsoft says a direct purchase may be refunded within 30 days of purchase or before the first recurring billing date, whichever is sooner, and a recent renewal charge may be refunded if you cancel within 30 days of payment. Refunds are not guaranteed, and India is not in the prorated-refund country list I checked."
+    },
+    {
+      "q": "Do I lose Microsoft 365 as soon as I cancel?",
+      "a": "Usually not. Microsoft says access typically continues until the end of the current billing period if no refund is issued. A refund can end the subscription right away."
+    },
+    {
+      "q": "What does Turn on recurring billing mean?",
+      "a": "It means renewal is already turned off. The subscription is set to expire on the date shown, and Microsoft will not charge you again after that date."
+    },
+    {
+      "q": "Can Microsoft cancel a Google Play or App Store subscription for me?",
+      "a": "No. Microsoft says it cannot cancel or change recurring billing for a plan bought from a third party. Contact Google Play or Apple, or the retailer that sold the plan, and use their refund routes."
+    }
+  ],
+  "related": [
+    "cancel-google-play-subscriptions",
+    "cancel-apple-subscriptions-iphone",
+    "cancel-linkedin-premium-india",
+    "cancel-chatgpt-plus-india",
+    "monthly-vs-yearly-subscription-cost"
+  ],
+  "sources": [
+    {
+      "label": "Microsoft Support: Cancel your Microsoft subscription",
+      "url": "https://support.microsoft.com/en-us/account-billing/cancel-your-microsoft-subscription-c2c6b0e3-cab3-cb98-d83e-c9ad54620530"
+    },
+    {
+      "label": "Microsoft Support: Manage your Microsoft 365 subscription purchased through a third party",
+      "url": "https://support.microsoft.com/en-us/account-billing/manage-your-microsoft-365-subscription-purchased-through-a-third-party-44749f45-4c0b-5d41-a73f-7634b8d2a763"
+    },
+    {
+      "label": "Microsoft Support: Turn recurring billing on or off for a Microsoft subscription",
+      "url": "https://support.microsoft.com/en-us/account-billing/turn-recurring-billing-on-or-off-for-a-microsoft-subscription-66f40aee-2317-f74b-40f9-2be7e92f0167"
+    },
+    {
+      "label": "Microsoft Support: Microsoft subscription refund policy",
+      "url": "https://support.microsoft.com/en-us/accounts-billing/subscriptions/microsoft-subscription-refund-policy"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free monthly money leak calculator",
+    "url": "https://essara.space/tools/monthly-money-leak-calculator"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "cancel-netflix-subscription-india",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel Netflix Subscription in India: Steps (2026)",
+  "metaDescription": "How to cancel Netflix in India from a browser or phone, what access you keep after cancelling, refund limits, Apple or telecom billing, and how to revoke the UPI AutoPay mandate.",
+  "h1": "How do I cancel my Netflix subscription in India?",
+  "summary": "To cancel Netflix in India, sign in, open the Manage your membership page, tap Cancel and then Finish Cancellation. You can keep using Netflix until the end of the billing period you have already paid for, and you will not be charged again after that. If the account is billed through Apple or a partner such as a telecom plan, the Cancel option may be missing, so you must cancel with that provider instead.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Netflix subscription India", "cancel Netflix membership", "Netflix UPI AutoPay cancel", "Netflix refund after cancelling", "Netflix billed through Apple"],
+  "about": ["Netflix", "UPI AutoPay", "Subscription cancellation"],
+  "stepsHeading": "How to cancel Netflix in a browser",
+  "steps": [
+    { "name": "Sign in", "text": "Sign in to your Netflix account at netflix.com in a web or mobile browser on a phone, tablet or computer." },
+    { "name": "Open Manage your membership", "text": "Go to the Manage your membership page. Netflix's cancellation help also points to netflix.com/cancelplan as a direct route." },
+    { "name": "Tap or click Cancel", "text": "On the Manage your membership page, tap or click Cancel." },
+    { "name": "Select Finish Cancellation", "text": "Under Cancel, tap or click Finish Cancellation to confirm." },
+    { "name": "Check your email", "text": "Netflix sends a confirmation email to the address on the account. Keep it as proof of the cancellation date." }
+  ],
+  "sections": [
+    {
+      "heading": "Cancelling from a phone, tablet, computer or TV",
+      "paragraphs": [
+        "Netflix's help centre describes one cancellation route, the Manage your membership page opened in a web or mobile browser. Netflix says this is the only way to cancel your account and end your membership. Signing out or deleting the Netflix app does not cancel the account, so the app being gone does not stop future charges.",
+        "The help article does not list separate steps for the Netflix app on iPhone or Android, or for smart TVs. For a TV account, the practical route is a browser on a phone, tablet or computer, signed in to the same account. If you cannot see a Cancel option at all, the Membership section of your Account page will say whether another company bills you."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "If you cancel with time left in your billing period, you can keep using Netflix until the account closes automatically at the end of that period. Netflix says you will not be charged again unless you restart. To see the exact closing date, open your Payment History. An account that is on hold closes immediately when you cancel.",
+        "Netflix keeps your Viewing Activity, recommendations, ratings and account details for 24 months after the account closes, so restarting within that window brings them back. If you want to stop anyone in the household restarting the account, change the password and select Sign out of all devices."
+      ],
+      "list": [
+        "Pausing is an alternative to cancelling. A pause lasts one month, is not available on the Basic plan, and an account can be paused for a total of three months.",
+        "Your billing date is the day you signed up each month. It can shift by a day because of time zones, and in months with fewer days it falls on the last day."
+      ]
+    },
+    {
+      "heading": "Refunds and charges after cancelling",
+      "paragraphs": [
+        "The Netflix cancellation help describes access until the end of the billing period. It does not promise a refund for the unused part of a month, so treat cancelling as ending future charges rather than returning money already paid.",
+        "If you were charged after cancelling, Netflix's help says to sign in, go to netflix.com/cancelplan, select Finish Cancellation, and then change your password at netflix.com/password with Sign out of all devices. If you cannot complete those steps, Netflix asks you to contact its support team."
+      ]
+    },
+    {
+      "heading": "Apple, telecom and other partner billing",
+      "paragraphs": [
+        "Netflix's help separates accounts billed by Netflix from accounts billed through a partner or package. Netflix billing through Apple is no longer offered to most new or rejoining members, but some existing accounts still use it. If an Apple-billed account has no Cancel option, Netflix says you must cancel through Apple. The account is then put on hold for 30 days before it is fully cancelled.",
+        "Apple renews subscriptions automatically, and Netflix notes that Apple's cancellation policy means a membership can renew if you do not cancel more than 24 hours before the renewal date. On an iPhone, go to Settings, tap your name, then Subscriptions, then Cancel Subscription. Netflix's help does not give Jio or Airtel specific steps for a telecom bundle, so for a plan that includes Netflix, use the telecom provider's app or customer care to stop or change the plan."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay mandate",
+      "paragraphs": [
+        "If your Netflix payment runs through UPI AutoPay, the mandate sits in the UPI app where you approved it, usually under a section called AutoPay or Mandates. The label can differ by app version. Cancelling in Netflix is what stops Netflix billing you, but a UPI mandate is a separate authorisation, so check your UPI app as well after you cancel.",
+        "Netflix's help has an article on the error 'Sorry, this UPI ID cannot be used to set up monthly autopay', which suggests adding a UPI ID from a different app or choosing another payment method. On the Manage payment info page, a payment method you delete cannot be charged again unless you add it back. NPCI's UPI Help portal at upihelp.npci.org.in is the other place to view and manage mandates."
+      ]
+    },
+    {
+      "heading": "Keeping Netflix renewals in view",
+      "paragraphs": [
+        "Netflix renews on the same date each month, which is easy to forget when it sits among several plans. Adding it to Essara as a subscription, with its monthly cost and next renewal date, means a reminder arrives before the charge. Essara works manually: you enter the plan yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Does deleting the Netflix app cancel my membership?", "a": "No. Netflix's help says signing out or deleting the app does not cancel the account. Only the Cancel and Finish Cancellation steps on the Manage your membership page end the membership." },
+    { "q": "Can I keep watching Netflix after I cancel?", "a": "Yes, if you cancel with time left in your billing period. You can use Netflix until the account closes at the end of that period. An account that is on hold closes as soon as you cancel." },
+    { "q": "Will Netflix refund me if I cancel in the middle of the month?", "a": "Netflix's cancellation help describes access until the end of the billing period and does not promise a refund for unused days. If you were charged after cancelling, follow the steps at netflix.com/cancelplan and contact Netflix support." },
+    { "q": "What if I can't find the Cancel button in Netflix?", "a": "The account is probably billed by Apple or a partner. Check the Membership section of your Account page. It will either link to a cancellation guide or tell you to contact the payment partner to cancel." },
+    { "q": "Should I pause Netflix instead of cancelling?", "a": "A pause is useful if you only want a break. It lasts one month, you cannot stream while it is paused, and the total pause time is capped at three months. Pausing is not available on the Basic plan." }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-amazon-prime-india",
+    "cancel-subscriptions/cancel-jiohotstar-subscription",
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "upi-autopay/find-all-upi-autopay-mandates"
+  ],
+  "sources": [
+    { "label": "Netflix Help Centre: How to cancel Netflix", "url": "https://help.netflix.com/en/node/407" },
+    { "label": "Netflix Help Centre: Charged after canceling Netflix", "url": "https://help.netflix.com/en/node/124418" },
+    { "label": "Netflix Help Centre: Netflix Billing through Apple", "url": "https://help.netflix.com/en/node/25097" },
+    { "label": "Netflix Help Centre: UPI ID cannot be used to set up monthly autopay", "url": "https://help.netflix.com/en/node/134156" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}

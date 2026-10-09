@@ -1,0 +1,85 @@
+{
+  "slug": "cancel-swiggy-one",
+  "cluster": "cancel-subscriptions",
+  "title": "How to Cancel Swiggy One in India (2026) | Essara",
+  "metaDescription": "Cancel Swiggy One in India: what Swiggy's terms say about cancelling, refunds and renewals, plus how to stop the UPI AutoPay or card payment behind the membership.",
+  "h1": "Can you cancel Swiggy One in India, and what do the terms actually say?",
+  "summary": "Swiggy's membership terms say a purchased Swiggy One or Swiggy One Lite membership cannot be cancelled during its active period, and a prorated refund applies only when Swiggy itself cancels or changes it. The terms describe a membership that expires and that you renew, but they do not say whether your plan renews automatically, so check the membership details in the app and your payment records.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel Swiggy One", "Swiggy One refund India", "Swiggy One auto renewal", "stop Swiggy One charges", "Swiggy One Lite cancel"],
+  "about": ["Swiggy One", "Swiggy", "UPI AutoPay"],
+  "stepsHeading": "How to stop a Swiggy One renewal",
+  "steps": [
+    { "name": "Check your membership in the app", "text": "Open the Swiggy app and find your Swiggy One membership details. Note the expiry date and whether a renewal is shown. Menu locations change between versions, so search the account section for Swiggy One if you cannot find it." },
+    { "name": "Read the Help section", "text": "Swiggy's terms say the detailed FAQs are in the Help section of the app or website. Check what it says about renewal before you act." },
+    { "name": "Ask Swiggy in writing", "text": "Use the Help section to contact Swiggy. Ask that the membership is not renewed, and ask them to confirm in writing when it ends. Save the chat transcript." },
+    { "name": "Stop the payment behind it", "text": "If the charge comes through UPI AutoPay, open your UPI app and look for Autopay or Mandates (the label varies) and revoke the Swiggy mandate. For a card, ask your card issuer to stop the recurring charge, and for an app store charge, use that store's subscription settings." },
+    { "name": "Keep proof and check your statement", "text": "Keep the confirmation, the expiry date and the transcript, then check your next bank or card statement for any Swiggy charge." }
+  ],
+  "sections": [
+    {
+      "heading": "What the terms say about cancelling",
+      "paragraphs": [
+        "Swiggy's terms for the Swiggy One and Swiggy One Lite membership programme, in the section headed Swiggy One and Swiggy One Lite Membership Program Specific Terms, say that a membership once purchased cannot be cancelled or terminated during its effective period. In practice, that means a membership you have paid for runs to the end of its term, and you cannot ask for money back mid-term because you changed your mind.",
+        "The same terms say Swiggy may cancel or modify the membership at its sole discretion, and in that case it will issue a prorated refund based on the full months remaining. They also say that if a membership was bought along with an order and that order is cancelled, the membership is cancelled too and its amount is refunded."
+      ]
+    },
+    {
+      "heading": "Does Swiggy One renew on its own?",
+      "paragraphs": [
+        "The terms I could read describe a membership that expires and that you renew. The Dineout coupon clause, for example, says the monthly coupons stop once the membership expires and resume once you renew it. The terms do not contain an automatic renewal clause, but they also do not rule out a renewal charge, and I could not confirm from Swiggy's pages how your specific plan is billed.",
+        "Because of that gap, do not assume either way. Check the membership details in the app and the payment record for Swiggy in your UPI app, card statement or app store. If a charge appears that you did not expect, contact Swiggy and your payment provider."
+      ]
+    },
+    {
+      "heading": "What you lose when the membership ends",
+      "paragraphs": [
+        "The terms list the main benefits: free deliveries on food orders from participating restaurants, and on Instamart orders subject to the minimum order amounts. The terms also state that with Swiggy One, users pay no delivery fee on Instamart orders above ₹199. The number of free deliveries depends on the plan you hold.",
+        "Dineout coupons are the other benefit the terms spell out. A member gets two coupons worth ₹150 each per membership month, each usable on one restaurant bill of at least ₹1,500 through Dineout. Those coupons stop when the membership expires, so use any unused ones before the end date."
+      ]
+    },
+    {
+      "heading": "Refunds and partner-issued memberships",
+      "paragraphs": [
+        "Refunds follow the rules above. Mid-term cancellation by you is not covered, and a prorated refund applies when Swiggy itself cancels or changes the membership. Swiggy also has a separate refund and cancellation policy page, but I could not read it from this environment, so check it directly.",
+        "Some memberships come through a bank or card offer, and those partners can attach their own terms. The AU Small Finance Bank voucher terms for Swiggy One Lite, for example, say that once the membership is activated it cannot be cancelled and no refund will be issued. If your membership came through a voucher, read the voucher terms as well."
+      ]
+    },
+    {
+      "heading": "Tracking renewals in Essara",
+      "paragraphs": [
+        "A membership that expires quietly is easy to miss. Essara is a manual tracker: you add Swiggy One yourself with its cost and billing cycle, and it shows the renewal in your upcoming timeline and sends a reminder before it falls due. Essara does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Swiggy One auto-renewing?",
+      "a": "I could not confirm this. The membership terms describe a term that expires and that you renew, and they contain no automatic renewal clause. Check the membership details in the Swiggy app and your payment records, and ask Swiggy support whether your plan renews."
+    },
+    {
+      "q": "Can I get a refund if I cancel Swiggy One mid-term?",
+      "a": "The terms say a purchased membership cannot be cancelled or terminated during its effective period. A prorated refund applies when Swiggy cancels or modifies the membership. Memberships bought through some bank or card vouchers can carry their own no-refund terms."
+    },
+    {
+      "q": "Does cancelling a food order also cancel Swiggy One?",
+      "a": "Only if the membership was bought along with that order. The terms say that if the order is cancelled, the membership is cancelled too and its amount is refunded. A membership bought separately is not affected."
+    },
+    {
+      "q": "Do these terms also apply to Swiggy One Lite?",
+      "a": "Yes. The membership programme section covers both Swiggy One and Swiggy One Lite, and the cancellation, refund and coupon clauses are written for both."
+    }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-zomato-gold",
+    "cancel-subscriptions/cancel-google-one-india",
+    "upi-autopay/cancel-upi-autopay-paytm",
+    "upi-autopay/find-all-upi-autopay-mandates"
+  ],
+  "sources": [
+    { "label": "Swiggy Terms & Conditions (section 9c, Swiggy One membership)", "url": "https://www.swiggy.com/terms-and-conditions" },
+    { "label": "AU Small Finance Bank: Swiggy One Lite voucher terms", "url": "https://www.au.bank.in/voucher/Swiggy-One-Lite-Voucher-tnc.pdf" },
+    { "label": "Google Pay Help: Learn how to manage recurring payments", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

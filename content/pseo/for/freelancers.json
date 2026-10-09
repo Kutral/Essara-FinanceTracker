@@ -6,8 +6,18 @@
   "h1": "How do freelancers in India track tool subscriptions when income arrives in lumps?",
   "summary": "Freelancers in India face two money problems at once: client payments arrive irregularly, while software tools, cloud storage and AI subscriptions bill every month whether or not a project came in. A manual tracker such as Essara lets you log income as it arrives, list every tool with its renewal date, and set a monthly budget with a daily spending limit, without linking your bank account.",
   "updated": "2026-10-09",
-  "keywords": ["freelancer expense tracker India", "freelance subscription tracker India", "irregular income budget India", "track software subscriptions India", "freelancer budget app India"],
-  "about": ["Google Play subscriptions", "Apple subscriptions", "Advance tax"],
+  "keywords": [
+    "freelancer expense tracker India",
+    "freelance subscription tracker India",
+    "irregular income budget India",
+    "track software subscriptions India",
+    "freelancer budget app India"
+  ],
+  "about": [
+    "Google Play subscriptions",
+    "Apple subscriptions",
+    "Advance tax"
+  ],
   "stepsHeading": "Set it up in 10 minutes",
   "sections": [
     {
@@ -41,19 +51,40 @@
     {
       "heading": "Advance tax and the renewal calendar",
       "paragraphs": [
-        "If your total tax for the year is ₹10,000 or more, advance tax generally applies to freelancers as well as salaried people. For most individuals the department's Section 211 text sets it in four instalments: 15% by 15 June, 45% by 15 September, 75% by 15 December and 100% by 15 March, less amounts already paid. Presumptive-scheme taxpayers follow a different schedule. The Income-tax Act is being replaced in 2026, so confirm the current schedule on the income tax portal before paying.",
+        "If your total tax for the year is ₹10,000 or more, advance tax generally applies to freelancers as well as salaried people. For most individuals the department's Section 211 text sets it in four instalments: 15% by 15 June, 45% by 15 September, 75% by 15 December and 100% by 15 March, less amounts already paid. Presumptive-scheme taxpayers follow a different schedule. Section numbers can change under the new Income-tax Act, so confirm the current schedule on the income tax portal before paying.",
         "Add each advance tax date to your tracker as a bill with a reminder, next to your tool renewals, so the cash for them is planned before the date arrives."
       ]
     }
   ],
   "steps": [
-    { "name": "Pull three months of charges", "text": "Check Google Play and Apple subscriptions, the Autopay section of your UPI app and your card statement for every tool you pay for." },
-    { "name": "Create your account", "text": "Sign up at essara.space/signup, or install the Android app from Google Play. The same account works on Android and the web app, including the installable web app on iPhone." },
-    { "name": "Add each tool with its cycle", "text": "Enter the name, amount, billing cycle and next renewal date. Put 'business' or 'personal' in the name so you can tell them apart." },
-    { "name": "Add UPI AutoPay mandates", "text": "Copy each mandate from your UPI app's Autopay list, so tool debits appear with the rest of your renewals." },
-    { "name": "Log your income as it arrives", "text": "Record each client payment as income on the day it lands, not the day you expected it." },
-    { "name": "Set a budget from your lowest month", "text": "Set the monthly budget from your lowest recent month, then check left-to-spend and the daily spending limit." },
-    { "name": "Scan a tool invoice", "text": "Scan one tool bill with the receipt scanner, review the merchant, total and date, then save. The free plan includes 5 scans a month." }
+    {
+      "name": "Pull three months of charges",
+      "text": "Check Google Play and Apple subscriptions, the Autopay section of your UPI app and your card statement for every tool you pay for."
+    },
+    {
+      "name": "Create your account",
+      "text": "Sign up at essara.space/signup, or install the Android app from Google Play. The same account works on Android and the web app, including the installable web app on iPhone."
+    },
+    {
+      "name": "Add each tool with its cycle",
+      "text": "Enter the name, amount, billing cycle and next renewal date. Put 'business' or 'personal' in the name so you can tell them apart."
+    },
+    {
+      "name": "Add UPI AutoPay mandates",
+      "text": "Copy each mandate from your UPI app's Autopay list, so tool debits appear with the rest of your renewals."
+    },
+    {
+      "name": "Log your income as it arrives",
+      "text": "Record each client payment as income on the day it lands, not the day you expected it."
+    },
+    {
+      "name": "Set a budget from your lowest month",
+      "text": "Set the monthly budget from your lowest recent month, then check left-to-spend and the daily spending limit."
+    },
+    {
+      "name": "Scan a tool invoice",
+      "text": "Scan one tool bill with the receipt scanner, review the merchant, total and date, then save. The free plan includes 5 scans a month."
+    }
   ],
   "faqs": [
     {
@@ -81,10 +112,25 @@
     "cancel-subscriptions/cancel-microsoft-365-india"
   ],
   "sources": [
-    { "label": "Google Pay Help — Manage your UPI Autopay mandates", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" },
-    { "label": "Google Play Help — Cancel, pause, or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481?hl=en" },
-    { "label": "Apple Support — Cancel a subscription from Apple", "url": "https://support.apple.com/en-in/118428" },
-    { "label": "Income Tax Department — Section 211 (advance tax)", "url": "https://www.incometaxindia.gov.in/w/section-211" }
+    {
+      "label": "Google Pay Help — Manage your UPI Autopay mandates",
+      "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
+    },
+    {
+      "label": "Google Play Help — Cancel, pause, or change a subscription",
+      "url": "https://support.google.com/googleplay/answer/7018481?hl=en"
+    },
+    {
+      "label": "Apple Support — Cancel a subscription from Apple",
+      "url": "https://support.apple.com/en-in/118428"
+    },
+    {
+      "label": "Income Tax Department — Section 211 (advance tax)",
+      "url": "https://www.incometaxindia.gov.in/w/section-211"
+    }
   ],
-  "essaraTool": { "label": "Free monthly money leak calculator", "url": "https://essara.space/tools/monthly-money-leak-calculator" }
+  "essaraTool": {
+    "label": "Free monthly money leak calculator",
+    "url": "https://essara.space/tools/monthly-money-leak-calculator"
+  }
 }
