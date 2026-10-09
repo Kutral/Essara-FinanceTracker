@@ -2,7 +2,7 @@
   "slug": "what-is-an-e-mandate",
   "cluster": "learn",
   "title": "What Is an E-Mandate? Cards, UPI AutoPay and NACH",
-  "metaDescription": "An e-mandate lets a merchant charge you on a schedule after one approval. Learn how card e-mandates, UPI AutoPay and NACH mandates differ, and where to cancel each.",
+  "metaDescription": "An e-mandate lets a merchant charge you on a schedule after one approval. Compare card e-mandates, UPI AutoPay and NACH, and learn where to cancel each.",
   "h1": "What is an e-mandate, and how do card, UPI AutoPay and NACH mandates differ?",
   "summary": "An e-mandate is a standing approval that lets a merchant collect recurring payments from your account without asking you to approve every debit. In India it appears in three common forms: card e-mandates, UPI AutoPay mandates and NACH mandates that debit a bank account. They differ in which account is charged, how you approve them, and where you go to pause or cancel them.",
   "updated": "2026-10-09",
@@ -20,7 +20,7 @@
       "heading": "Card e-mandates",
       "paragraphs": [
         "A card e-mandate is registered against a debit or credit card. The RBI's 2026 e-mandate directions require the registration to be validated with an additional factor of authentication (AFA). Changing or withdrawing the mandate also needs AFA, so the bank will ask you to verify before the change goes through.",
-        "Card mandates are managed on the card issuer's side, not in the merchant's app. HSBC, for example, runs a MandateHQ portal where cardholders can pause, resume or cancel a mandate using an OTP sent to their registered mobile number. The same HSBC FAQ still quotes a ₹5,000 threshold for authorising larger debits, which is older than the current ₹15,000 rule, so a bank's help page can lag the regulation."
+        "HSBC, for example, runs a MandateHQ portal where cardholders can pause, resume or cancel a mandate using an OTP sent to their registered mobile number. The same HSBC FAQ still quotes a ₹5,000 threshold for authorising larger debits, which is older than the current ₹15,000 rule, so a bank's help page can lag the regulation."
       ]
     },
     {
@@ -33,14 +33,14 @@
     {
       "heading": "NACH and e-NACH mandates",
       "paragraphs": [
-        "NACH (National Automated Clearing House) is a clearing service run by the National Payments Corporation of India (NPCI). Its mandate variant debits a bank account directly, rather than a card or a UPI ID. E-NACH is the online route for registering such a mandate. NACH mandates are often used for loan repayments, insurance premiums and similar fixed collections, and the lender or merchant sets up the collection.",
+        "NACH (National Automated Clearing House) is a clearing service run by the National Payments Corporation of India (NPCI). Its mandate variant debits a bank account directly, rather than a card or a UPI ID. E-NACH is the online route for registering such a mandate. NACH mandates are often used for loan repayments and insurance premiums.",
         "Cancelling a NACH mandate is less uniform than the other two rails. Most people start in their bank's net banking or mobile app. Loan-linked mandates are contested, though. In a May 2026 letter to the RBI, the Finance Industry Development Council, an industry body for NBFCs, said some banks had cancelled loan mandates on customer instruction alone, without confirming with the lender, and asked for a structured process. Check your loan agreement before you cancel an EMI mandate."
       ]
     },
     {
       "heading": "How the three rails compare",
       "paragraphs": [
-        "The rails share a basic shape, but the place you manage each one is different. Use this to find the right control panel quickly."
+        "Use this list to find the right control panel for each rail."
       ],
       "list": [
         "Card e-mandate: debits a debit or credit card. Authenticated through the card issuer. Cancel in the card issuer's portal or app.",
@@ -58,7 +58,7 @@
     {
       "heading": "Keeping one list across rails",
       "paragraphs": [
-        "A mandate is easy to forget when it sits in a card portal, a UPI app and a bank app at the same time. Essara's UPI AutoPay tracker lets you add each mandate yourself, then shows upcoming auto-debits for the week and month next to your other subscriptions. Essara does not connect to your bank, your UPI app or your SMS, so you enter the details yourself."
+        "Essara's UPI AutoPay tracker lets you add each mandate yourself, then shows upcoming auto-debits for the week and month next to your other subscriptions. Essara does not connect to your bank, your UPI app or your SMS, so you enter the details yourself."
       ]
     }
   ],

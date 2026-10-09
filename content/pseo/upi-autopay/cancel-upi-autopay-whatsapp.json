@@ -1,0 +1,114 @@
+{
+  "slug": "cancel-upi-autopay-whatsapp",
+  "cluster": "upi-autopay",
+  "title": "Cancel UPI AutoPay on WhatsApp Pay: What Works (2026)",
+  "metaDescription": "WhatsApp Pay runs on UPI, but WhatsApp's own pages do not confirm mandate management. Learn how to check, cancel the mandate in its UPI app and confirm it stopped.",
+  "h1": "Can you cancel a UPI AutoPay mandate from WhatsApp Pay?",
+  "summary": "WhatsApp Pay sends money over UPI, but WhatsApp's India payments pages and terms do not describe creating or managing UPI AutoPay mandates inside WhatsApp. To stop a recurring debit, cancel with the merchant, then cancel or revoke the mandate in the UPI app or bank where it is listed, using your UPI PIN, and confirm that its status changed.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel UPI AutoPay WhatsApp Pay", "WhatsApp Pay AutoPay", "WhatsApp UPI mandate", "revoke UPI mandate", "stop UPI AutoPay"],
+  "about": ["WhatsApp Pay", "UPI AutoPay", "NPCI"],
+  "stepsHeading": "How to stop a UPI AutoPay debit linked to WhatsApp Pay",
+  "steps": [
+    {
+      "name": "Cancel with the merchant",
+      "text": "Open the merchant's website or app and cancel the subscription there, then save the confirmation. HDFC Bank advises this step so the merchant stops starting new charges. The label and location depend on the merchant."
+    },
+    {
+      "name": "Check WhatsApp's payments settings",
+      "text": "Open WhatsApp, go to payments settings and look for an AutoPay, mandates or subscriptions entry. WhatsApp's payments page says past transactions can be viewed in payments settings. If no mandate is listed there, move to the next step."
+    },
+    {
+      "name": "Check the UPI apps and bank you use",
+      "text": "Open each UPI app you have used and go to Profile or Settings, then AutoPay, Mandates or Subscriptions. The label may vary by app version. In Google Pay, tap your profile picture and select Autopay."
+    },
+    {
+      "name": "Cancel or revoke with your UPI PIN",
+      "text": "Select the active mandate, tap Cancel or Revoke, and enter your UPI PIN to confirm. In Google Pay, open the Live tab, tap the mandate, and choose Cancel autopay."
+    },
+    {
+      "name": "Confirm the status changed",
+      "text": "Check that the mandate shows as Cancelled, Revoked or another final status. Keep a screenshot of the status and the confirmation, and check your bank statement after the next due date."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What WhatsApp Pay officially covers",
+      "paragraphs": [
+        "WhatsApp Pay is a UPI feature in India. WhatsApp India's payments terms say it passes your payment instructions to payment service providers, which process them over UPI, and that money moves directly between bank accounts. WhatsApp's payments page says the feature is powered by BHIM UPI and processed by payment partners in India.",
+        "The official pages describe sending money, paying bills through the Bharat Bill Payment System (BBPS) and checking past transactions in payments settings. They do not mention UPI AutoPay, e-mandates or subscription debits. Some vendor blogs say WhatsApp Pay supports AutoPay for subscriptions, but those are marketing pieces with no link to WhatsApp or NPCI documentation, so treat that claim as unconfirmed."
+      ]
+    },
+    {
+      "heading": "Find out which app holds the mandate",
+      "paragraphs": [
+        "A UPI AutoPay mandate is approved in the app or bank where you accepted it, and it is changed there too. If you have never seen a mandate in WhatsApp's payments settings, the debit is probably coming from a different UPI app or from your bank's list. Start with the merchant name and amount on the debit, then look in each app you have used.",
+        "A pre-debit SMS or app notice usually gives the merchant name, amount, debit date and mandate reference, so keep it until the mandate is sorted. HDFC Bank says mandates are visible in the UPI app where they were authorised, under the AutoPay section, so a mandate can be missing from the first app you check."
+      ]
+    },
+    {
+      "heading": "Cancel the merchant and the mandate together",
+      "paragraphs": [
+        "Cancelling a mandate stops future debits, but it does not always end the service on the merchant's side. HDFC Bank advises cancelling on the merchant's website or app first, then opening the UPI app to confirm the mandate shows as Cancelled or Revoked.",
+        "If the merchant gives no cancel option, revoke the mandate in the UPI app under Profile or Settings, then AutoPay. Google Pay's help page follows the same pattern: tap your profile picture, select Autopay, open the Live tab, and choose Cancel autopay or Pause autopay. You confirm with your UPI PIN."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "Cancelling stops future debits from that mandate. It does not reverse payments that already went through. WhatsApp India's payments terms say that once a payment is submitted through a payment service provider it is final, and that WhatsApp India cannot provide refunds or facilitate chargebacks.",
+        "A debit that was started before you cancelled can still complete, so check your bank statement for several days afterwards. If a charge arrives after the mandate shows as revoked, keep the screenshots and transaction ID and raise the matter with the merchant and your bank."
+      ]
+    },
+    {
+      "heading": "Common problems",
+      "paragraphs": [
+        "Most problems come from looking in the wrong place or cancelling in one place only. The list below covers the cases that come up most often.",
+        "Deleting WhatsApp is not the same as cancelling a mandate. Uninstalling the app or removing a bank account from WhatsApp does not show that a mandate was revoked, so check the status in the UPI app or bank afterwards."
+      ],
+      "list": [
+        "The mandate is not in WhatsApp: check each UPI app and your bank's app, because a mandate approved elsewhere will usually not appear in WhatsApp.",
+        "The cancel option is missing: HDFC Bank says loan repayment and debt collection mandates cannot be cancelled through the UPI app, so contact the merchant. Google Pay says the same for loan AutoPay mandates.",
+        "Google Pay returns an error: it says the bank account linked to the mandate must be active before you can cancel, so reactivate that account if needed."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Once you know which subscriptions are billed by UPI AutoPay, a manual tracker keeps them visible. In Essara you add each subscription or mandate yourself, with its amount, billing cycle and next renewal date, and you can see upcoming auto-debits in one list. Essara does not connect to WhatsApp, your UPI app, your bank or your SMS, so the list is only as current as the details you enter."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I cancel UPI AutoPay from WhatsApp?",
+      "a": "Not confirmed. WhatsApp's India payments pages and terms describe sending money and bill payments, and do not mention UPI AutoPay mandates. If a mandate appears in WhatsApp's payments settings, cancel it there. Otherwise revoke it in the UPI app or bank where it was approved."
+    },
+    {
+      "q": "Does deleting WhatsApp stop a UPI AutoPay debit?",
+      "a": "Deleting WhatsApp is not a reliable way to stop a mandate. Mandates are tied to your bank account and to the UPI app where you approved them. Revoke the mandate in that app, then check that its status shows as cancelled or revoked."
+    },
+    {
+      "q": "Will WhatsApp refund a payment I did not want?",
+      "a": "WhatsApp India's terms say it cannot provide refunds or chargebacks for a payment once it has been submitted through a payment service provider. The same terms make WhatsApp India the first point of contact for UPI complaints from its users, then the PSP bank, your bank and NPCI, with the Banking Ombudsman or the Ombudsman for Digital Complaints after that."
+    },
+    {
+      "q": "Why did a debit come through after I cancelled?",
+      "a": "A payment that was already started can still complete, and a merchant may keep trying if the mandate is still active in another app. Check every UPI app and your bank for the mandate, and send the merchant your cancellation proof with the debit details."
+    }
+  ],
+  "related": [
+    "upi-autopay/cancel-upi-autopay-google-pay",
+    "upi-autopay/cancel-upi-autopay-phonepe",
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "learn/what-is-upi-autopay",
+    "learn/pre-debit-notification"
+  ],
+  "sources": [
+    { "label": "WhatsApp Payments (India)", "url": "https://www.whatsapp.com/payments/in" },
+    { "label": "WhatsApp India Payments Terms of Service", "url": "https://www.whatsapp.com/legal/payments/india/terms" },
+    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" },
+    { "label": "Google Pay Help: manage your UPI autopay mandates", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}

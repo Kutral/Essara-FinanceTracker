@@ -1,0 +1,84 @@
+{
+  "slug": "cancel-jiohotstar-subscription",
+  "cluster": "cancel-subscriptions",
+  "title": "Cancel JioHotstar Subscription in India (2026)",
+  "metaDescription": "How to cancel JioHotstar in India by billing channel: App Store, Google Play, a Jio recharge plan or direct payment, plus access after cancelling and stopping UPI AutoPay.",
+  "h1": "How do I cancel a JioHotstar subscription in India?",
+  "summary": "Where you cancel JioHotstar depends on how you paid. An App Store subscription is cancelled in your iPhone's Subscriptions settings, a Google Play subscription on the Subscriptions page in Google Play, and a plan that came with a Jio recharge is changed through your Jio plan, because Jio's offer terms tie the benefit to an active eligible plan. Deleting the JioHotstar app does not cancel any of these.",
+  "updated": "2026-10-09",
+  "keywords": ["cancel JioHotstar subscription", "JioHotstar auto renewal off", "cancel JioHotstar Jio plan", "cancel JioHotstar App Store", "JioHotstar UPI AutoPay"],
+  "about": ["JioHotstar", "Jio", "Subscription cancellation"],
+  "stepsHeading": "How to cancel JioHotstar, by billing channel",
+  "steps": [
+    { "name": "Check how you paid", "text": "Look at your payment confirmation email, your App Store or Google Play purchase history, or your Jio account if the plan came with a recharge." },
+    { "name": "App Store: cancel in iPhone Settings", "text": "Open Settings, tap your name, tap Subscriptions, choose JioHotstar and tap Cancel Subscription. If there is no Cancel button, or you see an expiry message in red, the subscription has already been cancelled." },
+    { "name": "Google Play: cancel in Subscriptions", "text": "On Android, go to subscriptions in Google Play, select JioHotstar and tap Cancel subscription. On a computer, use the same Subscriptions page at play.google.com and click Cancel subscription." },
+    { "name": "Jio recharge: change the Jio plan", "text": "If JioHotstar came with a Jio plan, stop or change that plan through the Jio app or customer care, and ask for written confirmation." },
+    { "name": "Direct payment: use your account", "text": "If you paid JioHotstar directly, open your account in the app or on the website and look for the subscription or plan section. Labels can change between app versions." },
+    { "name": "Keep proof and check the next bill", "text": "Save the cancellation confirmation, then check your next statement or store billing history to make sure no renewal goes through." }
+  ],
+  "sections": [
+    {
+      "heading": "Why the billing channel decides where you cancel",
+      "paragraphs": [
+        "A subscription bought through the App Store is managed by Apple, and one bought through Google Play is managed by Google. Apple's help says you can cancel a subscription from Apple using the web or your device, and Google's help says that uninstalling an app does not cancel its subscription. Deleting the JioHotstar app is therefore not enough, whichever store you used.",
+        "A plan bought directly from JioHotstar, or one that came bundled with a Jio recharge, is managed in a different place. In those cases the account or the Jio plan is the place to look, and you should check which channel applies before you cancel anything."
+      ]
+    },
+    {
+      "heading": "Jio recharge plans and JioHome Wi-Fi bundles",
+      "paragraphs": [
+        "Jio's offer page for JioHotstar says that to receive the subscription you must be active on an eligible plan during the offer period. The same page says Jio can withdraw an offer at any time without prior notice, but benefits already earned before the withdrawal are not changed.",
+        "Jio's JioHome Wi-Fi plans can include JioHotstar as well. Jio says that in that case you do not need to buy or renew a JioHotstar subscription separately. If the benefit comes with one of these plans, the Jio plan is the thing to check, not the app alone."
+      ]
+    },
+    {
+      "heading": "What happens after you cancel",
+      "paragraphs": [
+        "Google's help says that when you cancel a subscription you can still use it for the time you have already paid for, and you are not charged for the next cycle. Apple's App Store listing for JioHotstar in India says a subscription renews automatically unless auto-renewal is turned off at least 24 hours before the end of the current period.",
+        "Access rules for a direct or telecom-bundled plan can differ, so check the expiry date shown in your account or Jio app. Do not assume access ends the moment you cancel."
+      ]
+    },
+    {
+      "heading": "Refunds and charges after cancelling",
+      "paragraphs": [
+        "For App Store and Google Play purchases, the store handles billing disputes. Google's help says past subscriptions can't be refunded, with some exceptions. For a direct or Jio-bundled plan, this page cannot confirm a refund rule, so check the terms in your account and ask the provider for a written answer.",
+        "If a charge continues after you have cancelled, first confirm the billing channel, then contact the store or provider with the confirmation you saved. Never share your UPI PIN or account password with anyone who contacts you about a refund."
+      ]
+    },
+    {
+      "heading": "Stopping the UPI AutoPay mandate",
+      "paragraphs": [
+        "If your JioHotstar payment was set up as UPI AutoPay, the mandate is held in your UPI app, usually under a section called AutoPay or Mandates. The label can differ by app version. Cancelling the subscription and revoking the mandate are separate steps, so check the mandate after you cancel.",
+        "NPCI's UPI Help portal at upihelp.npci.org.in is the other place to view and manage UPI mandates across apps."
+      ]
+    },
+    {
+      "heading": "Keeping streaming renewals in view",
+      "paragraphs": [
+        "A streaming plan that renews quietly can cost more over a year than it seems month to month. Adding JioHotstar to Essara as a subscription, with its renewal date and cost, means it appears in your renewal timeline before the next charge. Essara works manually: you enter the plan yourself, and it does not connect to your bank, UPI app or SMS."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Does uninstalling the JioHotstar app cancel my subscription?", "a": "No. Google's help says uninstalling an app does not cancel its Google Play subscription, and Apple's subscription settings work separately from the app. Cancel through the store or account where you bought the plan." },
+    { "q": "Will I lose JioHotstar access as soon as I cancel?", "a": "Not necessarily. Google's help says you can keep using a cancelled subscription for the time you have already paid for. Check the expiry date shown for your plan before assuming access has ended." },
+    { "q": "Can I cancel JioHotstar if it came with my Jio recharge?", "a": "Jio's offer terms tie the subscription to an active eligible plan during the offer period. To stop it, change or end the Jio plan through the Jio app or customer care, and ask for written confirmation." },
+    { "q": "Do I still need to cancel on the App Store if I have deleted the app?", "a": "Yes, if the subscription was bought through the App Store. Apple's steps run from Settings on the iPhone itself, so the app does not need to be installed." },
+    { "q": "What should I do if JioHotstar still charges me after I cancelled?", "a": "Confirm the billing channel first: App Store, Google Play, a Jio bill or a UPI mandate. Then contact the store or provider with your saved confirmation, and check the AutoPay or Mandates section of your UPI app for an active mandate." }
+  ],
+  "related": [
+    "cancel-subscriptions/cancel-netflix-subscription-india",
+    "cancel-subscriptions/cancel-amazon-prime-india",
+    "cancel-subscriptions/cancel-sonyliv-subscription",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "cancel-subscriptions/cancel-apple-subscriptions-iphone"
+  ],
+  "sources": [
+    { "label": "Apple Support: Cancel a subscription from Apple", "url": "https://support.apple.com/en-in/HT202039" },
+    { "label": "Google Play Help: Cancel, pause or change a subscription", "url": "https://support.google.com/googleplay/answer/7018481?hl=en-IN" },
+    { "label": "App Store: JioHotstar (India) listing", "url": "https://apps.apple.com/in/app/jiohotstar/id934459219" },
+    { "label": "Jio: JioHotstar special offer terms", "url": "https://www.jio.com/en-in/jio-hotstar-special-offer/" }
+  ],
+  "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
+}
