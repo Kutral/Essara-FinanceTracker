@@ -18,7 +18,7 @@ export function FeaturedVideoSection() {
           loop
           playsInline
           preload="auto"
-          aria-label="Essara personal finance app demo video showing expense tracking and budget features"
+          aria-label="Essara product video"
         />
         
         {/* Gradient overlay */}
@@ -29,7 +29,7 @@ export function FeaturedVideoSection() {
           <div className="liquid-glass rounded-2xl p-6 md:p-8 max-w-md w-full md:w-auto">
             <p className="text-white/50 text-xs tracking-widest uppercase mb-3 text-left">Our Approach</p>
             <p className="text-white text-sm md:text-base leading-relaxed text-left speakable-services">
-              We believe in the power of simplicity. Every financial journey starts with a question, and essara.space opens the door to clarity and peace of mind through intelligent expense tracking, automated budget planning, and personalized savings insights.
+              Essara is manual-first and privacy-first. You add each subscription, UPI AutoPay mandate, bill, expense and investment yourself, and nothing is read from your bank, SMS or UPI app. You get reminders, totals and budgets that you control, with no ads and no data sold.
             </p>
           </div>
           
