@@ -1,8 +1,8 @@
 {
   "slug": "students",
   "cluster": "for",
-  "title": "Subscription & Expense Tracker for Students in India",
-  "metaDescription": "Track student discounts, shared plans, pocket money and UPI AutoPay in one place. Set up Essara in about 10 minutes and catch renewals before full price starts.",
+  "title": "Student Subscriptions, Pocket Money and Renewals",
+  "metaDescription": "Track student discounts, pocket money and UPI AutoPay in one manual list, and see when a discounted plan is due to return to full price.",
   "h1": "How do students in India keep track of subscriptions, pocket money and renewals?",
   "summary": "Students in India often pay for several small recurring things at once: a student music or video plan, a phone recharge, a food app membership and a few UPI AutoPay debits, all from a monthly allowance that is easy to overspend. A manual tracker such as Essara lets you add each one yourself, shows upcoming renewals and sets a monthly budget with a daily spending limit, without connecting to your bank.",
   "updated": "2026-10-09",
@@ -18,41 +18,41 @@
     "UPI AutoPay",
     "Google Play subscriptions"
   ],
-  "stepsHeading": "Set it up in 10 minutes",
+  "stepsHeading": "Set up your student list",
   "sections": [
     {
       "heading": "Student discounts can quietly turn into full-price plans",
       "paragraphs": [
-        "Most student offers are time-limited, and the renewal is where people get caught. Spotify's Premium Student plan is open to eligible college and university students for up to four years, but you must renew your eligibility every year. About four weeks before the discount ends, Spotify emails instructions to re-verify through SheerID. If you miss the renewal, Spotify's help page says your Premium continues automatically at the full price.",
-        "So the date a discount ends matters as much as the price. Write it down the day you sign up, and check your inbox a month before. If you already see full price, Spotify's explanation is that the discount was probably not renewed before the 12 months ended. You can still renew from your account page and resubscribe to Premium Student for the discounted price on your next payment."
+        "Most student offers are time-limited, and the renewal is where people get caught. Spotify's Premium Student plan is open to eligible college and university students for up to four years, but you must renew every year. About four weeks before the discount period ends, Spotify emails instructions to re-verify your eligibility through SheerID. If you do not renew at 12 months, Spotify's help page says your Premium automatically continues at the full price.",
+        "So the date a discount ends matters as much as the price. Note it on the day you sign up and check your inbox a month before. If you already see full price, Spotify's help page says the likely reason is that the discount was not renewed before the 12 months ended. You can renew from your account page, then resubscribe to Premium Student to get the discounted price on your next payment."
       ]
     },
     {
-      "heading": "Shared plans and pocket money",
+      "heading": "Pocket money and shared plans",
       "paragraphs": [
         "Splitting a streaming plan with a sibling or hostel friend is common, but it muddies your totals. Log only your share of the bill, so the monthly figure matches what actually leaves your account.",
         "Pocket money usually goes out in many small amounts: a recharge, a few delivery orders, a bus pass. Add your allowance as income when it arrives, set a monthly budget, and use the daily spending limit to see what you can spend each day."
       ]
     },
     {
-      "heading": "Cancelling, and checking that it actually stopped",
+      "heading": "Cancelling Google Play and Apple plans",
       "paragraphs": [
-        "Subscriptions bought through Google Play are cancelled in the Google Play app: open subscriptions, select the one you want to stop and tap Cancel subscription. Google says you keep access for the period you have already paid for and are not charged at the next billing date. Uninstalling the app does not cancel it.",
-        "On an iPhone, open Settings, tap your name, tap Subscriptions, tap the subscription and choose Cancel Subscription. To confirm it stuck, reopen that screen: no Cancel button, or an expiry message in red text, means it is already cancelled. If a family member's Apple Account is on the receipt, only that person can cancel it."
+        "A Google Play subscription is cancelled inside the Google Play app: open subscriptions, select the one you want to stop and tap Cancel subscription. Uninstalling the app does not cancel it. Google says you keep access for the period you have already paid for and are not charged at the next billing date.",
+        "On an iPhone, the route is Settings, then your name, then Subscriptions, then Cancel Subscription. If a family member's Apple Account is on the receipt, only that person can cancel it. Reopening the same screen later should show no Cancel button, or an expiry message in red text, once the plan has ended."
       ]
     },
     {
       "heading": "Stopping UPI AutoPay and card billing",
       "paragraphs": [
-        "In Google Pay, tap your profile picture, choose Autopay, open the Live tab, pick the mandate and choose Pause autopay or Cancel autopay. You will be asked for your UPI PIN, and you can set a start and end date when pausing. Labels differ by app version, so update the app if you cannot see the option.",
-        "Google's page also notes that for a mandate above ₹15,000 your UPI PIN is asked again when each payment is due, and that loan-related mandates cannot be cancelled through Google Pay, so you need to ask the lender. Cancel the service itself as well, because stopping the debit alone does not end the subscription.",
-        "Card subscriptions have no single list to cancel from. Cancel inside the merchant's account first, and if charges continue, ask your card issuer to stop the recurring e-mandate. Keep the cancellation email with its date."
+        "In Google Pay, tap your profile picture, choose Autopay, open the Live tab, pick the mandate and choose Pause autopay or Cancel autopay. You will be asked for your UPI PIN, and when pausing you can set a start and end date. Labels differ by app version, so update the app if you cannot see the option.",
+        "Google's page also says that for a mandate above ₹15,000 your UPI PIN is asked again when each payment is due, and that loan-related mandates cannot be cancelled through Google Pay, so you need to ask the lender. Cancelling the debit does not end the service itself, so cancel the subscription as well.",
+        "Card subscriptions have no single list to cancel from. Cancel inside the merchant's account first. If charges continue, ask your card issuer to stop the recurring e-mandate, and keep the cancellation email with its date."
       ]
     },
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "Essara is a manual tracker. You add each subscription with its amount, billing cycle and next renewal date, and it shows renewals for the next 30 days and sends a reminder before each one. It does not read your bank, UPI app or SMS, so the list is only as complete as what you enter. For a student plan, enter the date the discount ends as the renewal date."
+        "Essara is a manual tracker. You add each subscription with its amount, billing cycle and next renewal date, and it shows renewals for the next 30 days and a reminder before each one. It does not read your bank, UPI app or SMS, so the list is only as complete as what you enter. For a student plan, enter the date the discount ends as the renewal date."
       ]
     }
   ],
@@ -74,8 +74,8 @@
       "text": "Copy each mandate from your UPI app's Autopay list into Essara, so upcoming auto-debits show alongside your other renewals."
     },
     {
-      "name": "Switch on renewal reminders",
-      "text": "Check the upcoming-renewals timeline for the next 30 days, and make sure a reminder is set before each renewal."
+      "name": "Check the reminders",
+      "text": "Look at the renewals timeline for the next 30 days and make sure a reminder is set before each renewal."
     },
     {
       "name": "Set your allowance and budget",
@@ -89,7 +89,7 @@
   "faqs": [
     {
       "q": "Does a Spotify Premium Student plan switch to full price automatically?",
-      "a": "Yes, if you do not renew. Spotify's help page says eligible students must renew every year to keep the discount for up to four years, and if you do not renew at 12 months, Premium automatically continues at the full price. You can renew later from your account page and then resubscribe to Premium Student to get the discounted price again on your next payment."
+      "a": "Yes, if you do not renew. Spotify's help page says eligible students must renew every year to keep the discount for up to four years, and if you do not renew at 12 months, Premium continues at the full price. You can renew later from your account page and then resubscribe to Premium Student to get the discounted price again on your next payment."
     },
     {
       "q": "Can I track student expenses in Essara without linking my bank account?",
@@ -117,19 +117,19 @@
   ],
   "sources": [
     {
-      "label": "Spotify Support — Renew Premium Student",
+      "label": "Spotify Support: Renew Premium Student",
       "url": "https://support.spotify.com/in-en/article/renew-student-discount/"
     },
     {
-      "label": "Google Pay Help — Manage your UPI Autopay mandates",
+      "label": "Google Pay Help: Manage your UPI Autopay mandates",
       "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
     },
     {
-      "label": "Google Play Help — Cancel, pause, or change a subscription",
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
       "url": "https://support.google.com/googleplay/answer/7018481?hl=en"
     },
     {
-      "label": "Apple Support — Cancel a subscription from Apple",
+      "label": "Apple Support: Cancel a subscription from Apple",
       "url": "https://support.apple.com/en-in/118428"
     }
   ],

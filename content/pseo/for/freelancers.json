@@ -1,8 +1,8 @@
 {
   "slug": "freelancers",
   "cluster": "for",
-  "title": "Subscription & Expense Tracker for Freelancers in India",
-  "metaDescription": "Budget around irregular client payments, track tool subscriptions and UPI AutoPay, and keep business costs visible. Set up Essara in about 10 minutes.",
+  "title": "Freelancer Tool Subscriptions and Irregular Income",
+  "metaDescription": "Budget around uneven client payments, track software and AI tool subscriptions and UPI AutoPay, and keep advance tax dates in one manual list.",
   "h1": "How do freelancers in India track tool subscriptions when income arrives in lumps?",
   "summary": "Freelancers in India face two money problems at once: client payments arrive irregularly, while software tools, cloud storage and AI subscriptions bill every month whether or not a project came in. A manual tracker such as Essara lets you log income as it arrives, list every tool with its renewal date, and set a monthly budget with a daily spending limit, without linking your bank account.",
   "updated": "2026-10-09",
@@ -18,41 +18,34 @@
     "Apple subscriptions",
     "Advance tax"
   ],
-  "stepsHeading": "Set it up in 10 minutes",
+  "stepsHeading": "Set up your tool and income list",
   "sections": [
     {
       "heading": "Budgeting when income is irregular",
       "paragraphs": [
         "A fixed monthly tool bill looks harmless in a good month and painful in a slow one. The fix is to plan from the bottom, not the average. Look at your lowest recent month of income, and make sure that month still covers your fixed tool costs, rent and essentials. Anything above that goes into a buffer, so a quiet quarter does not force you to cancel the tools you depend on.",
-        "Essara's monthly budget shows what is left to spend and a daily spending limit, which is useful when your income is uneven. Log income on the day a client pays rather than on the day you expected it, so the budget reflects cash you actually have."
+        "Essara's monthly budget shows what is left to spend and a daily spending limit, which is useful when your income is uneven. Log income on the day a client pays rather than the day you expected it, so the budget reflects cash you actually have."
       ]
     },
     {
-      "heading": "Tool subscriptions that outlive the project",
+      "heading": "Tools that outlive the project",
       "paragraphs": [
         "Tools are easy to start and hard to remember. A design app bought for one client, a cloud plan you upgraded during a launch, or an AI assistant you stopped using in March can keep billing. The cheapest habit is a single list of every tool with its cycle, renewal date and the project it served, reviewed once a quarter.",
-        "Subscriptions bought through Google Play are cancelled in the Google Play app. Open subscriptions, select the one to stop and tap Cancel subscription. Google says you keep access for the period you have already paid for and are not charged at the next billing date. On iPhone, cancel from Settings: tap your name, then Subscriptions, then the subscription, then Cancel Subscription. If there is no Cancel button, or you see an expiry message in red text, it has already been cancelled."
-      ]
-    },
-    {
-      "heading": "Keeping business and personal costs apart",
-      "paragraphs": [
-        "Essara does not split your money into business and personal accounts, and its listed features do not include invoicing or GST. The separation has to come from how you enter things. Give every business tool an entry name that says so, such as 'Figma, client work', and use the spending-by-category view to see business and personal costs side by side.",
-        "If you can, keep client receipts and tool bills in a separate bank account or UPI ID as well. Essara never connects to either, so the tracker is only as clean as the entries you make, and a receipt scan with the amount and date checked is more reliable than a rough estimate."
+        "Check each store's subscription list as well as your card statement, because a tool billed through Google Play or the App Store will not always stand out in a statement. Cancelling happens in that store or vendor account, not in Essara, so mark each entry 'business' or 'personal' in its name to keep the two visible side by side."
       ]
     },
     {
       "heading": "Tools billed through UPI AutoPay",
       "paragraphs": [
-        "Some tools and hosting plans bill through UPI AutoPay, which is easy to forget because nothing appears in your card statement. In Google Pay, tap your profile picture, choose Autopay and open the Live tab. From there you can pause or cancel a mandate with your UPI PIN, and set a start and end date when pausing. Google's help page notes that mandates above ₹15,000 need your UPI PIN again when each payment is due.",
-        "Cancelling the mandate stops future debits, but it does not replace cancelling the tool itself, so do both. Labels can differ by app version, so update Google Pay if you cannot see the Autopay section."
+        "Some hosting plans and tools bill through UPI AutoPay, which is easy to miss because nothing appears in your card statement. In Google Pay, open Autopay from your profile picture and use the Live tab to pause or cancel a mandate with your UPI PIN. Google's help page notes that a mandate above ₹15,000 asks for your UPI PIN again each time a payment is due.",
+        "Cancelling the mandate stops future debits, but it does not end the tool itself, so do both. If you cannot see the Autopay section, update Google Pay."
       ]
     },
     {
       "heading": "Advance tax and the renewal calendar",
       "paragraphs": [
-        "If your total tax for the year is ₹10,000 or more, advance tax generally applies to freelancers as well as salaried people. For most individuals the department's Section 211 text sets it in four instalments: 15% by 15 June, 45% by 15 September, 75% by 15 December and 100% by 15 March, less amounts already paid. Presumptive-scheme taxpayers follow a different schedule. Section numbers can change under the new Income-tax Act, so confirm the current schedule on the income tax portal before paying.",
-        "Add each advance tax date to your tracker as a bill with a reminder, next to your tool renewals, so the cash for them is planned before the date arrives."
+        "If your total tax for the year is ₹10,000 or more after TDS and TCS, advance tax generally applies to freelancers as well as salaried people. For most individuals the schedule is 15% of the year's tax by 15 June, 45% by 15 September, 75% by 15 December and 100% by 15 March, less amounts already paid. Those rules moved into the Income-tax Act, 2025, which applies from 1 April 2026, so older articles that cite section 211 of the 1961 Act are out of date. Presumptive-scheme taxpayers have different rules.",
+        "Add each advance tax date to your tracker as a bill with a reminder, next to your tool renewals, so the cash for them is planned before the date arrives. Confirm your own schedule on the income tax portal before paying, as the portal is the authority on current instalments."
       ]
     }
   ],
@@ -101,7 +94,7 @@
     },
     {
       "q": "Do freelancers have to pay advance tax?",
-      "a": "If your total tax liability for the year is ₹10,000 or more, advance tax generally applies. Most individuals pay it in four instalments by 15 June, 15 September, 15 December and 15 March. Check the current rules and your own schedule on the income tax portal before you pay."
+      "a": "If your total tax liability for the year, after TDS and TCS, is ₹10,000 or more, advance tax generally applies. Most individuals pay it in instalments by 15 June, 15 September, 15 December and 15 March. Check the current rules and your own schedule on the income tax portal before you pay."
     }
   ],
   "related": [
@@ -113,20 +106,16 @@
   ],
   "sources": [
     {
-      "label": "Google Pay Help — Manage your UPI Autopay mandates",
+      "label": "Google Pay Help: Manage your UPI Autopay mandates",
       "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
     },
     {
-      "label": "Google Play Help — Cancel, pause, or change a subscription",
+      "label": "Google Play Help: Cancel, pause, or change a subscription",
       "url": "https://support.google.com/googleplay/answer/7018481?hl=en"
     },
     {
-      "label": "Apple Support — Cancel a subscription from Apple",
+      "label": "Apple Support: Cancel a subscription from Apple",
       "url": "https://support.apple.com/en-in/118428"
-    },
-    {
-      "label": "Income Tax Department — Section 211 (advance tax)",
-      "url": "https://www.incometaxindia.gov.in/w/section-211"
     }
   ],
   "essaraTool": {

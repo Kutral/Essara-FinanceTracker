@@ -50,7 +50,7 @@
       "heading": "Why there is no iPhone app",
       "paragraphs": [
         "Essara's Android app is listed on Google Play as space.essara.app and needs Android 7.0 or later. Essara's download page says the native mobile app is Android-only and that iPhone users should use the web app at essara.space, which can also be installed as a progressive web app (PWA) from a browser.",
-        "The web app is the iPhone route, and it uses the same account as the Android app. The Android app, the web app and the installable PWA share one Essara account and workspace, and changes sync in real time, according to the FAQ on Essara's download page."
+        "The web app is the iPhone route, and it uses the same account as the Android app. According to the same download page, the Android app, the web app and the installable PWA share one Essara account and workspace, with changes syncing in real time."
       ]
     },
     {
@@ -65,7 +65,7 @@
       "heading": "Cancelling subscriptions billed through the App Store",
       "paragraphs": [
         "Essara cannot cancel a payment at the merchant or bank, and it does not change billing for you. The product manual says so directly. To stop a subscription billed by Apple, open the Settings app on your iPhone, tap your name, tap Subscriptions, choose the subscription and tap Cancel Subscription. You may need to scroll down to find that button.",
-        "Apple's support page says that if there is no Cancel button, or you see an expiry message in red text, the subscription has already been cancelled. Settings lists only subscriptions tied to your Apple Account, so a plan you bought directly from a website has to be cancelled with that company. After cancelling, update or remove the matching entry in Essara so the list matches what you have actually stopped."
+        "Apple's support page says that if there is no Cancel button, or you see an expiry message in red text, the plan has already ended. Apple's page covers subscriptions billed by Apple and those bought through App Store apps, so a plan you bought directly from a website has to be cancelled with that company. After cancelling, update or remove the matching entry in Essara so the list matches what you have actually stopped."
       ]
     },
     {
