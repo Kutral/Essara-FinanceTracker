@@ -3,6 +3,8 @@ import { AboutSection } from './components/AboutSection';
 import { FeaturedVideoSection } from './components/FeaturedVideoSection';
 import { PhilosophySection } from './components/PhilosophySection';
 import { ServicesSection } from './components/ServicesSection';
+import { GuidesSection } from './components/GuidesSection';
+import { HomeFAQ } from './components/HomeFAQ';
 
 export default function App() {
   return (
@@ -13,9 +15,11 @@ export default function App() {
         <FeaturedVideoSection />
         <PhilosophySection />
         <ServicesSection />
+        <GuidesSection />
+        <HomeFAQ />
       </main>
       
-      {/* Final barebones footer linking back to essara.space */}
+      {/* Footer linking back to essara.space and the Play Store */}
       <footer className="w-full bg-black py-12 border-t border-white/5 flex flex-col items-center z-10 relative" role="contentinfo" aria-label="Essara footer">
         <p className="text-white/40 text-sm font-sans mb-4">
           Ready to take control of your personal finances?
@@ -37,7 +41,9 @@ export default function App() {
         <nav className="mt-8 flex gap-6" aria-label="Footer navigation">
           <a href="#about" className="text-white/40 text-sm hover:text-white/80 transition-colors">About</a>
           <a href="#features" className="text-white/40 text-sm hover:text-white/80 transition-colors">Features</a>
-          <a href="#pricing" className="text-white/40 text-sm hover:text-white/80 transition-colors">Pricing</a>
+          <a href="#guides" className="text-white/40 text-sm hover:text-white/80 transition-colors">Guides</a>
+          <a href="#faq" className="text-white/40 text-sm hover:text-white/80 transition-colors">FAQ</a>
+          <a href="https://essara.space/pricing" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener">Pricing</a>
           <a href="https://essara.space/" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener noreferrer">Web App</a>
           <a href="https://play.google.com/store/apps/details?id=space.essara.app" className="text-white/40 text-sm hover:text-white/80 transition-colors" rel="noopener noreferrer">Android</a>
         </nav>
@@ -93,7 +99,7 @@ export default function App() {
         </div>
 
         <p className="text-white/20 text-xs mt-10">
-          © {new Date().getFullYear()} Essara. All rights reserved. Personal Finance & Money Clarity.
+          © {new Date().getFullYear()} Essara. All rights reserved. Subscription, UPI AutoPay & expense tracker.
         </p>
       </footer>
     </div>
