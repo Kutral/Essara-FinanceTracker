@@ -440,16 +440,20 @@ function render404() {
     .map((k) => `<a class="card glass" href="${hubHref(k)}">${esc(CLUSTERS[k].name)}<span>${esc(CLUSTERS[k].description)}</span></a>`)
     .join('')}</div>
 ${ctaHtml({})}`;
-  return shell({ title: 'Page not found · Essara', description: 'This page does not exist. Browse Essara guides on UPI AutoPay, cancelling subscriptions and money clarity.', canonical: SITE_URL, body }).replace(
-    '<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />',
-    '<meta name="robots" content="noindex, follow" />',
-  );
+  return shell({ title: 'Page not found · Essara', description: 'This page does not exist. Browse Essara guides on UPI AutoPay, cancelling subscriptions and money clarity.', canonical: SITE_URL, body })
+    .replace(
+      '<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />',
+      '<meta name="robots" content="noindex, follow" />',
+    )
+    .replace(/<link rel="(canonical|alternate)"[^>]*>\n/g, '');
 }
 
 function sitemap(pages) {
+  // Hubs and home change when their newest guide changes, not on every deploy.
+  const latest = (list) => list.map((p) => p.updated || BUILD_DATE).sort().pop() || BUILD_DATE;
   const urls = [
-    { loc: SITE_URL, lastmod: BUILD_DATE, priority: '1.0', changefreq: 'weekly' },
-    ...Object.keys(CLUSTERS).map((k) => ({ loc: hubUrl(k), lastmod: BUILD_DATE, priority: '0.8', changefreq: 'weekly' })),
+    { loc: SITE_URL, lastmod: latest(pages), priority: '1.0', changefreq: 'weekly' },
+    ...Object.keys(CLUSTERS).map((k) => ({ loc: hubUrl(k), lastmod: latest(pages.filter((p) => p.cluster === k)), priority: '0.8', changefreq: 'weekly' })),
     ...pages.map((p) => ({ loc: pageUrl(p), lastmod: p.updated || BUILD_DATE, priority: '0.7', changefreq: 'monthly' })),
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>

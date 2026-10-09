@@ -40,7 +40,7 @@ export function ServicesSection() {
                 autoPlay
                 loop
                 playsInline
-                preload="auto"
+                preload="metadata"
                 aria-label="Subscription tracker feature demonstration"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent pointer-events-none" aria-hidden="true" />
@@ -79,7 +79,7 @@ export function ServicesSection() {
                 autoPlay
                 loop
                 playsInline
-                preload="auto"
+                preload="metadata"
                 aria-label="UPI AutoPay tracker feature demonstration"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent pointer-events-none" aria-hidden="true" />

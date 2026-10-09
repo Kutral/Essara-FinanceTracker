@@ -20,7 +20,7 @@ export default function App() {
       </main>
       
       {/* Footer linking back to essara.space and the Play Store */}
-      <footer className="w-full bg-black py-12 border-t border-white/5 flex flex-col items-center z-10 relative" role="contentinfo" aria-label="Essara footer">
+      <footer className="w-full bg-black py-12 px-6 text-center border-t border-white/5 flex flex-col items-center z-10 relative" role="contentinfo" aria-label="Essara footer">
         <p className="text-white/40 text-sm font-sans mb-4">
           Ready to take control of your personal finances?
         </p>
@@ -38,7 +38,7 @@ export default function App() {
           </svg>
           Get the Android App
         </a>
-        <nav className="mt-8 flex gap-6" aria-label="Footer navigation">
+        <nav className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-3" aria-label="Footer navigation">
           <a href="#about" className="text-white/40 text-sm hover:text-white/80 transition-colors">About</a>
           <a href="#features" className="text-white/40 text-sm hover:text-white/80 transition-colors">Features</a>
           <a href="#guides" className="text-white/40 text-sm hover:text-white/80 transition-colors">Guides</a>

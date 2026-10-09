@@ -17,7 +17,7 @@ export function FeaturedVideoSection() {
           autoPlay
           loop
           playsInline
-          preload="auto"
+          preload="metadata"
           aria-label="Essara product video"
         />
         

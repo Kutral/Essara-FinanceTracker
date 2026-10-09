@@ -32,7 +32,7 @@ export function PhilosophySection() {
               autoPlay
               loop
               playsInline
-              preload="auto"
+              preload="metadata"
               aria-label="Animation representing financial clarity and money management"
             />
           </motion.div>
