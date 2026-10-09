@@ -2,15 +2,15 @@
   "slug": "what-is-upi-autopay",
   "cluster": "learn",
   "title": "What Is UPI AutoPay? How Recurring UPI Mandates Work",
-  "metaDescription": "UPI AutoPay lets a merchant debit your bank account on a schedule after one approval. Learn how mandates, limits and pre-debit alerts work, and how to cancel one.",
+  "metaDescription": "UPI AutoPay lets a merchant debit your bank account on a schedule after one approval. Learn how mandates are set up, what to check, and how to cancel one.",
   "h1": "What is UPI AutoPay and how do recurring UPI mandates work?",
-  "summary": "UPI AutoPay is an NPCI feature that lets you approve a recurring payment mandate once with your UPI PIN, after which the merchant can debit your linked bank account on the agreed schedule. You get a pre-debit notification before each debit, and you can pause or revoke the mandate at any time from the UPI app where you created it.",
+  "summary": "UPI AutoPay is NPCI's facility for recurring payments, introduced in 2020. You approve a mandate once with your UPI PIN, and the merchant can then debit your linked bank account on the agreed schedule and within the limits. You can see each mandate, and pause or revoke it, in the UPI app where you approved it.",
   "updated": "2026-10-09",
   "keywords": [
     "what is UPI AutoPay",
     "UPI mandate",
     "recurring UPI payment",
-    "UPI AutoPay limit",
+    "how UPI AutoPay works",
     "cancel UPI AutoPay"
   ],
   "about": [
@@ -20,69 +20,74 @@
   ],
   "sections": [
     {
-      "heading": "How UPI AutoPay works",
+      "heading": "How a mandate is set up",
       "paragraphs": [
-        "UPI AutoPay was launched by the National Payments Corporation of India (NPCI) in 2020 to bring recurring payments to UPI. When you subscribe to a service, the merchant sends a mandate request to your UPI app. The request shows the merchant name, the amount (fixed or a maximum), the frequency and the validity period.",
-        "You approve the mandate once by entering your UPI PIN. After that, the merchant can collect each instalment on schedule without asking you to approve it again, as long as the amount stays within the limits of the mandate and the rules set by the RBI."
+        "When you subscribe to a service that uses UPI AutoPay, the merchant sends a mandate request to your UPI app. The request names the merchant, the amount (a fixed figure or a maximum), the frequency and the validity period. No money moves at this stage.",
+        "You approve the request with your UPI PIN. After that, the merchant can collect each instalment on schedule without asking you again, as long as the debit stays within the mandate and the RBI limits. Debits above those limits need your UPI PIN each time. The thresholds are set out on the RBI rules page."
       ]
     },
     {
-      "heading": "Limits and pre-debit notifications",
+      "heading": "Frequency, amount and where mandates live",
       "paragraphs": [
-        "Under RBI rules for recurring e-mandates, debits up to ₹15,000 per transaction can go through without an extra authentication step. For some categories, such as mutual fund subscriptions, insurance premiums and credit card bill payments, the RBI raised this limit to ₹1 lakh. Above the applicable limit, you need to approve each debit with your UPI PIN.",
-        "Before each debit you should receive a pre-debit notification, at least 24 hours in advance, telling you the amount and the date. This notification is your window to pause or cancel the mandate if you no longer want the service."
+        "The frequency is chosen when the mandate is created and is shown on the request. Google Pay's help pages describe daily, weekly, monthly and yearly schedules. Other apps and merchants may offer more, such as quarterly or half-yearly, so read the frequency on each request before you approve it."
       ],
       "list": [
-        "Frequencies supported include one-time, daily, weekly, fortnightly, monthly, bi-monthly, quarterly, half-yearly and yearly.",
-        "A mandate can be for a fixed amount or for a maximum amount that the merchant debits as needed.",
-        "Mandates live in the UPI app where you approved them, under a section usually called AutoPay or Mandates."
+        "Fixed amount: the same figure is debited each cycle, such as a monthly subscription fee.",
+        "Maximum amount: the merchant debits up to the cap as needed, which suits bills that change from month to month.",
+        "Location: the mandate sits in the UPI app where you approved it, usually under AutoPay, Mandates or Manage payments."
       ]
     },
     {
-      "heading": "Why UPI AutoPay leads to forgotten payments",
+      "heading": "Why AutoPay leads to forgotten payments",
       "paragraphs": [
-        "The convenience that makes AutoPay useful also makes it easy to forget. A free trial turns into a paid plan, an annual renewal arrives a year after you stopped using the service, or a mandate sits in a UPI app you rarely open. Because nothing asks you to act, small recurring debits can add up to thousands of rupees a year.",
-        "Cancelling the subscription inside the service and revoking the UPI mandate are two separate steps. Doing only one of them can leave the other active, so it is worth checking both."
+        "The convenience is also the problem. A free trial turns into a paid plan, an annual renewal arrives a year after you stopped using the service, or a mandate sits in a UPI app you rarely open. Nothing asks you to act, so small debits add up over a year.",
+        "Cancelling the subscription with the service and revoking the UPI mandate are two separate steps. Doing only one can leave the other active, so check both."
       ]
     },
     {
-      "heading": "How to keep track of your mandates",
+      "heading": "Keeping one list across your UPI apps",
       "paragraphs": [
-        "Review the AutoPay section of every UPI app you use at least once a quarter. Note down each active mandate, its amount, frequency and next debit date, then revoke the ones you no longer need.",
-        "A manual-first tracker such as Essara makes this easier: you add each mandate and subscription once, Essara converts it into a monthly and yearly cost, and the renewal dates stay visible in one place across Android and the web — without connecting your bank account."
+        "Review the AutoPay section of every UPI app you use at least once a quarter. Note each active mandate's amount, frequency and next debit date, then revoke the ones you no longer need.",
+        "Essara's UPI AutoPay tracker is built for that list. You enter each mandate yourself, and it shows upcoming auto-debits for the week and month next to your other subscriptions. It does not connect to your bank, UPI app or SMS, so the list is only as current as the entries you make."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Is UPI AutoPay safe?",
-      "a": "UPI AutoPay mandates need your UPI PIN to be created, you receive a pre-debit notification before each debit, and you can pause or revoke a mandate at any time from your UPI app. As with any payment method, only approve mandates from merchants you trust."
+      "a": "The main safeguards are built in. Creating a mandate needs your UPI PIN, the bank must send a pre-debit notice at least 24 hours before each debit, and you can pause or revoke the mandate in your UPI app at any time. Approve mandates only from merchants you trust, and treat an unexpected notice as a reason to check."
     },
     {
-      "q": "What is the UPI AutoPay limit without a PIN?",
-      "a": "Recurring debits up to ₹15,000 per transaction can be processed without extra authentication. For mutual fund subscriptions, insurance premiums and credit card bill payments the limit is ₹1 lakh. Debits above the applicable limit need your UPI PIN each time."
+      "q": "Do I need my UPI PIN for every AutoPay payment?",
+      "a": "Usually not. For most mandates you enter the PIN once, at setup, and later debits go through while they stay within the RBI thresholds. Above ₹15,000 per transaction, most debits need the PIN each time. Insurance premiums, mutual fund subscriptions and credit card bills have a ₹1 lakh threshold instead."
     },
     {
       "q": "Does cancelling a subscription also cancel the UPI AutoPay mandate?",
-      "a": "Not always. Some merchants revoke the mandate when you cancel, but many do not. Check the AutoPay or Mandates section of your UPI app after cancelling and revoke the mandate there if it is still active."
+      "a": "Not always. Some merchants revoke the mandate when you cancel, but many do not. After cancelling, check the AutoPay or Mandates section of your UPI app and revoke the mandate there if it is still listed as live."
     },
     {
       "q": "Where can I see all my UPI AutoPay mandates?",
-      "a": "Each UPI app shows only the mandates created in it, usually under a section called AutoPay, Mandates or Manage payments. If you use several UPI apps, check each one, or keep a single list in a tracker such as Essara."
+      "a": "Check the AutoPay or Mandates section of each UPI app you use. Google Pay shows its mandates under Autopay, but other apps use their own labels, so a mandate set up in one app may not appear in another."
     }
   ],
-  "related": [],
+  "related": [
+    "what-is-an-e-mandate",
+    "rbi-recurring-payment-rules",
+    "pre-debit-notification",
+    "cancel-upi-autopay-google-pay",
+    "find-all-upi-autopay-mandates"
+  ],
   "sources": [
     {
-      "label": "NPCI — UPI AutoPay",
+      "label": "NPCI: UPI AutoPay product overview",
       "url": "https://www.npci.org.in/what-we-do/autopay/product-overview"
     },
     {
-      "label": "RBI — Digital Payments: E-mandate Framework, 2026",
+      "label": "RBI: Digital Payments - E-mandate Framework, 2026",
       "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
     },
     {
-      "label": "Google Pay Help — Manage UPI AutoPay",
+      "label": "Google Pay Help: Manage AutoPay",
       "url": "https://support.google.com/pay/india/answer/10452280?hl=en"
     }
   ],

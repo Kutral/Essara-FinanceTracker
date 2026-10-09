@@ -2,80 +2,84 @@
   "slug": "cancel-upi-autopay-phonepe",
   "cluster": "upi-autopay",
   "title": "Cancel UPI AutoPay in PhonePe: Remove or Pause (2026)",
-  "metaDescription": "Stop a UPI AutoPay mandate in PhonePe: open AutoPay under Payment Management, tap Pause or Remove AutoPay, then confirm with your UPI PIN.",
+  "metaDescription": "Stop a UPI AutoPay mandate in PhonePe: open AutoPay under Payment Management, choose Pause or Remove AutoPay, then check that the status changed.",
   "h1": "How do you stop or pause UPI AutoPay in PhonePe?",
-  "summary": "To stop a UPI AutoPay mandate in PhonePe, tap your profile picture on the home screen, open AutoPay under Payment Management, select the mandate and tap Remove AutoPay. PhonePe's help article also mentions a Pause option, but labels differ between app versions. Removing a mandate in PhonePe stops future debits but does not end your subscription with the merchant, so cancel there too.",
+  "summary": "To stop a UPI AutoPay mandate in PhonePe, tap your profile picture on the home screen, open AutoPay under Payment Management, select the mandate and choose Remove AutoPay, or Pause if it is offered. PhonePe's help pages place the option under slightly different headings in some versions, so match the labels on your screen. Removing a mandate stops future debits but does not end your subscription with the merchant, so cancel there too.",
   "updated": "2026-10-09",
   "keywords": ["cancel UPI AutoPay PhonePe", "PhonePe AutoPay remove", "pause AutoPay PhonePe", "PhonePe UPI mandate", "stop PhonePe autopay"],
   "about": ["PhonePe", "UPI AutoPay", "NPCI"],
   "steps": [
     { "name": "Tap your profile picture", "text": "On the PhonePe home screen, tap your profile picture at the top of the screen." },
-    { "name": "Open AutoPay", "text": "Scroll to the Payment Management section and tap AutoPay. Some versions place it under Payments Settings or AutoPay Settings instead." },
-    { "name": "Select the mandate", "text": "Tap the AutoPay you want to stop. Check the merchant name and amount before you continue, so you do not stop the wrong one." },
-    { "name": "Choose Pause or Remove", "text": "Tap Pause if it is offered and you may want the service back. To end the mandate, tap Remove AutoPay. Some versions show Delete AutoPay, which does the same job." },
-    { "name": "Confirm with your UPI PIN", "text": "Enter your UPI PIN to confirm the change." },
-    { "name": "Check the status", "text": "Reopen AutoPay and check that the mandate shows as paused or is no longer listed as active. If the status has not changed after a few minutes, contact PhonePe support." }
+    { "name": "Open AutoPay", "text": "Scroll to the Payment Management section and tap AutoPay. Some PhonePe help pages place it under Payments Settings or AutoPay Settings instead." },
+    { "name": "Select the mandate", "text": "Tap the AutoPay you want to stop, and check the merchant name, amount and next debit date before you continue." },
+    { "name": "Choose Pause or Remove", "text": "Pause is described in PhonePe's help page, so use it if you may want the service back. To end the mandate, choose Remove AutoPay. If Pause is not on your screen, removal is the only in-app choice." },
+    { "name": "Confirm the change", "text": "Finish the confirmation. It may ask for your UPI PIN, so have it ready." },
+    { "name": "Check the status", "text": "Reopen AutoPay after a few minutes. If the mandate still shows as active, contact PhonePe support with a screenshot." }
   ],
   "stepsHeading": "How to remove or pause AutoPay in PhonePe",
   "sections": [
     {
       "heading": "Where PhonePe keeps AutoPay",
       "paragraphs": [
-        "PhonePe keeps AutoPay mandates behind your profile icon. PhonePe's help article on AutoPay authorised for external merchant platforms describes the route as profile picture, then AutoPay under Payment Management, then Remove AutoPay. Other PhonePe help content uses Payments Settings and AutoPay Settings, so the wording may not match your screen exactly.",
-        "PhonePe's help article also says you can cancel the AutoPay from the merchant's own app or website, by logging in there and choosing the option to delete the AutoPay. This is useful if the merchant's app gives you a clearer view of the subscription. Whichever route you take, check the mandate in PhonePe afterwards."
+        "PhonePe's help page on AutoPay authorised for external merchant platforms gives the route as profile picture, then AutoPay under Payment Management, then Pause or Remove AutoPay. A second PhonePe help page uses Payments Settings and AutoPay Settings, with a Delete option, so the wording on your screen is the guide.",
+        "PhonePe's help content also says you can delete the AutoPay from the merchant's own app or website. That helps when the merchant's screen shows the subscription more clearly. Check the mandate in PhonePe afterwards either way."
       ]
     },
     {
       "heading": "Pause or remove: which one to choose",
       "paragraphs": [
-        "Remove AutoPay ends the mandate. If you want the service back later, you will need to set up the AutoPay again when you join or restart the subscription. Pause is the gentler option if it appears for your mandate, and it suits a short break or a seasonal service.",
-        "Sources disagree on whether PhonePe offers Pause on every version. PhonePe's help article mentions it, but some third-party guides say PhonePe only lets you delete. If Pause is not on your screen, removal is the only option in the app, so decide before you tap."
+        "Remove AutoPay ends the mandate. If you want the service back later, you will need to set up AutoPay again when you restart the subscription. Pause suits a short break or a seasonal service, provided it appears for your mandate.",
+        "Third-party guides disagree on whether every PhonePe version offers Pause. One says the app only lets you delete, which conflicts with PhonePe's own page. Decide before you tap, because removal may be the only option on your version."
       ]
     },
     {
-      "heading": "What happens to the next debit",
+      "heading": "The debit that is already scheduled",
       "paragraphs": [
-        "Stopping an AutoPay in PhonePe stops future debits from that mandate. Amounts already debited are not reversed by the app. Third-party guides say a refund for a debit that has already gone through has to come from the merchant.",
-        "A debit that is already scheduled can still go through. Third-party guides say that if the next payment is only a few days away, it may already be queued, so cancelling may only stop the cycles after it. Check the next debit date in the mandate details first. If the date is close, also contact the merchant and ask them to skip the next charge."
+        "PhonePe's help pages I could read do not say how a debit that is already scheduled is handled. Third-party guides say a debit queued a few days ahead may still go through, so check the next debit date in the mandate details first. If it is close, also ask the merchant to skip the next charge.",
+        "HDFC Bank's guide to UPI AutoPay says cancelling stops future debits and that payments already completed are not reversed. Ask the merchant about any refund for a debit that has gone through."
       ]
     },
     {
       "heading": "Problems that stop the change",
       "paragraphs": [
-        "The most common problem is that AutoPay does not appear in the menu. Third-party guides say older versions of PhonePe may not show the mandate management options, and updating the app usually fixes this. If the mandate was created in another UPI app, it may not appear in PhonePe, so check that app as well.",
-        "Some loan and EMI mandates cannot be cancelled from the UPI app, because the lender can set them up that way. In that case, contact the lender. If PhonePe will not update the status, use the Help section in the app or contact PhonePe support. The NPCI UPI Help portal at upihelp.npci.org.in is meant to let you view, pause or revoke UPI AutoPay mandates across apps, which helps when one app will not complete the change."
+        "The most common problem is AutoPay not appearing in the menu. Third-party guides say older versions may not show the mandate options, so update the app. A mandate approved in another UPI app will not appear in PhonePe, so check that app as well.",
+        "HDFC Bank says debt collection and loan repayment mandates cannot be cancelled through a UPI app, so contact the lender directly for those. If PhonePe will not update the status, use the Help section in the app or contact PhonePe support."
       ]
     },
     {
-      "heading": "Stopping the subscription and linked billing",
+      "heading": "Subscriptions billed through other routes",
       "paragraphs": [
-        "Removing the mandate in PhonePe does not cancel the subscription itself. Cancel the service in the merchant's app or website. If the same service is billed through Google Play or the App Store instead of UPI, cancel it in that store's subscription settings. A card that the merchant keeps on file needs to be stopped with the merchant or your card issuer.",
-        "Once you have cancelled everywhere, wait for the next billing date to pass without a charge before you consider the job done. That is the clearest sign the stop has worked."
+        "Removing the mandate does not cancel the service. If the same service is billed through Google Play or the App Store, cancel it in that store's subscription settings. A card that the merchant keeps on file has to be stopped with the merchant or your card issuer.",
+        "Once you have cancelled everywhere, wait for the next billing date to pass without a charge. That is the clearest sign the stop has worked."
       ]
     },
     {
-      "heading": "How tracking renewals in Essara helps",
+      "heading": "Where Essara fits in",
       "paragraphs": [
-        "Essara's UPI AutoPay tracker is manual. You add each mandate yourself, with its amount and frequency, and Essara shows the auto-debits due this week and this month. It does not connect to PhonePe or your bank, and it never asks for your UPI PIN. Keeping every PhonePe mandate in one list makes it easier to spot one you forgot about, but the pause or removal still happens inside PhonePe."
+        "PhonePe is one of several places where a mandate can sit, so a single list helps. In Essara you record each mandate yourself with its amount and frequency, and see the auto-debits due this week and month. Essara does not read PhonePe, your bank or your SMS, so the pause or removal still has to be done in the app."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Can I pause AutoPay in PhonePe?",
-      "a": "PhonePe's help article describes a Pause option next to Remove AutoPay. Some third-party guides say the app only offers deletion, so if you do not see Pause on your version, removal is the only in-app choice. Check the label on your own screen before you tap."
+      "a": "PhonePe's help page describes a Pause option next to Remove AutoPay. A third-party guide says the app only offers deletion, so check the label on your own version before you tap. If only Remove appears, removal is the only in-app choice."
     },
     {
       "q": "Does removing AutoPay in PhonePe get my money back?",
-      "a": "No. Removing a mandate stops future debits but does not reverse amounts that were already paid. Ask the merchant about any refund, and contact PhonePe support if you believe a debit was not authorised."
+      "a": "No. Removing a mandate stops future debits but does not reverse a payment that has already gone through. Ask the merchant about a refund, and contact PhonePe support if you believe a debit was not authorised."
     },
     {
       "q": "Why does my AutoPay still show after I removed it?",
-      "a": "The status can take a few minutes to update. If the mandate still shows as active after that, check whether a debit was already scheduled, then contact PhonePe support with the mandate details and a screenshot."
+      "a": "The status can take a few minutes to update. If it still shows as active, check whether a debit is already queued for the next date, then contact PhonePe support with the mandate details and a screenshot."
     },
     {
-      "q": "Can I stop PhonePe AutoPay from the merchant's side instead?",
-      "a": "Yes. PhonePe's help article says you can log in to the merchant's app or website and delete the AutoPay there. Afterwards, check PhonePe to confirm the mandate is no longer active."
+      "q": "Can I stop PhonePe AutoPay from the merchant's side?",
+      "a": "PhonePe's help page says you can log in to the merchant's app or website and delete the AutoPay there. Afterwards, reopen AutoPay in PhonePe to confirm the mandate is no longer active."
+    },
+    {
+      "q": "Is a PhonePe Wallet top-up the same as AutoPay?",
+      "a": "Not necessarily. PhonePe's help results describe Wallet auto top-up as a separate setting under PhonePe Wallet, so look there first if the debit is a wallet top-up rather than a merchant mandate."
     }
   ],
   "related": [
@@ -88,7 +92,8 @@
   "sources": [
     { "label": "PhonePe Help: Modify or delete AutoPay on external merchant platforms", "url": "https://cms.phonepe.com/en/myhelp/autopay-payment-reminders/autopay/autopay-external-merchant-platforms/how-do-i-modify-or-delete-autopay-i-have-authorised-using-phonep" },
     { "label": "PhonePe Help: Can I pause or delete an AutoPay", "url": "https://cms.phonepe.com/en/myhelp/autopay-payment-reminders/autopay/autopay-bill-payments-and-olacabs/can-i-pause-or-delete-autopay-i-have-set/" },
-    { "label": "NPCI UPI Help portal", "url": "https://upihelp.npci.org.in" }
+    { "label": "PhonePe Help: Cancel Wallet auto top-up", "url": "https://cms.phonepe.com/en/myhelp/wallets-phonepe-gift-card/phonepe-wallet/phonepe-wallet-auto-top/how-do-i-cancel-my-wallet-auto-top" },
+    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" }
   ],
   "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
 }
