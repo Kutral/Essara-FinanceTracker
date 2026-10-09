@@ -1,0 +1,23 @@
+{
+  "name": "Essara: Subscription Tracker",
+  "short_name": "Essara",
+  "description": "Subscription, UPI AutoPay and expense tracker for India. Track renewals and spending with no bank login and no SMS access. Works on Android and the web.",
+  "start_url": "/Essara-FinanceTracker/",
+  "scope": "/Essara-FinanceTracker/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/Essara-FinanceTracker/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Essara-FinanceTracker/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
