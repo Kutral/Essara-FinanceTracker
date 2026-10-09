@@ -1,0 +1,129 @@
+{
+  "slug": "card-standing-instructions-vs-upi-autopay",
+  "cluster": "learn",
+  "title": "Card e-Mandate vs UPI AutoPay vs NACH: How to Cancel",
+  "metaDescription": "Card e-mandates, UPI AutoPay and NACH debit recurring payments in different ways. Compare the RBI limits, pre-debit alerts and how to cancel each one.",
+  "h1": "How do card recurring payments differ from UPI AutoPay and NACH?",
+  "summary": "A card e-mandate is a recurring charge on a credit or debit card, registered through your card issuer with an OTP check. UPI AutoPay debits your bank account through a UPI app and is approved with your UPI PIN, while NACH is a bank mandate identified by a UMRN and cancelled through your bank or the merchant. Under RBI's Digital Payments E-mandate Framework, 2026, card and UPI recurring debits up to ₹15,000 can go through without extra authentication, and you can withdraw an e-mandate at any time.",
+  "updated": "2026-10-09",
+  "keywords": [
+    "card e-mandate",
+    "card standing instruction",
+    "UPI AutoPay vs card e-mandate",
+    "cancel card recurring payment",
+    "NACH mandate cancellation",
+    "RBI e-mandate 2026"
+  ],
+  "about": ["Reserve Bank of India", "UPI AutoPay", "National Automated Clearing House"],
+  "sections": [
+    {
+      "heading": "Three payment rails, three different owners",
+      "paragraphs": [
+        "A card e-mandate involves you, your card issuer and the merchant. The issuer checks each registration with an additional factor of authentication (AFA), usually an OTP sent to your registered mobile number, and keeps the list of mandates on your card.",
+        "UPI AutoPay is approved in your UPI app with your UPI PIN, and the debit comes from your linked bank account. NACH is a bank mandate set up on a signed form. The NACH system gives it a unique mandate reference number (UMRN), which you need to cancel. The RBI's 2026 direction covers cards, prepaid instruments and UPI, but not NACH."
+      ]
+    },
+    {
+      "heading": "What the 2021 card rules changed",
+      "paragraphs": [
+        "The RBI's card e-mandate rules took effect on 1 October 2021. Standing instructions not registered with AFA were then declined, as Axis Bank notes on its help page. The Digital Payments E-mandate Framework, 2026, dated 21 April 2026, consolidates the e-mandate circulars and is effective immediately.",
+        "Some bank pages still quote a ₹5,000 OTP threshold from before the change. The current direction sets ₹15,000 as the AFA-free limit, so check the RBI text rather than an older FAQ."
+      ]
+    },
+    {
+      "heading": "Limits and alerts side by side",
+      "paragraphs": [
+        "NACH is outside this direction, so its alerts and limits come from your bank and the mandate terms."
+      ],
+      "list": [
+        "Card and UPI: recurring debits up to ₹15,000 go through without AFA. Above that, each debit needs AFA.",
+        "Insurance premiums, mutual fund subscriptions and credit card bill payments: up to ₹1 lakh can go through without AFA.",
+        "Card and UPI: a pre-transaction notification arrives at least 24 hours before each debit, naming the merchant, amount, date and time, and the e-mandate reference. A post-transaction notification follows the debit.",
+        "You can opt out of one debit or the whole e-mandate from the pre-debit notification, and the opt-out is validated with AFA."
+      ]
+    },
+    {
+      "heading": "How to cancel a card e-mandate",
+      "paragraphs": [
+        "The issuer must let you withdraw an e-mandate at any time, and withdrawal needs AFA, so expect an OTP. Issuers label this differently, often as standing instruction or e-mandate.",
+        "Card issuer portal. Axis Bank lists card mandates on its SIHUB page or its mandate portal. Enter your full card number, confirm the OTP sent to your registered mobile, then open the mandate and cancel it.",
+        "Card issuer app or net banking. Look for a standing instruction or e-mandate option. The exact path depends on the bank and app version.",
+        "The merchant. Cancelling the subscription with the merchant does not always cancel the mandate, so check the card portal afterwards.",
+        "Card reissue matters. Existing e-mandates can be mapped to a reissued card, so replacing a card does not end a subscription by itself. Check your mandate list after each card change."
+      ]
+    },
+    {
+      "heading": "How to cancel a UPI AutoPay mandate",
+      "paragraphs": [
+        "In Google Pay, tap your profile picture, select Autopay, open the mandate in the Live tab, then choose Pause autopay (with a start and end date) or Cancel autopay. Enter your UPI PIN, then check the status in the Live tab. Other UPI apps use labels such as AutoPay, Mandates or Subscriptions.",
+        "Google Pay says a loan-linked mandate cannot be cancelled in its app, so contact the merchant for those. It also says cancellation can fail when the linked bank account is inactive. NPCI's UPI Help portal, upihelp.npci.org.in, can also be used to review mandates across apps."
+      ]
+    },
+    {
+      "heading": "How to cancel a NACH mandate",
+      "paragraphs": [
+        "You can withdraw through your own bank. The branch accepts a withdrawal request, confirms it with you, and passes it through NPCI to the sponsor bank. Or cancel through the merchant's online facility or a written request. The UMRN is required either way.",
+        "Ask for an acknowledgement number and check the status in net banking afterwards. Processing time varies by bank."
+      ]
+    },
+    {
+      "heading": "Common problems after cancelling",
+      "paragraphs": [
+        "Cancelling the subscription and cancelling the mandate are separate steps, so do both. Revoking stops future debits, but it does not undo a payment already made.",
+        "If a debit arrives after cancellation, raise a complaint with your bank or card issuer and keep the reference number. The RBI direction requires a grievance mechanism, and its customer-liability rules for unauthorised transactions also apply to e-mandate recurring transactions."
+      ]
+    },
+    {
+      "heading": "How tracking renewals in Essara helps",
+      "paragraphs": [
+        "Essara lets you add each card e-mandate, UPI AutoPay mandate or NACH debit yourself and shows upcoming renewals, so you can act before the 24-hour pre-debit window closes. You still cancel in your card app, UPI app, bank or with the merchant. Essara does not connect to your bank, UPI app or SMS and cannot cancel a mandate for you."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do card e-mandates need an OTP?",
+      "a": "Yes. The RBI direction requires additional factor authentication to register, change or withdraw an e-mandate, and this is usually an OTP sent to your registered mobile number. Recurring card transactions above ₹15,000 also need AFA each time they are debited."
+    },
+    {
+      "q": "Is the UPI AutoPay limit the same as the card limit?",
+      "a": "For the main thresholds, yes. The same RBI direction sets the ₹15,000 AFA-free limit for card and UPI recurring payments, and ₹1 lakh for insurance premiums, mutual fund subscriptions and credit card bill payments."
+    },
+    {
+      "q": "Does the RBI e-mandate direction cover NACH?",
+      "a": "No. The direction covers recurring payments made through cards, prepaid payment instruments and UPI. For a NACH mandate, cancel through your bank with the UMRN, or through the merchant."
+    },
+    {
+      "q": "Do my card mandates stop when I get a new card?",
+      "a": "Not automatically. The RBI direction allows existing e-mandates to be mapped to a reissued card, so check the mandate list in your issuer's portal after a replacement and cancel anything you no longer want."
+    }
+  ],
+  "related": [
+    "learn/what-is-an-e-mandate",
+    "learn/rbi-recurring-payment-rules",
+    "learn/pre-debit-notification",
+    "upi-autopay/find-all-upi-autopay-mandates"
+  ],
+  "sources": [
+    {
+      "label": "RBI Master Directions: Digital Payments - E-mandate Framework, 2026",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
+    },
+    {
+      "label": "Google Pay Help: Learn how to manage recurring payments on Google Pay",
+      "url": "https://support.google.com/pay/india/answer/10840624?hl=en"
+    },
+    {
+      "label": "Axis Bank: Secure your recurring payments via cards",
+      "url": "https://www.axisbank.com/retail/cards/recurring-payments"
+    },
+    {
+      "label": "Karur Vysya Bank: NACH",
+      "url": "https://www.kvb.bank.in/ways-to-bank/nach/"
+    }
+  ],
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
+}

@@ -2,7 +2,7 @@
   "slug": "cancel-upi-autopay-whatsapp",
   "cluster": "upi-autopay",
   "title": "Cancel UPI AutoPay on WhatsApp Pay: What Works (2026)",
-  "metaDescription": "WhatsApp Pay runs on UPI, but WhatsApp's own pages do not confirm mandate management. Learn how to check, cancel the mandate in its UPI app and confirm it stopped.",
+  "metaDescription": "WhatsApp Pay runs on UPI, but its official pages don't confirm mandate management. Learn how to check, cancel in the right UPI app and confirm it stopped.",
   "h1": "Can you cancel a UPI AutoPay mandate from WhatsApp Pay?",
   "summary": "WhatsApp Pay sends money over UPI, but WhatsApp's India payments pages and terms do not describe creating or managing UPI AutoPay mandates inside WhatsApp. To stop a recurring debit, cancel with the merchant, then cancel or revoke the mandate in the UPI app or bank where it is listed, using your UPI PIN, and confirm that its status changed.",
   "updated": "2026-10-09",
@@ -12,7 +12,7 @@
   "steps": [
     {
       "name": "Cancel with the merchant",
-      "text": "Open the merchant's website or app and cancel the subscription there, then save the confirmation. HDFC Bank advises this step so the merchant stops starting new charges. The label and location depend on the merchant."
+      "text": "Open the merchant's website or app and cancel the subscription there, then save the confirmation. HDFC Bank advises this so the merchant stops starting new charges."
     },
     {
       "name": "Check WhatsApp's payments settings",
@@ -36,14 +36,14 @@
       "heading": "What WhatsApp Pay officially covers",
       "paragraphs": [
         "WhatsApp Pay is a UPI feature in India. WhatsApp India's payments terms say it passes your payment instructions to payment service providers, which process them over UPI, and that money moves directly between bank accounts. WhatsApp's payments page says the feature is powered by BHIM UPI and processed by payment partners in India.",
-        "The official pages describe sending money, paying bills through the Bharat Bill Payment System (BBPS) and checking past transactions in payments settings. They do not mention UPI AutoPay, e-mandates or subscription debits. Some vendor blogs say WhatsApp Pay supports AutoPay for subscriptions, but those are marketing pieces with no link to WhatsApp or NPCI documentation, so treat that claim as unconfirmed."
+        "The official pages describe sending money, paying bills through BBPS and checking past transactions in payments settings. They do not mention UPI AutoPay, e-mandates or subscription debits. Vendor blogs claim WhatsApp Pay supports AutoPay subscriptions, but they are marketing pieces with no link to official documentation, so treat that claim as unconfirmed."
       ]
     },
     {
       "heading": "Find out which app holds the mandate",
       "paragraphs": [
         "A UPI AutoPay mandate is approved in the app or bank where you accepted it, and it is changed there too. If you have never seen a mandate in WhatsApp's payments settings, the debit is probably coming from a different UPI app or from your bank's list. Start with the merchant name and amount on the debit, then look in each app you have used.",
-        "A pre-debit SMS or app notice usually gives the merchant name, amount, debit date and mandate reference, so keep it until the mandate is sorted. HDFC Bank says mandates are visible in the UPI app where they were authorised, under the AutoPay section, so a mandate can be missing from the first app you check."
+        "Keep any pre-debit SMS, since it usually gives the merchant, amount, debit date and mandate reference. HDFC Bank says mandates are visible in the UPI app where they were authorised, so the first app you check may not show it."
       ]
     },
     {
@@ -63,7 +63,6 @@
     {
       "heading": "Common problems",
       "paragraphs": [
-        "Most problems come from looking in the wrong place or cancelling in one place only. The list below covers the cases that come up most often.",
         "Deleting WhatsApp is not the same as cancelling a mandate. Uninstalling the app or removing a bank account from WhatsApp does not show that a mandate was revoked, so check the status in the UPI app or bank afterwards."
       ],
       "list": [
@@ -75,7 +74,7 @@
     {
       "heading": "How tracking renewals in Essara helps",
       "paragraphs": [
-        "Once you know which subscriptions are billed by UPI AutoPay, a manual tracker keeps them visible. In Essara you add each subscription or mandate yourself, with its amount, billing cycle and next renewal date, and you can see upcoming auto-debits in one list. Essara does not connect to WhatsApp, your UPI app, your bank or your SMS, so the list is only as current as the details you enter."
+        "Once you know which subscriptions use UPI AutoPay, a manual tracker keeps them visible. In Essara you add each subscription or mandate yourself, with its amount, billing cycle and next renewal date, and see upcoming auto-debits in one list. Essara does not connect to WhatsApp, your UPI app, your bank or your SMS, so keep the details current by hand."
       ]
     }
   ],

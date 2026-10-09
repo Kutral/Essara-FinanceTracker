@@ -47,7 +47,7 @@
       "heading": "Start with NPCI's UPI help portal",
       "paragraphs": [
         "NPCI, which runs UPI, operates a help portal at upihelp.npci.org.in. Coverage from late 2025 described it as a place to see and manage UPI AutoPay mandates across apps. Sign in with the verification the portal asks for, which is usually tied to your UPI-registered mobile number, and open the list of active mandates.",
-        "Treat the portal as the best starting list rather than the final one. Coverage describes it as covering UPI AutoPay only, so card, NACH and app-store billing will not appear there. A mandate can also be missing if the app or bank has not yet shown it, so run the other checks below before you decide you have found everything."
+        "Treat the portal as a starting list, not the final one. Coverage describes it as UPI AutoPay only, so card, NACH and app-store billing will not appear. Run the other checks below before deciding you have found everything."
       ]
     },
     {
@@ -60,7 +60,7 @@
     {
       "heading": "Use bank statements and pre-debit alerts to catch the rest",
       "paragraphs": [
-        "Search your bank statement and messages for UPI AutoPay, mandate and merchant names you do not recognise. Look for amounts that repeat monthly, quarterly or yearly, because a yearly renewal is easy to forget about until it arrives.",
+        "Search your bank statement and messages for UPI AutoPay, mandate and merchant names you do not recognise. Look for amounts that repeat monthly, quarterly or yearly.",
         "Recurring debits are meant to come with a pre-debit notice. Stripe's India recurring payments documentation, which summarises the RBI rules, says customers must be alerted at least 24 hours before a recurring charge and given the option to opt out. It says the notice should include the business name, the amount, the debit date, the mandate reference number and the reason for the debit. Use those details to match a debit to a mandate, and keep the alerts you receive.",
         "The same documentation says recurring transactions over ₹15,000 need authentication each time, so a large debit may ask for your UPI PIN."
       ]
@@ -68,7 +68,7 @@
     {
       "heading": "Keep one list you can check",
       "paragraphs": [
-        "Once you have the results, write one line per mandate: the merchant, the app or bank where it was approved, the amount or maximum, the frequency, the next debit date and the mandate reference if you have it. One list is easier to review each quarter than a set of screenshots spread across phones.",
+        "Once you have the results, write one line per mandate: the merchant, the app or bank where it was approved, the amount or maximum, the frequency, the next debit date and the mandate reference if you have it.",
         "In Essara you add each mandate yourself, so the list shows upcoming auto-debits for the week and the month and helps you find older mandates. Essara does not connect to your UPI app, bank or SMS, so nothing is imported for you. The list is only as complete as the entries you make."
       ]
     },
@@ -86,20 +86,12 @@
       "a": "NPCI's UPI help portal is set up for that purpose, and news coverage describes it as a way to see mandates across apps. Coverage also says the cross-app view is still being rolled out, so check the portal, each UPI app and your bank statement."
     },
     {
-      "q": "Why does a mandate show in one app but not another?",
-      "a": "HDFC Bank says mandates appear in the UPI app where they were authorised. A mandate approved in an app you no longer use may not appear in your current apps, so check the bank statement for the debit."
-    },
-    {
       "q": "Can I cancel a mandate from a different app?",
       "a": "A mid-2026 news report said cancelling, pausing or changing a mandate is still processed in the app where it was created, and choosing it from another app redirects you there. Open the originating app to make the change."
     },
     {
       "q": "What should a pre-debit SMS include?",
       "a": "Stripe's summary of the RBI rules says it should include the business name, amount, debit date, mandate reference number and reason for the debit, and should arrive at least 24 hours before the debit. The wording differs between banks."
-    },
-    {
-      "q": "Can I cancel a loan or debt collection mandate in my UPI app?",
-      "a": "HDFC Bank says mandates for debt collection and loan repayment cannot be cancelled through the UPI app, so contact the merchant directly."
     },
     {
       "q": "Does Essara find my mandates automatically?",

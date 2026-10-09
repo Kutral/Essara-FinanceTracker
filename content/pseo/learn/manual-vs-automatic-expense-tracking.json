@@ -2,7 +2,7 @@
   "slug": "manual-vs-automatic-expense-tracking",
   "cluster": "learn",
   "title": "Manual vs Automatic Expense Tracking: Honest Trade-offs",
-  "metaDescription": "Manual expense tracking keeps bank, UPI and SMS data out of your app but takes daily effort. Compare it with SMS-reading and account aggregator tools on privacy and accuracy.",
+  "metaDescription": "Manual expense tracking keeps bank, UPI and SMS data out of your app but takes daily effort. Compare it with SMS and aggregator apps on privacy and accuracy.",
   "h1": "Should you track expenses manually or let an app do it automatically?",
   "summary": "Manual expense tracking means you enter every spend yourself, so the app never needs access to your bank, UPI app or SMS. Automatic tracking captures more transactions with less effort, but it depends on permissions, consent and message parsing that you need to trust. A practical middle ground is to log fixed costs and subscriptions yourself, and automate only where you are comfortable with the access it needs.",
   "updated": "2026-10-09",

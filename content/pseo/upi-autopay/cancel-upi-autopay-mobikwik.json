@@ -2,7 +2,7 @@
   "slug": "cancel-upi-autopay-mobikwik",
   "cluster": "upi-autopay",
   "title": "Cancel MobiKwik AutoPay and SIP Mandates (2026)",
-  "metaDescription": "MobiKwik's Auto-Pay is for mutual fund purchases through a bank mandate. Learn how to stop a SIP, cancel a UPI mandate and handle a debit that still comes through.",
+  "metaDescription": "MobiKwik's Auto-Pay is for mutual fund purchases through a bank mandate. Learn how to stop a SIP, cancel a UPI mandate and handle a debit that still comes in.",
   "h1": "How do you cancel a MobiKwik AutoPay or SIP mandate?",
   "summary": "MobiKwik's official pricing and payments FAQ ties Auto-Pay to mutual fund purchases through MobiKwik Money, using a bank mandate you register with MobiKwik. Its FAQ says you can reduce a SIP to zero or cancel it without a charge. MobiKwik's published pages do not confirm whether its wallet can create UPI AutoPay mandates for merchant subscriptions, so check the app for an AutoPay entry first.",
   "updated": "2026-10-09",

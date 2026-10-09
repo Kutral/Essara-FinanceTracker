@@ -6,8 +6,18 @@
   "h1": "What is UPI AutoPay and how do recurring UPI mandates work?",
   "summary": "UPI AutoPay is an NPCI feature that lets you approve a recurring payment mandate once with your UPI PIN, after which the merchant can debit your linked bank account on the agreed schedule. You get a pre-debit notification before each debit, and you can pause or revoke the mandate at any time from the UPI app where you created it.",
   "updated": "2026-10-09",
-  "keywords": ["what is UPI AutoPay", "UPI mandate", "recurring UPI payment", "UPI AutoPay limit", "cancel UPI AutoPay"],
-  "about": ["UPI AutoPay", "NPCI", "Recurring payments"],
+  "keywords": [
+    "what is UPI AutoPay",
+    "UPI mandate",
+    "recurring UPI payment",
+    "UPI AutoPay limit",
+    "cancel UPI AutoPay"
+  ],
+  "about": [
+    "UPI AutoPay",
+    "NPCI",
+    "Recurring payments"
+  ],
   "sections": [
     {
       "heading": "How UPI AutoPay works",
@@ -44,15 +54,40 @@
     }
   ],
   "faqs": [
-    { "q": "Is UPI AutoPay safe?", "a": "UPI AutoPay mandates need your UPI PIN to be created, you receive a pre-debit notification before each debit, and you can pause or revoke a mandate at any time from your UPI app. As with any payment method, only approve mandates from merchants you trust." },
-    { "q": "What is the UPI AutoPay limit without a PIN?", "a": "Recurring debits up to ₹15,000 per transaction can be processed without extra authentication. For mutual fund subscriptions, insurance premiums and credit card bill payments the limit is ₹1 lakh. Debits above the applicable limit need your UPI PIN each time." },
-    { "q": "Does cancelling a subscription also cancel the UPI AutoPay mandate?", "a": "Not always. Some merchants revoke the mandate when you cancel, but many do not. Check the AutoPay or Mandates section of your UPI app after cancelling and revoke the mandate there if it is still active." },
-    { "q": "Where can I see all my UPI AutoPay mandates?", "a": "Each UPI app shows only the mandates created in it, usually under a section called AutoPay, Mandates or Manage payments. If you use several UPI apps, check each one, or keep a single list in a tracker such as Essara." }
+    {
+      "q": "Is UPI AutoPay safe?",
+      "a": "UPI AutoPay mandates need your UPI PIN to be created, you receive a pre-debit notification before each debit, and you can pause or revoke a mandate at any time from your UPI app. As with any payment method, only approve mandates from merchants you trust."
+    },
+    {
+      "q": "What is the UPI AutoPay limit without a PIN?",
+      "a": "Recurring debits up to ₹15,000 per transaction can be processed without extra authentication. For mutual fund subscriptions, insurance premiums and credit card bill payments the limit is ₹1 lakh. Debits above the applicable limit need your UPI PIN each time."
+    },
+    {
+      "q": "Does cancelling a subscription also cancel the UPI AutoPay mandate?",
+      "a": "Not always. Some merchants revoke the mandate when you cancel, but many do not. Check the AutoPay or Mandates section of your UPI app after cancelling and revoke the mandate there if it is still active."
+    },
+    {
+      "q": "Where can I see all my UPI AutoPay mandates?",
+      "a": "Each UPI app shows only the mandates created in it, usually under a section called AutoPay, Mandates or Manage payments. If you use several UPI apps, check each one, or keep a single list in a tracker such as Essara."
+    }
   ],
   "related": [],
   "sources": [
-    { "label": "NPCI — UPI AutoPay", "url": "https://www.npci.org.in/what-we-do/autopay/product-overview" },
-    { "label": "RBI — Processing of e-mandates for recurring transactions", "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12051&Mode=0" }
+    {
+      "label": "NPCI — UPI AutoPay",
+      "url": "https://www.npci.org.in/what-we-do/autopay/product-overview"
+    },
+    {
+      "label": "RBI — Digital Payments: E-mandate Framework, 2026",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374"
+    },
+    {
+      "label": "Google Pay Help — Manage UPI AutoPay",
+      "url": "https://support.google.com/pay/india/answer/10452280?hl=en"
+    }
   ],
-  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
 }
