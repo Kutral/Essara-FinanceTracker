@@ -56,10 +56,10 @@ export default function App() {
               <div className="flex flex-col gap-1.5">
                 <a href="https://essara.space/essara-app" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara App</a>
                 <a href="https://essara.space/download" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Download</a>
-                <a href="https://essara.space/dashboard" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Dashboard</a>
-                <a href="https://essara.space/scanner" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Scanner</a>
-                <a href="https://essara.space/subscription-manager" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Subscriptions</a>
-                <a href="https://essara.space/investments" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Investments</a>
+                <a href="https://essara.space/subscription-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Subscription Tracker</a>
+                <a href="https://essara.space/receipt-scanner-expense-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Receipt Scanner</a>
+                <a href="https://essara.space/expense-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Expense Tracker</a>
+                <a href="https://essara.space/investment-tracker-india" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Investment Tracker</a>
               </div>
             </div>
             <div>
@@ -80,7 +80,7 @@ export default function App() {
                 <a href="https://essara.space/blog" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Blog</a>
                 <a href="https://essara.space/contact" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Contact</a>
                 <a href="https://essara.space/pricing" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Pricing</a>
-                <a href="https://essara.space/referral" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Referral</a>
+                <a href="https://essara.space/guides" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Guides</a>
                 <a href="https://essara.space/docs" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Docs</a>
               </div>
             </div>
@@ -88,7 +88,7 @@ export default function App() {
               <h4 className="text-white/30 text-[10px] uppercase tracking-widest mb-3">Resources</h4>
               <div className="flex flex-col gap-1.5">
                 <a href="https://essara.space/compare" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Compare</a>
-                <a href="https://essara.space/compare/essara-vs-ynab" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs YNAB</a>
+                <a href="https://essara.space/alternatives" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Alternatives</a>
                 <a href="https://essara.space/compare/essara-vs-monarch-money" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs Monarch</a>
                 <a href="https://essara.space/compare/essara-vs-rocket-money" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Essara vs Rocket</a>
                 <a href="https://essara.space/privacy-policy" className="text-white/30 text-xs hover:text-white/70 transition-colors" rel="noopener noreferrer">Privacy Policy</a>

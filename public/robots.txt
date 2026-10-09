@@ -11,8 +11,10 @@
 # Tokens were checked against each vendor's crawler documentation, 2026-10-09.
 # Each group below applies only to the crawler named in it.
 
-# Default for all other crawlers
+# Default for all other crawlers. Content-Signal mirrors https://essara.space/robots.txt:
+# search and AI answers are welcome, AI training is not (ClaudeBot and CCBot are blocked below).
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
 # Google (https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)
@@ -68,7 +70,7 @@ Allow: /
 # Anthropic (https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler)
 # ClaudeBot: training. Claude-SearchBot: search index. Claude-User: user-initiated fetches.
 User-agent: ClaudeBot
-Allow: /
+Disallow: /
 
 User-agent: Claude-SearchBot
 Allow: /
@@ -100,7 +102,7 @@ Allow: /
 
 # Common Crawl (https://commoncrawl.org/ccbot)
 User-agent: CCBot
-Allow: /
+Disallow: /
 
 # Mistral (https://docs.mistral.ai/robots) - user-initiated fetches only
 User-agent: MistralAI-User

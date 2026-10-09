@@ -65,6 +65,11 @@ From the Play description:
 - /privacy-policy · /blog · /blog/best-subscription-tracker-app-india · /docs
 - /tools · /tools/subscription-leak-detector · /tools/upi-autopay-tracker
 - /tools/ott-subscription-cost-calculator · /tools/monthly-money-leak-calculator
+- /tools/budget-planner (free 50/30/20 budget planner) · /tools/money-leak-detector · /tools/forgotten-renewal-finder
+- Landing pages: /subscription-tracker-india · /expense-tracker-india · /receipt-scanner-expense-tracker-india
+  · /investment-tracker-india · /no-bank-login-expense-tracker-india · /google-play-subscription-tracker-india
+- /guides (essara.space has its own guides, e.g. /guides/cancel-upi-autopay-google-pay-phonepe-paytm,
+  /guides/what-is-upi-autopay-how-it-works) · /alternatives · /compare · /refund-policy · /terms-of-service
 - /onething (a separate focus/productivity Android app by Essara)
 
 ## Banned claims (were in the old site — do not reintroduce)
