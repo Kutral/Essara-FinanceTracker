@@ -1,0 +1,81 @@
+{
+  "slug": "what-is-an-e-mandate",
+  "cluster": "learn",
+  "title": "What Is an E-Mandate? Cards, UPI AutoPay and NACH",
+  "metaDescription": "An e-mandate lets a merchant charge you on a schedule after one approval. Learn how card e-mandates, UPI AutoPay and NACH mandates differ, and where to cancel each.",
+  "h1": "What is an e-mandate, and how do card, UPI AutoPay and NACH mandates differ?",
+  "summary": "An e-mandate is a standing approval that lets a merchant collect recurring payments from your account without asking you to approve every debit. In India it appears in three common forms: card e-mandates, UPI AutoPay mandates and NACH mandates that debit a bank account. They differ in which account is charged, how you approve them, and where you go to pause or cancel them.",
+  "updated": "2026-10-09",
+  "keywords": ["what is an e-mandate", "e-mandate vs UPI AutoPay", "e-NACH mandate", "card e-mandate India", "cancel e-mandate"],
+  "about": ["E-mandate", "UPI AutoPay", "NACH"],
+  "sections": [
+    {
+      "heading": "An e-mandate is a standing approval",
+      "paragraphs": [
+        "An e-mandate is a record of your consent to recurring debits. It names the merchant, the amount (either a fixed value or a maximum), the frequency and a validity period. You approve it once, with a verification step that confirms it is you, and the merchant can then start debits without a fresh approval each cycle.",
+        "The term is used loosely, so two subscriptions that look alike on a bill can run on different rails. The rail decides which account is debited, which app or bank you use to change the mandate, and how much authentication you see along the way. Working out the rail is the quickest way to find where to cancel."
+      ]
+    },
+    {
+      "heading": "Card e-mandates",
+      "paragraphs": [
+        "A card e-mandate is registered against a debit or credit card. The RBI's 2026 e-mandate directions require the registration to be validated with an additional factor of authentication (AFA). Changing or withdrawing the mandate also needs AFA, so the bank will ask you to verify before the change goes through.",
+        "Card mandates are managed on the card issuer's side, not in the merchant's app. HSBC, for example, runs a MandateHQ portal where cardholders can pause, resume or cancel a mandate using an OTP sent to their registered mobile number. The same HSBC FAQ still quotes a ₹5,000 threshold for authorising larger debits, which is older than the current ₹15,000 rule, so a bank's help page can lag the regulation."
+      ]
+    },
+    {
+      "heading": "UPI AutoPay mandates",
+      "paragraphs": [
+        "UPI AutoPay mandates are created inside a UPI app and debit the bank account linked to your UPI ID. You approve the request with your UPI PIN, and no card or separate login is involved. RBI's 2026 directions cover UPI on the same terms as cards, so the ₹15,000 and ₹1 lakh limits apply here too.",
+        "In Google Pay, mandates sit under the Autopay section, which you reach from your profile picture. Live mandates are active and can be paused for a start and end date, or cancelled, with your UPI PIN. Pending holds requests waiting for your action, and Completed lists executed, expired and revoked mandates. Other UPI apps use different labels, such as AutoPay or Mandates, so look for the word your app uses."
+      ]
+    },
+    {
+      "heading": "NACH and e-NACH mandates",
+      "paragraphs": [
+        "NACH (National Automated Clearing House) is a clearing service run by the National Payments Corporation of India (NPCI). Its mandate variant debits a bank account directly, rather than a card or a UPI ID. E-NACH is the online route for registering such a mandate. NACH mandates are often used for loan repayments, insurance premiums and similar fixed collections, and the lender or merchant sets up the collection.",
+        "Cancelling a NACH mandate is less uniform than the other two rails. Most people start in their bank's net banking or mobile app. Loan-linked mandates are contested, though. In a May 2026 letter to the RBI, the Finance Industry Development Council, an industry body for NBFCs, said some banks had cancelled loan mandates on customer instruction alone, without confirming with the lender, and asked for a structured process. Check your loan agreement before you cancel an EMI mandate."
+      ]
+    },
+    {
+      "heading": "How the three rails compare",
+      "paragraphs": [
+        "The rails share a basic shape, but the place you manage each one is different. Use this to find the right control panel quickly."
+      ],
+      "list": [
+        "Card e-mandate: debits a debit or credit card. Authenticated through the card issuer. Cancel in the card issuer's portal or app.",
+        "UPI AutoPay: debits the bank account behind your UPI ID. Approved and cancelled with your UPI PIN in your UPI app.",
+        "NACH or e-NACH: debits a bank account under a mandate registered through the bank. Cancel through the bank, and for loans check with the lender first."
+      ]
+    },
+    {
+      "heading": "Rules that apply across the rails",
+      "paragraphs": [
+        "Under the RBI's 2026 directions, card and UPI e-mandates must give you a facility to withdraw an e-mandate at any point, and an issuer must send a pre-transaction notice at least 24 hours before each debit. Those obligations are explained in our guide to RBI recurring payment rules.",
+        "NACH is not named in those directions. The notice and withdrawal rules for NACH come from NPCI and your bank, and I could not verify the NACH notice rule from an NPCI document, so check with your bank before assuming a notice will arrive."
+      ]
+    },
+    {
+      "heading": "Keeping one list across rails",
+      "paragraphs": [
+        "A mandate is easy to forget when it sits in a card portal, a UPI app and a bank app at the same time. Essara's UPI AutoPay tracker lets you add each mandate yourself, then shows upcoming auto-debits for the week and month next to your other subscriptions. Essara does not connect to your bank, your UPI app or your SMS, so you enter the details yourself."
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Is UPI AutoPay an e-mandate?", "a": "Yes. UPI AutoPay is the UPI form of a recurring e-mandate. The RBI's 2026 directions cover recurring transactions made with cards, prepaid payment instruments and UPI, so the core rules are the same across them." },
+    { "q": "What is the difference between NACH and e-NACH?", "a": "NACH is the clearing system for bank-account mandates. E-NACH is the online way to register a NACH mandate, usually through your bank. The mandate is tied to your bank account rather than to a card or a UPI ID." },
+    { "q": "Can I cancel a card e-mandate without contacting the merchant?", "a": "Usually yes. The RBI's directions require issuers to let you withdraw an e-mandate at any point, and the card issuer's portal or app is where you do it. Cancel the subscription with the merchant as well, because withdrawing the mandate stops future debits but may not close your account with the merchant." },
+    { "q": "Does cancelling a mandate get me a refund for past payments?", "a": "No. Cancelling stops future debits under that mandate. Refunds for debits already processed depend on the merchant's refund policy. If a debit is wrong, you can raise a grievance with your issuer, which must provide a dispute process under the RBI rules." },
+    { "q": "Is a paused mandate the same as a cancelled one?", "a": "Not always. Google Pay lets you pause a live UPI mandate for a set date range. HSBC lets cardholders resume a paused mandate, but a cancelled one cannot be reactivated and must be registered again. The options differ between apps and banks, so check what your app offers." },
+    { "q": "Does an e-mandate expire on its own?", "a": "It can. Every e-mandate is registered with a validity period, and the RBI requires the issuer to let you modify that period or withdraw the mandate at any time. Look for the end date in your app or bank portal, and renew or cancel it before it lapses." }
+  ],
+  "related": ["what-is-upi-autopay", "rbi-recurring-payment-rules", "pre-debit-notification", "card-standing-instructions-vs-upi-autopay", "free-trial-auto-renewal"],
+  "sources": [
+    { "label": "RBI: Digital Payments - E-mandate Framework, 2026", "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13374" },
+    { "label": "Google Pay Help: Manage AutoPay", "url": "https://support.google.com/pay/india/answer/10452280?hl=en" },
+    { "label": "HSBC India: e-mandates FAQ", "url": "https://hsbc.co.in/help/faqs/e-mandates" },
+    { "label": "FIDC letter to RBI on eNACH mandate cancellation (25 May 2026)", "url": "https://www.fidcindia.org.in/wp-content/uploads/2026/05/FIDC-RBI-CGM-DSSP_eNACH_25May2026.pdf" }
+  ],
+  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+}
