@@ -1,10 +1,10 @@
 {
   "slug": "cancel-upi-autopay-mobikwik",
   "cluster": "upi-autopay",
-  "title": "Cancel MobiKwik AutoPay and SIP Mandates (2026)",
-  "metaDescription": "MobiKwik's Auto-Pay is for mutual fund purchases through a bank mandate. Learn how to stop a SIP, cancel a UPI mandate and handle a debit that still comes in.",
+  "title": "MobiKwik AutoPay and SIP Mandates: How to Stop (2026)",
+  "metaDescription": "MobiKwik's Auto-Pay is for mutual fund purchases through a bank mandate. Learn how to stop a SIP for free, cancel a merchant mandate and handle a debit that still comes in.",
   "h1": "How do you cancel a MobiKwik AutoPay or SIP mandate?",
-  "summary": "MobiKwik's official pricing and payments FAQ ties Auto-Pay to mutual fund purchases through MobiKwik Money, using a bank mandate you register with MobiKwik. Its FAQ says you can reduce a SIP to zero or cancel it without a charge. MobiKwik's published pages do not confirm whether its wallet can create UPI AutoPay mandates for merchant subscriptions, so check the app for an AutoPay entry first.",
+  "summary": "MobiKwik's pricing and payments FAQ for MobiKwik Money ties Auto-Pay to mutual fund purchases, using a bank mandate you register with MobiKwik. The same FAQ says you can reduce a SIP to zero, change its date or cancel it without a charge. MobiKwik's published FAQ does not say whether its wallet can create UPI AutoPay mandates for merchant subscriptions, so for a merchant debit, check the UPI app that approved it.",
   "updated": "2026-10-09",
   "keywords": ["cancel MobiKwik AutoPay", "MobiKwik Auto-Pay SIP", "stop MobiKwik SIP", "MobiKwik mutual fund mandate", "MobiKwik UPI mandate"],
   "about": ["MobiKwik", "UPI AutoPay", "SIP"],
@@ -12,101 +12,95 @@
   "steps": [
     {
       "name": "Identify which kind of mandate it is",
-      "text": "Decide whether the debit is a mutual fund Auto-Pay or SIP through MobiKwik Money, or a UPI mandate for a merchant. MobiKwik's FAQ describes the first kind. A merchant mandate is usually shown in the UPI app where it was approved."
+      "text": "Decide whether the debit is a mutual fund Auto-Pay or SIP through MobiKwik Money, or a UPI mandate for a merchant. A merchant mandate is usually managed in the UPI app where it was approved."
     },
     {
-      "name": "Stop or change the SIP in MobiKwik Money",
-      "text": "Open your MobiKwik Money account and find the SIP. MobiKwik's FAQ says you can reduce a SIP to zero, change its date, or cancel it, and that none of these changes is charged. Menu names may vary by app version."
+      "name": "Change or stop the SIP in MobiKwik Money",
+      "text": "Open your MobiKwik Money account and find the SIP. The FAQ says you can reduce it to zero, change its date or cancel it, and none of these changes is charged. Menu names vary by app version."
     },
     {
       "name": "Revoke a merchant mandate in its UPI app",
-      "text": "Open the UPI app where the merchant mandate was approved, go to Profile or Settings, select AutoPay, Mandates or Subscriptions, tap the mandate, choose Cancel or Revoke, and enter your UPI PIN."
+      "text": "Open the UPI app where the merchant mandate was approved, go to Profile or Settings, select AutoPay, Mandates or Subscriptions, tap the mandate, choose Cancel or Revoke and enter your UPI PIN."
     },
     {
-      "name": "Ask for the bank mandate to be cancelled if needed",
-      "text": "The FAQ does not describe how to revoke the bank mandate itself. If you want it removed, contact MobiKwik Money support at mutualfunds@mobikwik.com or your bank."
+      "name": "Ask about the bank mandate if needed",
+      "text": "The FAQ does not describe how to revoke the bank mandate itself. To have it removed, contact MobiKwik Money support at mutualfunds@mobikwik.com or your bank."
     },
     {
       "name": "Confirm the status and keep proof",
-      "text": "Check that the SIP shows as stopped, or that the merchant mandate shows as cancelled or revoked. Save screenshots and the confirmation, then check the next statement."
+      "text": "Check that the SIP shows as stopped, or that the merchant mandate shows as cancelled or revoked. Save screenshots and the confirmation, then check your next statement."
     }
   ],
   "sections": [
     {
-      "heading": "What MobiKwik's Auto-Pay means",
+      "heading": "What MobiKwik's Auto-Pay covers",
       "paragraphs": [
-        "MobiKwik's pricing and payments FAQ for MobiKwik Money, its mutual fund platform, says you can pay for mutual funds by Netbanking or by clicking Auto-Pay to use the bank mandate you have registered with MobiKwik. The mandate applies only to your transactions at MobiKwik. The FAQ also says your money moves directly between your bank account and the mutual fund company, and never passes through MobiKwik's bank account.",
-        "That is a different thing from a subscription mandate for a streaming or app plan. MobiKwik's published pages do not confirm whether its wallet or Pocket UPI can create UPI AutoPay mandates for merchants. If your app shows an AutoPay or Mandates section, use it as the place to check."
+        "MobiKwik's FAQ says you can pay for mutual funds by Netbanking, or by clicking Auto-Pay to use the bank mandate you registered with MobiKwik. That mandate applies only to your transactions on MobiKwik. The FAQ also says your money moves directly between your bank account and the fund house, and never passes through MobiKwik's bank account.",
+        "This is a different thing from a subscription mandate for a streaming or app plan. MobiKwik's published FAQ does not describe its wallet creating UPI AutoPay mandates for merchants, so if your app shows an AutoPay or Mandates section, use that as the place to check."
       ]
     },
     {
-      "heading": "Find the mandate or SIP you want to stop",
+      "heading": "Find the entry you want to stop",
       "paragraphs": [
-        "Start by identifying the entry. A SIP or Auto-Pay for a fund sits in MobiKwik Money, while a merchant's UPI mandate sits in the UPI app that approved it. HDFC Bank says UPI AutoPay mandates appear in the app where they were authorised, under the AutoPay section, so a merchant mandate may not appear in MobiKwik even when the debit reaches you through a MobiKwik wallet.",
-        "Google Pay's help adds that mandates are grouped into Live, Pending and Completed. Other apps use different labels, so look for the equivalent of Live or Active."
+        "A SIP or Auto-Pay for a fund sits in MobiKwik Money, while a merchant's UPI mandate sits in the UPI app that approved it. HDFC Bank says UPI AutoPay mandates appear in the app where they were authorised, under the AutoPay section, so a merchant debit may not show up in MobiKwik even if the money reaches you through a MobiKwik account.",
+        "Google Pay's help page groups mandates into Live, Pending and Completed. Other apps use different labels, so look for the equivalent of Live or Active."
       ]
     },
     {
-      "heading": "Stop a SIP without a charge",
+      "heading": "Stopping a SIP without a charge",
       "paragraphs": [
-        "The MobiKwik Money FAQ answers the common questions about changing a SIP. You can increase each SIP amount, reduce it to zero, change the date, or modify the whole plan, and MobiKwik says none of these changes is charged. Cancelling is also free. When you sell or switch investments, MobiKwik says it does not charge for that either.",
-        "Stopping a SIP stops future instalments. It does not return money you have already invested. To get money back, you sell your units, and the FAQ says the mutual fund company transfers the proceeds directly to your bank account."
+        "The FAQ says you can increase a SIP, reduce it to zero, change the date, or modify the whole plan at no charge. Cancelling is also free, and selling or switching investments is not charged either.",
+        "Stopping a SIP stops future instalments, but it does not return money you have already invested. To get money back, you sell your units, and the FAQ says the fund company transfers the proceeds directly to your bank account."
       ]
     },
     {
       "heading": "Limits and raising them",
       "paragraphs": [
-        "The FAQ says the maximum you can invest using Auto-Pay and SIP is ₹1 crore per mutual fund scheme, and that you can set a lower limit in the bank mandate you give MobiKwik. If you need a higher limit, the FAQ says you can send a new mandate from your account settings. Lowering the limit is a useful step if you want to cap future debits without stopping the plan."
+        "The FAQ gives a maximum of ₹1 crore per mutual fund scheme for Auto-Pay and SIP. You can set a lower limit in the bank mandate you give MobiKwik. To raise the limit, the FAQ says you send a new mandate from your account settings. Lowering the limit is a useful step if you want to cap future debits without stopping the plan."
       ]
     },
     {
-      "heading": "Common problems",
+      "heading": "When a debit still comes through",
       "paragraphs": [
-        "Most confusion comes from mixing up a SIP with a merchant mandate. Keep those two apart and the rest is simpler.",
-        "If a debit still comes through after you have stopped the SIP or revoked the mandate, keep the transaction ID, screenshots and any confirmation. Contact MobiKwik Money support at mutualfunds@mobikwik.com and your bank, and raise the complaint with the merchant if the debit came from a merchant mandate."
-      ],
-      "list": [
-        "Auto-Pay limit too low: send a new mandate from your account settings, as the FAQ describes.",
-        "No AutoPay entry in the app: menu names vary by version, so check the latest app update and the profile or settings menu.",
-        "Bank mandate still active: the FAQ does not give a revoke path, so ask MobiKwik or your bank to cancel it."
+        "Most confusion comes from mixing up a SIP with a merchant mandate. Keep the two apart, and check which one produced the debit before you act.",
+        "Keep the transaction ID, screenshots and any confirmation. Contact MobiKwik Money support and your bank, and raise the matter with the merchant if the debit came from a merchant mandate. HDFC Bank's guide also notes that completed payments are not reversed when a mandate is cancelled."
       ]
     },
     {
-      "heading": "Keep your SIPs and mandates in one list",
+      "heading": "Where Essara fits in",
       "paragraphs": [
-        "A manual tracker is useful when SIPs and merchant mandates are spread across several apps. In Essara you add each SIP, subscription or mandate yourself, with its amount, cycle and next debit date, and you see upcoming auto-debits in one place. Essara has an investment tracker that covers SIPs, but it does not connect to MobiKwik, your bank or your SMS, so keep the entries up to date by hand."
+        "Essara has an investment tracker that covers SIPs, and you can also list merchant mandates in the same place. It does not connect to MobiKwik, your bank or your SMS, so the SIP dates and amounts stay accurate only if you update them by hand."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Does MobiKwik support UPI AutoPay?",
-      "a": "MobiKwik's official material describes Auto-Pay for mutual fund purchases through MobiKwik Money, using a bank mandate. Its published pages do not confirm that its wallet can create UPI AutoPay mandates for merchant subscriptions, so check the app for an AutoPay or Mandates section."
+      "a": "MobiKwik's pricing and payments FAQ describes Auto-Pay for mutual fund purchases, using a bank mandate registered with MobiKwik. It does not say the wallet can create UPI AutoPay mandates for merchant subscriptions, so check the app for an AutoPay or Mandates section first."
     },
     {
       "q": "Is there a charge for stopping a SIP on MobiKwik?",
-      "a": "According to the MobiKwik Money pricing FAQ, there is no charge to increase, reduce, change the date of, or cancel a SIP. Selling or switching investments is also not charged."
+      "a": "According to the MobiKwik Money FAQ, there is no charge to increase, reduce, change the date of or cancel a SIP. Selling or switching investments is also not charged."
     },
     {
       "q": "What is the Auto-Pay limit on MobiKwik?",
       "a": "The FAQ gives a maximum of ₹1 crore per mutual fund scheme for Auto-Pay and SIP. You can set a lower limit in your bank mandate, and raise it by sending a new mandate from your account settings."
     },
     {
-      "q": "What if a debit comes through after I stopped it?",
-      "a": "Keep the transaction ID, screenshots and any cancellation confirmation. Contact MobiKwik Money support at mutualfunds@mobikwik.com and your bank, and raise the matter with the merchant if the debit came from a merchant's UPI mandate."
+      "q": "Who do I contact if a SIP debit continues after I stopped it?",
+      "a": "Contact MobiKwik Money support at mutualfunds@mobikwik.com and your bank, and keep the transaction ID and cancellation confirmation. If the debit came from a merchant's UPI mandate, the merchant and the app where it was approved are the right places to raise it."
     }
   ],
   "related": [
-    "upi-autopay/cancel-upi-autopay-paytm",
-    "upi-autopay/cancel-upi-autopay-bhim",
-    "upi-autopay/find-all-upi-autopay-mandates",
-    "learn/what-is-upi-autopay",
-    "learn/pre-debit-notification"
+    "cancel-upi-autopay-paytm",
+    "cancel-upi-autopay-bhim",
+    "find-all-upi-autopay-mandates",
+    "what-is-upi-autopay",
+    "pre-debit-notification"
   ],
   "sources": [
     { "label": "MobiKwik Money: pricing and payments FAQ", "url": "https://money.mobikwik.com/pricing" },
-    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" },
-    { "label": "Google Pay Help: manage your UPI autopay mandates", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
+    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" }
   ],
   "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
 }
