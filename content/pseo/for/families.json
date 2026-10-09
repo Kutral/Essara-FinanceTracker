@@ -23,20 +23,20 @@
     {
       "heading": "Shared plans: what the family rules allow",
       "paragraphs": [
-        "Family sharing rules differ a lot, so check them before assuming a plan covers everyone. Apple's Family Sharing lets an organiser and up to five family members share services such as iCloud+, Apple Music and Apple TV without sharing one Apple Account. Google One lets the plan manager share storage with up to five family members. Google's help page describes 15 GB of personal storage for each member, then a shared pool, and says family sharing is not available on the 30 GB Lite plan. The family group must be run by an adult aged 18 or over, and members must live in the same country as the manager.",
-        "Netflix works differently. Its help centre describes extra member slots for people outside your household. The account owner pays for each slot, the extra member gets their own login and profile, and you need a Standard or Premium plan in the country where the account was set up. For people who live in the same home, that is not the mechanism to rely on."
+        "Apple's Family Sharing lets an organiser and up to five family members share services such as iCloud+, Apple Music and Apple TV without sharing one Apple Account. Google One lets the plan manager share storage with up to five family members. Google's help page describes 15 GB of personal storage for each member, then a shared pool, and says family sharing is not available on the 30 GB Lite plan. The family group must be run by an adult aged 18 or over, and members must live in the same country as the manager.",
+        "Netflix works differently. Its help centre describes extra member slots for people outside your household. The account owner pays for each slot, the extra member gets their own login and profile, and you need a Standard or Premium plan in the country where the account was set up."
       ]
     },
     {
       "heading": "Household bills that are not subscriptions",
       "paragraphs": [
-        "Electricity, broadband, phone, rent and school fees have the same tracking problem as subscriptions: they repeat, they vary, and nobody sees the whole total. Give each bill its own entry with the real cycle. A school that bills quarterly should be a quarterly entry, not a monthly guess. Essara's bill reminders and its 'Needs attention' view show what is due today or tomorrow, which helps when several people pay different bills from different accounts."
+        "Electricity, broadband, phone, rent and school fees have the same tracking problem as subscriptions: they repeat, they vary, and nobody sees the whole total. Give each bill its own entry with the real cycle. Essara's bill reminders and its 'Needs attention' view show what is due today or tomorrow, which helps when several people pay different bills from different accounts."
       ]
     },
     {
       "heading": "UPI AutoPay mandates on different phones",
       "paragraphs": [
-        "This is where families lose track. A mandate lives in the UPI app of the person who approved it, so a mandate your parent set up on their phone will not show in your app. In Google Pay, mandates sit in Live, Pending and Completed tabs, and a Pending request needs action from the person whose app it is in. Approving or changing a mandate needs that person's UPI PIN.",
+        "A mandate lives in the UPI app of the person who approved it, so a mandate your parent set up on their phone will not show in your app. In Google Pay, mandates sit in Live, Pending and Completed tabs, and a Pending request needs action from the person whose app it is in. Approving or changing a mandate needs that person's UPI PIN.",
         "Ask each family member to open their own Autopay section once and send you the merchant, the amount, the frequency and the next debit date. Add each one to your tracker under the name of the person who approved it, for example 'Dad, electricity AutoPay', so you know whose phone to check when a debit surprises you."
       ]
     },
@@ -61,7 +61,7 @@
     },
     {
       "name": "Create the account",
-      "text": "Sign up at essara.space/signup, or install the Android app from Google Play. The same account works on Android and the web app."
+      "text": "Create one account for the household list. It works across the Android app and the web app."
     },
     {
       "name": "Add household bills",
@@ -87,11 +87,11 @@
   "faqs": [
     {
       "q": "Can the whole family see one Essara list?",
-      "a": "Essara's feature list does not include family or shared accounts. One person can keep the household list on their own account, which syncs across Android and the web app, and the others can be given the totals. Nothing in the listed features lets a second person open that same account."
+      "a": "Essara's feature list does not include family or shared accounts. One person can keep the household list on their own account, which syncs across Android and the web app, and the others can be given the totals."
     },
     {
       "q": "Does Essara read our bank account or UPI AutoPay mandates automatically?",
-      "a": "No. You add every mandate yourself. Essara never connects to your bank or UPI app, never reads SMS and never asks for your UPI PIN."
+      "a": "No. You add every mandate yourself. Essara has no link to your bank or UPI app, reads no SMS and never asks for your UPI PIN."
     },
     {
       "q": "How do I see all the UPI AutoPay mandates in my family?",
@@ -99,7 +99,7 @@
     },
     {
       "q": "Is Essara free for a family?",
-      "a": "The free plan includes unlimited manual expense tracking, 3 months of history, 5 receipt scans a month and 5 subscription slots. A large household with many subscriptions may need a paid plan, which unlocks unlimited history, scans and tracking. Check essara.space/pricing for current prices."
+      "a": "The free plan has unlimited manual tracking, 3 months of history, 5 receipt scans a month and 5 subscription slots. A large household with many subscriptions may need a paid plan, which unlocks unlimited history, scans and tracking. Check essara.space/pricing for current prices."
     }
   ],
   "related": [

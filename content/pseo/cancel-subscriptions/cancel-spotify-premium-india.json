@@ -12,7 +12,7 @@
   "steps": [
     {
       "name": "Open your account page",
-      "text": "Go to spotify.com in a browser on any device and log in with the method you used to sign up, such as email, phone number, Apple, Google or Facebook. Then open your account page. Spotify's help article describes cancelling there, so use a browser if the app menu does not match."
+      "text": "Go to spotify.com in a browser on any device and log in with the method you used to sign up, such as email, phone number, Apple, Google or Facebook. Then go to your account page, where Spotify's help says the cancel option is."
     },
     {
       "name": "Select Cancel plan",
@@ -35,35 +35,35 @@
     {
       "heading": "What happens to your plan after you cancel",
       "paragraphs": [
-        "Spotify's billing help says each Premium plan is charged once per month. Cancelling stops the next monthly charge. It does not reverse one already taken, and Spotify's refund page says you keep what you paid for and stay on Premium until the end of the billing period.",
+        "Spotify's refund page says that if you no longer want Premium, you can cancel any time and keep what you paid for, with Premium running until the end of your billing period. Cancelling stops the next charge. It does not reverse one already taken.",
         "Cancelling during a zero-priced free trial switches the account to free straight away. Zero-priced trials and legacy Premium plans cannot be reactivated once cancelled, so returning later means signing up on the current plan list."
       ]
     },
     {
       "heading": "Refunds and plans bought through a partner",
       "paragraphs": [
-        "Spotify's refund page says that if you no longer want Premium, you can cancel any time and keep what you paid for. It does not promise a refund for unused days in the current month, so if you want money back for a specific charge, contact Spotify support with the transaction reference from your receipt. Gift cards bought from a store cannot be refunded by Spotify.",
-        "Payments made through a partner are refunded by that partner, whose details appear under Your plan on your account page. For a Google Play charge, use the Play Store refund request option instead."
+        "Spotify's refund page says it does not refund gift cards bought from a store, and that you should contact the partner for payments made through one. It does not promise a refund for unused days in the current month, so if you want money back for a specific charge, contact Spotify support with the transaction reference from your receipt.",
+        "Payments made through a partner are refunded by that partner, whose details appear under Your plan on your account page. For a charge made through Google Play Billing, check Spotify's Google Play Billing help and Google's refund options."
       ]
     },
     {
       "heading": "Canceled but still charged",
       "paragraphs": [
-        "The most common cause is being logged in to a different Spotify account from the one you cancelled. Check the account page you are on before trying again. Spotify's help says that if you cancelled just after a payment went through, you will not be charged again and can keep Premium until the account switches to free.",
-        "A second charge in one month can happen when a failed payment is retried. Your bank statement may show both the failed attempt and the successful one, and a pending entry is usually a temporary authorisation from your payment provider."
+        "The most common cause, according to Spotify's help, is being logged in to a different Spotify account from the one you cancelled. Check which account you are on, then log out and back in if needed.",
+        "Spotify's help has separate articles for Canceled but still charged and Charged twice. Start with the one that matches your bank statement, and keep the receipt and transaction reference when you contact Spotify support."
       ]
     },
     {
       "heading": "Stopping the UPI AutoPay mandate",
       "paragraphs": [
-        "Spotify's UPI help page says you can pay through a UPI app, by UPI ID or by QR code on desktop, and that your UPI provider must support recurring payments through UPI AutoPay. It does not say how each renewal is collected, so after you cancel, check the AutoPay or Mandates list in every UPI app you have used with Spotify.",
-        "In Google Pay, Google's help says you can change or revoke a mandate from the Live tab under Autopay, with your UPI PIN. A revoked mandate cannot be debited under that mandate again. Google Pay also notifies you 24 hours before a bank debit, and you can pause or cancel from that notification. Cancel the Spotify plan first, then revoke the mandate, so no payment is left waiting to fail."
+        "Spotify's UPI help says you can pay through a UPI app, by UPI ID or by QR code on desktop, and that your UPI provider must support recurring payments through UPI Autopay. It does not say how each renewal is collected, so after you cancel, check the AutoPay or Mandates list in every UPI app you have used with Spotify.",
+        "In Google Pay, Google's help says you can change or revoke a mandate from the Live tab under Autopay, with your UPI PIN. A revoked mandate cannot be debited under that mandate again. Cancelling the Spotify plan and revoking the mandate are separate steps, so do both."
       ]
     },
     {
       "heading": "Why tracking renewals helps",
       "paragraphs": [
-        "Spotify renews monthly, so a Premium plan you have stopped using can run for months unnoticed. Writing it down with its renewal date and monthly cost makes the next debit visible before it happens. Essara works this way: you add each subscription or UPI mandate yourself, set its renewal date and see the monthly and yearly cost in one place. It does not connect to your bank, UPI app or SMS, so every entry is typed in by you."
+        "A Premium plan you have stopped using can run on for months if nobody notices the monthly debit. Entering it in Essara with its renewal date and monthly cost makes the next charge visible before it happens. You type each entry yourself, because Essara does not connect to your bank, UPI app or SMS."
       ]
     }
   ],
@@ -78,7 +78,7 @@
     },
     {
       "q": "Does Spotify offer a prepaid Premium plan in India?",
-      "a": "I could not confirm one in Spotify's official help pages, which describe monthly charges. Check the plan options at checkout, and if a plan is prepaid, the payment screen should say so before you pay."
+      "a": "Spotify's current India help pages do not describe a prepaid Premium plan. They refer to a billing date and a billing period, and the 3-month and 6-month prepaid plans from Spotify's 2019 India launch have no current source. Check the plan list at checkout before you pay."
     },
     {
       "q": "Spotify still debited my UPI account after I cancelled. What now?",
@@ -86,15 +86,21 @@
     },
     {
       "q": "Why is there no cancel option on my Spotify account?",
-      "a": "Spotify's help gives three common reasons. The account may be on free, so there is no Premium plan to cancel. The plan may be billed by a partner, so you cancel with that partner. Or you may be a member of a Duo or Family plan, where only the plan manager can cancel the whole plan."
+      "a": "Spotify's cancellation help covers three situations. The account may be on free, so there is no Premium plan to cancel. The plan may be billed by a partner, so you cancel with that partner. Or you may be a member of a Duo or Family plan, where removing yourself does not cancel the plan and only the plan manager can cancel it for everyone."
     }
   ],
-  "related": ["cancel-youtube-premium-india", "cancel-google-play-subscriptions", "find-all-upi-autopay-mandates", "free-trial-auto-renewal", "cancel-upi-autopay-google-pay"],
+  "related": [
+    "cancel-subscriptions/cancel-youtube-premium-india",
+    "cancel-subscriptions/cancel-google-play-subscriptions",
+    "upi-autopay/find-all-upi-autopay-mandates",
+    "learn/free-trial-auto-renewal",
+    "upi-autopay/cancel-upi-autopay-google-pay"
+  ],
   "sources": [
     { "label": "Spotify Support: How to cancel Premium plans (India)", "url": "https://support.spotify.com/in/article/cancel-premium/" },
     { "label": "Spotify Support: Refund policy (India)", "url": "https://support.spotify.com/in/article/refund-policy/" },
     { "label": "Spotify Support: Paying for Spotify with UPI (India)", "url": "https://support.spotify.com/in/article/paying-for-spotify-with-upi/" },
-    { "label": "Google Pay Help: Manage AutoPay", "url": "https://support.google.com/pay/india/answer/10452280?hl=en" }
+    { "label": "Google Pay Help: Learn how to manage recurring payments", "url": "https://support.google.com/pay/india/answer/10840624?hl=en" }
   ],
   "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
 }

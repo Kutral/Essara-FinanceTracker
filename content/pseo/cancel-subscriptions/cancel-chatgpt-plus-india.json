@@ -4,7 +4,7 @@
   "title": "Cancel ChatGPT Plus India: Web, Android & iPhone (2026)",
   "metaDescription": "Cancel ChatGPT Plus from the web, Google Play or the App Store, stop the next renewal, and check any UPI mandate. Plain steps for users in India.",
   "h1": "How do I cancel ChatGPT Plus from India and stop future charges?",
-  "summary": "To cancel ChatGPT Plus in India, sign in to ChatGPT on the web, open Settings, select Billing and choose Cancel under Cancel plan. If you subscribed through Google Play or the Apple App Store, you must cancel in that store, because cancelling on the web does not end a store subscription. Cancel at least 24 hours before your next billing date, and paid features continue until the end of the current billing period.",
+  "summary": "To cancel ChatGPT Plus in India, sign in to ChatGPT on the web, open Settings, select Billing and choose Cancel plan. If you subscribed through Google Play or the Apple App Store, you must cancel in that store, because cancelling on the web does not end a store subscription. Cancel at least 24 hours before your next billing date, and paid features continue until the end of the current billing period.",
   "updated": "2026-10-09",
   "keywords": ["cancel ChatGPT Plus India", "cancel ChatGPT subscription", "ChatGPT Plus refund India", "cancel ChatGPT Google Play", "ChatGPT UPI AutoPay"],
   "about": ["ChatGPT Plus", "OpenAI", "UPI AutoPay"],
@@ -12,27 +12,27 @@
   "steps": [
     {
       "name": "Find out where you subscribed",
-      "text": "Check your payment receipt first. A plan bought on chatgpt.com does not appear in your Apple or Google subscriptions, and a store plan does not appear in the web billing settings. OpenAI says to cancel through the platform that billed you, signed in with the account used for the purchase."
+      "text": "Check your payment receipt first. OpenAI says a plan created on chatgpt.com has to be cancelled on chatgpt.com, and a plan bought through Apple or Google has to be cancelled in that store. Sign in with the account used for the purchase."
     },
     {
       "name": "Cancel a web-billed plan",
-      "text": "Sign in to ChatGPT, open your account menu, choose Settings, select Billing, then under Cancel plan select Cancel. OpenAI's other help pages show slightly different labels, such as Subscription and then Manage, so look for the cancel option under Billing or Subscription settings if the names differ."
+      "text": "Sign in to ChatGPT, open your profile icon, choose Settings, select Billing, then choose Cancel plan. Workspace (Business) plans use a different route, so check your account type first."
     },
     {
       "name": "Cancel an Android or Google Play plan",
-      "text": "Open the Play Store app, go to Subscriptions, select ChatGPT, choose Cancel subscription and follow the prompts. You can also open your Google Play subscriptions on the web, sign in with the same Google account, click Manage next to ChatGPT and choose Cancel subscription."
+      "text": "Open the Play Store app, tap Menu, then Subscriptions. Select ChatGPT, tap Cancel subscription and follow the prompts. On a computer, open Google Play's subscriptions page, click Manage next to ChatGPT and choose Cancel subscription."
     },
     {
       "name": "Cancel an iPhone App Store plan",
-      "text": "Open Settings, tap your name, tap Subscriptions, choose ChatGPT, then select Cancel Subscription and confirm. If there is no cancel button and an expiry date is shown, the subscription has already been cancelled."
+      "text": "Open Settings, tap your name, tap Subscriptions, choose ChatGPT, then select Cancel Subscription and confirm. The cancel button on the ChatGPT website does not end an App Store plan."
     },
     {
       "name": "Do not rely on uninstalling or deleting",
-      "text": "Uninstalling the ChatGPT app does not cancel a subscription. Deleting your ChatGPT account cancels only plans billed directly by ChatGPT, so cancel any App Store plan before you delete the account."
+      "text": "Uninstalling the ChatGPT app does not cancel a subscription. Deleting your ChatGPT account cancels plans billed directly by ChatGPT, but it does not end an App Store subscription, so cancel that in the store first."
     },
     {
-      "name": "Check your payment method",
-      "text": "Removing a saved card or UPI method does not stop a subscription. After cancelling, check the AutoPay or Mandates section of your UPI app, or your card statement, for any ChatGPT charge still scheduled."
+      "name": "Check the payment side",
+      "text": "Cancelling the plan is what stops the renewal. After cancelling, check the AutoPay or Mandates section of your UPI app, or your card's recurring payments, for any ChatGPT or OpenAI charge that is still scheduled."
     }
   ],
   "sections": [
@@ -40,21 +40,21 @@
       "heading": "Why the store you paid through matters",
       "paragraphs": [
         "ChatGPT Plus can be bought on the web, through Google Play on Android, or through the Apple App Store on iPhone. Each store keeps its own renewal schedule, so the web Billing page cannot stop a plan that Apple or Google is charging. If you have used more than one route, check each one.",
-        "If you cannot find the Cancel option, the usual cause is that you are signed in to a different ChatGPT account, or that you have two subscriptions on different platforms. Sign in with the account that received the receipt and check the store that matches it."
+        "If you cannot find the Cancel option, first check that you are signed in with the account that received the receipt. Then check each store for a second subscription, since a plan bought on one platform will not show up on another."
       ]
     },
     {
       "heading": "What happens after you cancel",
       "paragraphs": [
         "A normal cancellation stops future renewals but keeps paid features on until the end of the current billing period. OpenAI advises cancelling at least 24 hours before your next billing date so that the next period is not charged. Cancelling does not refund charges you have already paid.",
-        "Refunds are a separate request from cancellation. For a web purchase, OpenAI's refund article says a discretionary refund may be available for an unused individual subscription if you contact OpenAI within seven days of the charge. This is not guaranteed. Apple purchases must be refunded by Apple. For Google Play purchases, OpenAI's help article says to request the refund through OpenAI Support while signed in to the ChatGPT account used for the charge. Google's own policy also gives a 48-hour window for some refund requests, so act early."
+        "Refunds are a separate request from cancellation. For a web purchase, OpenAI's refund article describes a discretionary refund for an unused individual subscription if you contact OpenAI within seven days of the charge. Approval is not guaranteed, and copies of the article have shown different wording, so check the live version. Apple purchases must be refunded by Apple, and Google Play purchases follow Google Play's refund policy."
       ]
     },
     {
       "heading": "UPI and card payments in India",
       "paragraphs": [
-        "OpenAI's multi-currency billing article says Indian rupees are supported and that UPI is available for Go and Plus plans on web purchases, but not for Pro or Business. In the ChatGPT Go promotion for India, UPI users may see a temporary ₹1 charge each billing cycle to verify the payment method. OpenAI says it is refunded.",
-        "The OpenAI pages I could read did not describe a UPI AutoPay mandate that ChatGPT creates on your behalf, so do not assume one exists. If a recurring UPI mandate in your UPI app still shows a ChatGPT or OpenAI payee after you cancel, revoke it there. For a card, check the recurring payments with your bank."
+        "OpenAI's multi-currency billing article says UPI is available for the Go and Plus plans on purchases made on chatgpt.com, and not for Pro or Business. The same article says purchases made through the iOS and Android apps are billed by Apple or Google. We could not confirm from the cached article whether INR is on the currency list, so check the live article or the pricing page at checkout.",
+        "The OpenAI pages we could read did not describe a UPI AutoPay mandate that ChatGPT creates on your behalf, so do not assume one exists. If a recurring UPI mandate in your UPI app still shows a ChatGPT or OpenAI payee after you cancel, revoke it there. For a card, check the recurring payments with your bank."
       ]
     },
     {
@@ -67,27 +67,27 @@
   "faqs": [
     {
       "q": "Will cancelling ChatGPT Plus refund my last payment?",
-      "a": "Not automatically. OpenAI says cancelling stops future renewals but does not refund past charges. A web refund may be possible if you contact OpenAI within seven days of an unused charge, and Apple purchases are refunded by Apple."
+      "a": "Not automatically. OpenAI says cancelling stops future renewals but does not refund past charges. A web refund may be possible if you contact OpenAI within seven days of an unused charge. That is discretionary, not guaranteed, and Apple purchases are refunded by Apple."
     },
     {
       "q": "Do I keep ChatGPT Plus after I cancel?",
       "a": "Yes, until the end of the current billing period. Paid features remain available until then, and the subscription does not renew after that date."
     },
     {
-      "q": "Why is there a ₹1 charge on my UPI account?",
-      "a": "On the ChatGPT Go promotion for India, OpenAI says UPI users may see a temporary ₹1 charge in each billing cycle. It is used to verify the payment method and is refunded."
+      "q": "Does cancelling on the website stop a Google Play or App Store plan?",
+      "a": "No. OpenAI's help says a plan bought through the App Store or Google Play has to be cancelled through that store. Check your App Store or Google Play subscriptions list to confirm that the plan shows as cancelled."
     },
     {
       "q": "Does deleting my ChatGPT account cancel the subscription?",
-      "a": "It cancels plans billed directly by ChatGPT. It does not cancel an Apple App Store subscription, so cancel that in your iPhone settings first."
+      "a": "It cancels plans billed directly by ChatGPT. It does not end an Apple App Store subscription, so cancel that in your iPhone settings first."
     }
   ],
   "related": ["cancel-linkedin-premium-india", "cancel-microsoft-365-india", "cancel-apple-subscriptions-iphone", "cancel-google-play-subscriptions", "free-trial-auto-renewal"],
   "sources": [
-    { "label": "OpenAI Help: Canceling your ChatGPT subscription", "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription" },
+    { "label": "OpenAI Help: How do I cancel my ChatGPT Plus subscription?", "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription" },
     { "label": "OpenAI Help: Cancel an Apple subscription for ChatGPT Plus on iOS", "url": "https://help.openai.com/en/articles/7905690-how-do-i-cancel-my-apple-subscription-for-chatgpt-plus-in-the-chatgpt-ios-app" },
-    { "label": "OpenAI Help: Cancel a subscription in the ChatGPT Android app", "url": "https://help.openai.com/en/articles/8258076-how-to-cancel-my-plus-subscription-in-the-chatgpt-android-app" },
-    { "label": "OpenAI Help: How do I request a refund for my ChatGPT subscription?", "url": "https://help.openai.com/en/articles/7232895-how-do-i-request-a-refund-for-my-chatgpt-subscription" }
+    { "label": "OpenAI Help: Cancel a Plus subscription in the ChatGPT Android app", "url": "https://help.openai.com/en/articles/8258076-how-to-cancel-my-plus-subscription-in-the-chatgpt-android-app" },
+    { "label": "OpenAI Help: Multi-currency billing", "url": "https://help.openai.com/en/articles/10421635" }
   ],
   "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }
 }

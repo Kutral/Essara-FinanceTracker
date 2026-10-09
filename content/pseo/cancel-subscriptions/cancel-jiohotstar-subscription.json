@@ -12,7 +12,7 @@
   "steps": [
     { "name": "Check how you paid", "text": "Look at your payment confirmation email, your App Store or Google Play purchase history, or your Jio account if the plan came with a recharge." },
     { "name": "App Store: cancel in iPhone Settings", "text": "Open Settings, tap your name, tap Subscriptions, choose JioHotstar and tap Cancel Subscription. If there is no Cancel button, or you see an expiry message in red, the subscription has already been cancelled." },
-    { "name": "Google Play: cancel in Subscriptions", "text": "On Android, go to subscriptions in Google Play, select JioHotstar and tap Cancel subscription. On a computer, use the same Subscriptions page at play.google.com and click Cancel subscription." },
+    { "name": "Google Play: cancel in Subscriptions", "text": "On Android, go to subscriptions in Google Play, select JioHotstar and tap Cancel subscription. On a computer, go to subscriptions in Google Play at play.google.com, click Manage, then Cancel subscription." },
     { "name": "Jio recharge: change the Jio plan", "text": "If JioHotstar came with a Jio plan, stop or change that plan through the Jio app or customer care, and ask for written confirmation." },
     { "name": "Direct payment: use your account", "text": "If you paid JioHotstar directly, open your account in the app or on the website and look for the subscription or plan section. Labels can change between app versions." },
     { "name": "Keep proof and check the next bill", "text": "Save the cancellation confirmation, then check your next statement or store billing history to make sure no renewal goes through." }
@@ -22,14 +22,14 @@
       "heading": "Why the billing channel decides where you cancel",
       "paragraphs": [
         "A subscription bought through the App Store is managed by Apple, and one bought through Google Play is managed by Google. Apple's help says you can cancel a subscription from Apple using the web or your device, and Google's help says that uninstalling an app does not cancel its subscription. Deleting the JioHotstar app is therefore not enough, whichever store you used.",
-        "A plan bought directly from JioHotstar, or one that came bundled with a Jio recharge, is managed in a different place. In those cases the account or the Jio plan is the place to look, and you should check which channel applies before you cancel anything."
+        "A plan bought directly from JioHotstar, or one that came with a Jio recharge, is managed in a different place. In those cases the account or the Jio plan is the place to look, and you should check which channel applies before you cancel anything."
       ]
     },
     {
-      "heading": "Jio recharge plans and JioHome Wi-Fi bundles",
+      "heading": "Jio recharge plans",
       "paragraphs": [
-        "Jio's offer page for JioHotstar says that to receive the subscription you must be active on an eligible plan during the offer period. The same page says Jio can withdraw an offer at any time without prior notice, but benefits already earned before the withdrawal are not changed.",
-        "Jio's JioHome Wi-Fi plans can include JioHotstar as well. Jio says that in that case you do not need to buy or renew a JioHotstar subscription separately. If the benefit comes with one of these plans, the Jio plan is the thing to check, not the app alone."
+        "Jio's terms for the JioHotstar Special Offer say the subscription is available on eligible recharges during the offer period, which started on 1 October 2026. To receive it, you must be active on an eligible plan during the offer period, and you must log in to JioHotstar with the same Jio number.",
+        "Jio's terms also say Jio can withdraw or change the offer without prior notice, but benefits already earned before a withdrawal are not changed. So if JioHotstar came with your recharge, the Jio plan is the thing to check, not the app alone."
       ]
     },
     {
@@ -56,7 +56,7 @@
     {
       "heading": "Keeping streaming renewals in view",
       "paragraphs": [
-        "A streaming plan that renews quietly can cost more over a year than it seems month to month. Adding JioHotstar to Essara as a subscription, with its renewal date and cost, means it appears in your renewal timeline before the next charge. Essara works manually: you enter the plan yourself, and it does not connect to your bank, UPI app or SMS."
+        "A streaming plan that renews quietly adds up over a year. Adding JioHotstar to Essara with its cost and renewal date puts it in your upcoming renewals before the next charge. You enter the details yourself, because Essara does not connect to your bank, UPI app or SMS."
       ]
     }
   ],

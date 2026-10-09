@@ -100,7 +100,7 @@
     },
     {
       "q": "Does Essara connect to our bank accounts?",
-      "a": "No. Essara is manual. You add subscriptions, bills and UPI AutoPay mandates yourself. It never connects to your bank or UPI app, never reads SMS and never asks for your UPI PIN."
+      "a": "No. You add subscriptions, bills and UPI AutoPay mandates yourself, and nothing is read from your bank, UPI app or SMS."
     }
   ],
   "related": [

@@ -11,7 +11,7 @@
   "stepsHeading": "How to end Amazon Prime on amazon.in",
   "steps": [
     { "name": "Sign in", "text": "Sign in to your account on amazon.in in a web browser." },
-    { "name": "Open your Prime membership", "text": "Go to Your Account and open the Amazon Prime membership page, where Amazon's terms say you adjust membership settings." },
+    { "name": "Open your Prime membership", "text": "Go to Your Account and open the Amazon Prime membership page. Amazon's Prime terms say you adjust membership settings from Your Account." },
     { "name": "Select End membership", "text": "On the membership page, choose End membership." },
     { "name": "Follow the on-screen steps", "text": "Complete the prompts and note any refund amount or end date shown before you confirm." },
     { "name": "Switch off Auto Pay", "text": "In the Amazon app, open the Amazon Pay dashboard, go to Account, then Auto Pay, select Amazon Prime and choose Disable." }
@@ -21,34 +21,34 @@
       "heading": "Where to cancel: web, Google Play and payment apps",
       "paragraphs": [
         "Amazon's help page for ending membership gives one route: the Amazon Prime membership page, End membership, then the on-screen instructions. It does not list separate steps for the Android app, an iPhone or a TV, so use a browser on the device you have.",
-        "The place to cancel depends on where you bought the membership. If you signed up through the Android shopping app or the Prime Video Android app using Google Play, you must manage the subscription in Subscriptions on Google Play. Amazon's terms allow a refund through Google Play only if less than 48 hours have passed since the purchase. If you bought it through Bharat Connect or a bank or payment app, manage it in the Subscriptions section of that app, and Amazon's terms say such purchases are not eligible for a refund."
+        "The place to cancel depends on where you bought the membership. If you signed up through the Android shopping app or the Prime Video Android app using Google Play, you must manage the subscription in Subscriptions on Google Play. Amazon's terms allow a refund through Google Play only if less than 48 hours have passed since the purchase. If you bought it through Bharat Connect or a bank or payment app, manage it in the Subscriptions section of that app. Amazon's terms say such purchases are not eligible for a refund."
       ]
     },
     {
       "heading": "Refunds on annual and monthly plans",
       "paragraphs": [
-        "For an annual Prime, Prime Lite or Prime Shopping Edition membership, Amazon says it refunds the full fee on cancellation, provided you have made no eligible purchases and used no Prime benefits since your latest membership charge. If you have used a benefit or made an eligible purchase, no refund is given. Otherwise the membership fee is non-refundable.",
-        "On a monthly plan, Amazon's recurring-payments terms say that if you cancel before the end of the current plan, you are not entitled to any compensation for the unused period. A prorated refund applies when Amazon itself ends the membership, which it does by issuing a credit note. Prime Lite and Prime Shopping Edition have their own terms, so check the plan you are on before you cancel."
+        "For an annual Prime, Prime Lite or Prime Shopping Edition membership, Amazon says it refunds the full fee on cancellation, provided you have made no eligible purchases and used no Prime benefits since your latest membership charge. If you have used a benefit or made an eligible purchase, no refund is given.",
+        "On a monthly plan, Amazon's recurring-payments terms say that if you cancel before the end of the current plan, you get no compensation for the unused period. Amazon's Prime terms describe a prorated refund, issued as a credit note, where Amazon itself ends the membership. Prime Lite and Prime Shopping Edition have their own terms, so check the plan you are on before you cancel."
       ]
     },
     {
       "heading": "Turning off auto-renewal instead of ending Prime",
       "paragraphs": [
         "Turning off auto-renewal is different from ending the membership. Amazon's terms say you can cancel or disable Recurring Payments by contacting customer support or in the settings of your Amazon.in account. Your membership then continues for the rest of the current period and does not renew at the end of it.",
-        "Renewal also stops if a recurring payment is declined, for example because a card has expired. If you cancel or disable Recurring Payments during a free trial or promotional period, any unused part of that period lapses and is not available to you."
+        "Renewal also stops if a recurring payment is declined, for example because a card has expired. If you still want Prime after that, you will need to pay for the next period separately."
       ]
     },
     {
       "heading": "Switching off Amazon Auto Pay and the UPI mandate",
       "paragraphs": [
-        "Amazon's UPI help lists Amazon Prime among the categories that support Auto Pay. To switch it off, open the Amazon Pay dashboard in the Amazon app, go to Account, then Auto Pay, choose the category and select Disable or the Pause or Delete option, then confirm.",
-        "A UPI mandate is also recorded in your UPI app, so after the Amazon steps check the AutoPay or Mandates section there. The label can differ by app version. NPCI's UPI Help portal at upihelp.npci.org.in is the other place to look up mandates. Amazon's UPI help also says that for third-party services you should check the merchant's own platform to confirm the payment status."
+        "Amazon's UPI help lists Amazon Prime among the categories that support Auto Pay. To switch it off, open the Amazon Pay dashboard in the Amazon app, go to Account, then Auto Pay, choose the category and select Disable, or the Pause/Delete option, then confirm.",
+        "A UPI mandate is also recorded in your UPI app, so after the Amazon steps check the AutoPay or Mandates section there. The label can differ by app version. NPCI's UPI Help portal at upihelp.npci.org.in is another place to look up mandates. Amazon's UPI help says that for third-party services, Auto Pay is set up and managed on the merchant's own platform, so check there too."
       ]
     },
     {
       "heading": "Keeping Prime renewals in view",
       "paragraphs": [
-        "Prime renews on a different date from most monthly plans, so it is easy to miss when it comes round. Adding it to Essara as a subscription, with its renewal date and what it costs over a year, lets you see it next to your other plans before it renews. Essara works manually: you enter the membership yourself, and it does not connect to your bank, UPI app or SMS."
+        "Prime renews on its own date, which for an annual plan can be a year away, so it is easy to miss. Adding it to Essara with its renewal date and annual cost lets you see it next to your other plans before it renews. You enter the membership yourself, because Essara does not connect to your bank, UPI app or SMS."
       ]
     }
   ],
