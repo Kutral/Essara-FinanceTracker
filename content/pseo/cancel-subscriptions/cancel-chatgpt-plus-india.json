@@ -86,7 +86,7 @@
   "sources": [
     { "label": "OpenAI Help: How do I cancel my ChatGPT Plus subscription?", "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription" },
     { "label": "OpenAI Help: Cancel an Apple subscription for ChatGPT Plus on iOS", "url": "https://help.openai.com/en/articles/7905690-how-do-i-cancel-my-apple-subscription-for-chatgpt-plus-in-the-chatgpt-ios-app" },
-    { "label": "OpenAI Help: Cancel a Plus subscription in the ChatGPT Android app", "url": "https://help.openai.com/en/articles/8258076-how-to-cancel-my-plus-subscription-in-the-chatgpt-android-app" },
+    { "label": "OpenAI Help: How do I request a refund for my ChatGPT subscription?", "url": "https://help.openai.com/en/articles/7232895-how-do-i-request-a-refund-for-my-chatgpt-subscription" },
     { "label": "OpenAI Help: Multi-currency billing", "url": "https://help.openai.com/en/articles/10421635" }
   ],
   "essaraTool": { "label": "Free subscription leak check", "url": "https://essara.space/tools/subscription-leak-detector" }

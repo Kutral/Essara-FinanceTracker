@@ -2,9 +2,9 @@
   "slug": "cancel-upi-autopay-bhim",
   "cluster": "upi-autopay",
   "title": "Cancel BHIM UPI AutoPay: Pause or Revoke Mandates (2026)",
-  "metaDescription": "Stop unwanted UPI AutoPay debits in BHIM. Pause or cancel a mandate with MyUPI, understand a debit already due, and use NPCI's help route if the app fails.",
+  "metaDescription": "Pause or cancel UPI AutoPay mandates in BHIM with MyUPI, including ones approved in other apps. Learn what to do about a debit already due.",
   "h1": "How do you pause or cancel a UPI AutoPay mandate in BHIM?",
-  "summary": "BHIM's MyUPI assistant shows recurring UPI payments in one place, including mandates created in other UPI apps, and lets you pause, restart or cancel a payment depending on the mandate. Cancelling stops future debits but does not reverse a payment that has already gone through, so act before the next pre-debit notification. If the app will not act, NPCI's UPI Help assistant and your bank are the fallbacks.",
+  "summary": "BHIM's MyUPI assistant, launched by NPCI's subsidiary NBSL, shows recurring UPI payments in one place, including mandates created in other UPI apps. Depending on the mandate, you can pause, restart or cancel it, so the options differ case by case. Cancelling stops future debits but does not reverse a payment that has already gone through, so act within the 24-hour pre-debit window if you can.",
   "updated": "2026-10-09",
   "keywords": ["cancel BHIM UPI AutoPay", "BHIM AutoPay mandate", "pause UPI AutoPay BHIM", "BHIM MyUPI mandates", "revoke UPI mandate BHIM"],
   "about": ["BHIM", "UPI AutoPay", "NPCI", "MyUPI"],
@@ -12,96 +12,103 @@
   "steps": [
     {
       "name": "Open BHIM and find MyUPI",
-      "text": "Open the BHIM Payments app and look for MyUPI, the AI assistant added to the app. It brings recurring UPI payments into one view, including mandates created through other UPI apps. The entry point can differ by app version, so look for it on the home screen or in the menu."
+      "text": "Open the BHIM Payments app and look for MyUPI, the AI assistant added in 2026. Its entry point can differ by app version, so check the home screen and the menu."
     },
     {
       "name": "Find the mandate you want to stop",
-      "text": "Locate the merchant or service. Note the amount, frequency and next debit date shown, so you can match it to the pre-debit notification you receive before the debit. If MyUPI does not list it, try the AutoPay or Mandates section."
+      "text": "Match the merchant, amount and next debit date against the pre-debit alert you received. If MyUPI does not list the mandate, look in the AutoPay, Mandates or Subscriptions section of the app where it was approved."
     },
     {
-      "name": "Choose pause or cancel",
-      "text": "Pause stops debits for now, and cancel ends the mandate. The options depend on the mandate, so do not assume both are available. Choose the one that matches what you want."
+      "name": "Choose pause, restart or cancel",
+      "text": "Press coverage says the options depend on the mandate, and merchants can switch off pause and cancel for their mandates. Do not assume both are available."
     },
     {
       "name": "Confirm the change",
-      "text": "Complete the confirmation, which may need your UPI PIN or biometrics. Screenshot the confirmation screen and any reference number."
+      "text": "Complete the confirmation, which may ask for your UPI PIN or biometrics. Screenshot the confirmation screen and any reference number."
     },
     {
       "name": "Check the status",
       "text": "Reopen the mandate list and confirm that it shows as paused or cancelled. Keep the screenshot in case a debit arrives later."
     },
     {
-      "name": "Cancel the service with the merchant",
-      "text": "Stopping the mandate does not end your account with the merchant on its own. Cancel the subscription in the merchant's app or website as well, so the service does not keep expecting payment."
+      "name": "Cancel with the merchant",
+      "text": "Stopping the mandate does not end your account with the merchant on its own. Cancel the subscription in the merchant's app or website as well."
     },
     {
       "name": "Use NPCI's help route if the app fails",
-      "text": "If you cannot find the mandate or the app will not act on it, use NPCI's UPI Help assistant at upihelp.npci.org.in. NPCI says the assistant can help you view and manage mandates. Your bank can also help with a mandate that will not stop."
+      "text": "If the mandate cannot be found or BHIM will not act on it, try NPCI's UPI Help portal at upihelp.npci.org.in, or ask your bank."
     }
   ],
   "sections": [
     {
-      "heading": "Where BHIM keeps your mandates",
+      "heading": "What MyUPI covers",
       "paragraphs": [
-        "MyUPI is an AI-powered assistant inside the BHIM Payments app, introduced by NBSL, a wholly owned subsidiary of NPCI. A report on the launch in Outlook Money says it lets you view UPI transactions linked to your bank accounts and UPI apps in one place, and that recurring payments are brought under one view, including mandates created in other UPI apps.",
-        "I could not confirm from BHIM's own help pages the exact button that opens a single mandate. Treat the steps above as a guide and check the screen in your app version."
+        "Outlook Money's report on MyUPI, dated 23 September 2026, says it lets you view recurring payments across apps and manage them, and that users can pause, restart or cancel a recurring payment depending on the mandate. The same report says it can help you identify a mandate when money is deducted without a UPI PIN prompt.",
+        "I could not find an official BHIM help page with menu steps, so the path to a single mandate comes from press coverage. Check the screen in your own app version before you rely on it."
       ]
     },
     {
-      "heading": "Pause versus cancel",
+      "heading": "Why some buttons are missing",
       "paragraphs": [
-        "A pause stops debits for a mandate without removing it. The Outlook Money report says users can pause, restart or cancel a recurring payment depending on the mandate, so the options differ case by case. Cancelling ends the mandate. If you want the service back later, the merchant will usually need a fresh approval with your UPI PIN.",
-        "The merchant's setup also affects what you can do. Razorpay's developer FAQ says a UPI mandate cannot be modified, only paused or cancelled by the customer from the UPI app. It also says a merchant using its platform can switch off the pause and cancel buttons in UPI apps. If the buttons are missing for one of your mandates, the restriction may come from the merchant rather than from BHIM."
+        "Razorpay's developer FAQ says a UPI mandate cannot be modified, only paused or cancelled by the customer in the UPI app. It also says a merchant can restrict customers from pausing and cancelling, which removes those buttons from UPI apps.",
+        "So if BHIM shows no pause or cancel option for a mandate, the merchant may have set that restriction. In that case, end the service with the merchant directly, and use the complaint route if debits continue."
       ]
     },
     {
-      "heading": "What happens to a debit that is already due",
+      "heading": "A debit that is already due",
       "paragraphs": [
-        "According to Razorpay's developer FAQ, a pre-debit notification goes out about 24 hours before a UPI AutoPay debit. That notice is your window to pause or cancel. Once a debit has gone through, cancelling the mandate stops future debits but does not reverse that payment.",
-        "If a debit you did not expect still goes through after you cancel, raise a complaint for that transaction in BHIM first. Under the UPI dispute order that CRED's UPI FAQ reproduces, the complaint then goes to the PSP bank, your bank, NPCI, and finally the Banking Ombudsman or the Ombudsman for Digital Complaints. Keep your screenshots and the transaction reference for each step."
+        "Razorpay's FAQ says pre-debit notifications go out 24 hours before a debit, and that they give you the option to pause or cancel. That window is when a change will stop the next payment.",
+        "Once a debit has gone through, cancelling stops future debits but does not reverse it. If a debit you did not expect still goes through, raise a complaint in BHIM first. CRED's UPI FAQ, which reproduces the NPCI dispute process, then moves the matter to the PSP bank, your bank and NPCI, and finally the Banking Ombudsman or the Ombudsman for Digital Complaints."
       ]
     },
     {
-      "heading": "Do not confuse the Safety Switch with a pause",
+      "heading": "The Safety Switch is not a pause",
       "paragraphs": [
-        "MyUPI also has a Safety Switch for situations such as a lost phone or a suspicious debit. Outlook Money describes it as blocking a linked bank account to stop further transactions from that account. That is a blunt tool. It affects every payment from the account, not just one mandate, so use it only when you need a full stop.",
-        "Confirm with your bank how the account is restored before you use it."
+        "MyUPI also has a Safety Switch, which Outlook Money describes as a way to block a linked bank account for situations such as a lost phone, an unexpected debit or a suspected breach. It stops transactions from that account, not from one mandate.",
+        "Use it only when you need every payment from the account stopped, and confirm with your bank how the account is restored."
       ]
     },
     {
-      "heading": "How tracking renewals in Essara helps",
+      "heading": "Mandates that cannot be cancelled in the app",
       "paragraphs": [
-        "Essara is a manual tracker. You add each mandate yourself, and it shows the auto-debits due in the coming week and month. It does not connect to your bank, UPI app or SMS, and it never asks for your UPI PIN, so it cannot pause a mandate for you. It simply keeps the date in front of you before the pre-debit window closes."
+        "HDFC Bank says cancelling debt collection and loan repayment mandates through a UPI app is not allowed, so contact the merchant directly for those. HDFC's guide also says a completed payment is not reversed when you cancel."
+      ]
+    },
+    {
+      "heading": "Keeping BHIM mandates in one place",
+      "paragraphs": [
+        "Essara works from a list you build yourself. Add each mandate with its amount, frequency and next debit date, and it shows the auto-debits due in the coming week and month. It does not connect to BHIM, your bank or SMS, and it never asks for your UPI PIN, so it cannot pause a mandate for you."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Can I pause a UPI AutoPay mandate in BHIM?",
-      "a": "Yes, according to Outlook Money's report on the MyUPI launch, users can pause, restart or cancel a recurring payment depending on the mandate. I could not confirm the exact button in BHIM's own help pages, so check the mandate screen in your app version."
-    },
-    {
-      "q": "Will cancelling in BHIM refund my last debit?",
-      "a": "Not by itself. Cancelling stops future debits, but it does not reverse a payment that has already been processed. If a debit you did not authorise went through, raise a UPI complaint for that transaction, starting in the app, and escalate if the first step does not resolve it."
+      "a": "Press coverage of MyUPI says you can pause, restart or cancel a recurring payment depending on the mandate. I could not confirm the exact button in BHIM's own help pages, so check the mandate screen in your app version."
     },
     {
       "q": "Why is there no pause or cancel button for my mandate?",
-      "a": "Razorpay's developer FAQ says a merchant can restrict pausing and cancelling, which removes those buttons from UPI apps. If that is the case, you need to end the service with the merchant. If the debits continue, use the complaint route and NPCI's help assistant."
+      "a": "Razorpay's developer FAQ says a merchant can restrict pausing and cancelling, which removes those buttons from UPI apps. If that is the cause, end the service with the merchant and use NPCI's help route if debits continue."
     },
     {
       "q": "How much notice do I get before a UPI AutoPay debit?",
-      "a": "Pre-debit notifications go out about 24 hours before the debit, according to Razorpay's developer FAQ. That gives you a window to pause or cancel, so set a reminder as soon as you receive the notice."
+      "a": "Razorpay's developer FAQ says pre-debit notifications go out 24 hours before the debit and give you the option to pause or cancel. Set a reminder as soon as you receive the notice."
     },
     {
-      "q": "Can I stop every UPI debit from my bank at once?",
-      "a": "BHIM's Safety Switch can block a linked bank account to stop further transactions from it. That affects every payment from the account, not one mandate, so use it only for a full stop."
+      "q": "Will cancelling in BHIM give me my last debit back?",
+      "a": "No. Cancelling stops future debits only. If a debit you did not authorise went through, raise a UPI complaint for that transaction in BHIM first, and escalate if the first step does not resolve it."
+    },
+    {
+      "q": "Can the Safety Switch replace cancelling a mandate?",
+      "a": "No. The Safety Switch blocks a whole bank account for a period, not a single mandate. Use it only when you need every payment from that account stopped, and confirm with your bank how to restore it."
     }
   ],
   "related": ["cancel-upi-autopay-phonepe", "cancel-upi-autopay-paytm", "find-all-upi-autopay-mandates", "cancel-upi-autopay-amazon-pay", "pre-debit-notification"],
   "sources": [
     { "label": "Outlook Money: BHIM users can now track transactions, manage mandates through MyUPI", "url": "https://www.outlookmoney.com/banking/bhim-users-can-now-track-transactions-manage-mandates-through-myupi" },
     { "label": "Razorpay: UPI mandates FAQ (developer documentation)", "url": "https://razorpay.com/docs/payments/recurring-payments/upi/faqs.md" },
-    { "label": "NPCI: UPI product page (UPI Help for mandate queries)", "url": "https://www.npci.org.in/product/upi" }
+    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" },
+    { "label": "CRED: UPI FAQs and grievances", "url": "https://cred.club/upi-faqs" }
   ],
   "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
 }
