@@ -2,21 +2,21 @@
   "slug": "find-all-upi-autopay-mandates",
   "cluster": "upi-autopay",
   "title": "Find All Your UPI AutoPay Mandates in One Place (2026)",
-  "metaDescription": "Find every UPI AutoPay mandate you have: check NPCI's UPI help portal, each UPI app, bank statements and pre-debit alerts, then keep one list to track renewals.",
+  "metaDescription": "Find every UPI AutoPay mandate you have: check NPCI's UPI Help portal, each UPI app, bank statements and pre-debit alerts, then keep one list you update.",
   "h1": "How do you find every UPI AutoPay mandate you have set up?",
-  "summary": "There is no guaranteed single screen for all UPI AutoPay mandates yet. Start with NPCI's UPI help portal at upihelp.npci.org.in, check the AutoPay or Mandates section of each UPI app you have used, and use bank statements and pre-debit alerts to catch anything unfamiliar. Keep the results in one list, such as a tracker you update by hand.",
+  "summary": "There is no confirmed single screen that lists every UPI AutoPay mandate. NPCI's UPI Help portal at upihelp.npci.org.in is described in press coverage as a place to view and manage mandates across apps, but it could not be loaded for this guide, so check what it shows you. Then look in the AutoPay or Mandates section of each UPI app you have used, search bank statements and pre-debit alerts, and keep the results in one list you update by hand.",
   "updated": "2026-10-09",
   "keywords": ["find all UPI AutoPay mandates", "check UPI AutoPay mandates", "NPCI UPI help portal", "UPI mandate list", "UPI AutoPay mandates in one place"],
   "about": ["UPI AutoPay", "NPCI", "UPI mandates"],
   "stepsHeading": "How to find every UPI AutoPay mandate you have",
   "steps": [
     {
-      "name": "Check NPCI's UPI help portal",
-      "text": "Open upihelp.npci.org.in and complete the verification it asks for, which is usually tied to your UPI-registered mobile number. Open the list of active mandates and note every entry you see."
+      "name": "Check NPCI's UPI Help portal",
+      "text": "Open upihelp.npci.org.in and see whether it lists your mandates. You may need to verify your identity first. Note every mandate it shows, and treat the list as a starting point rather than a complete record."
     },
     {
       "name": "Check each UPI app you have used",
-      "text": "In each app, go to Profile or Settings, then AutoPay, Mandates or Subscriptions. Include apps you no longer use. Note which mandates are active and which are waiting for your approval."
+      "text": "In each app, go to Profile or Settings, then AutoPay, Mandates or Subscriptions. Include apps you no longer use, and note which mandates are active and which are waiting for your approval."
     },
     {
       "name": "Search your bank statements",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Check pre-debit alerts",
-      "text": "Search your SMS and app notifications for pre-debit alerts. They should show the business name, amount, debit date and mandate reference, which lets you match each debit to one mandate."
+      "text": "Search your SMS and app notifications for pre-debit alerts. Wording differs between banks, but they usually show the business name, amount, debit date and mandate reference, which lets you match each debit to one mandate."
     },
     {
       "name": "Write one list",
-      "text": "For each mandate, record the merchant, the app or bank, the amount or maximum, the frequency, the next debit date and the reference number. Add each one to Essara so upcoming debits are visible in one place."
+      "text": "For each mandate, record the merchant, the app or bank, the amount or maximum, the frequency, the next debit date and the reference number. Add each one to Essara so upcoming debits show in one place."
     },
     {
       "name": "Cancel what you no longer need",
@@ -39,59 +39,58 @@
     {
       "heading": "Why mandates end up scattered",
       "paragraphs": [
-        "A UPI AutoPay mandate is approved inside one UPI app, and HDFC Bank says it can be seen in that app under the AutoPay section. Mandates approved over several years in different apps therefore sit in different places, and a mandate can be missing from the first app you open.",
-        "NPCI is working on a shared view. A mid-2026 news report said NPCI is developing a system to let users see UPI e-mandates across apps. The same report said cancelling, pausing or changing a mandate would still be processed in the app where it was created, and selecting it from another app redirects you there."
+        "A UPI AutoPay mandate is approved inside one UPI app, and HDFC Bank's guide says it can be seen in that app under the AutoPay section. Mandates approved over several years in different apps therefore sit in different places, and one can be missing from the first app you open.",
+        "Reports from June 2026 say NPCI is developing a single view of UPI e-mandates across apps. The reports also say that cancelling, pausing or modifying a mandate would still be processed in the app where it was created, and that choosing it from another app redirects you there."
       ]
     },
     {
-      "heading": "Start with NPCI's UPI help portal",
+      "heading": "What the NPCI UPI Help portal offers",
       "paragraphs": [
-        "NPCI, which runs UPI, operates a help portal at upihelp.npci.org.in. Coverage from late 2025 described it as a place to see and manage UPI AutoPay mandates across apps. Sign in with the verification the portal asks for, which is usually tied to your UPI-registered mobile number, and open the list of active mandates.",
-        "Treat the portal as a starting list, not the final one. Coverage describes it as UPI AutoPay only, so card, NACH and app-store billing will not appear. Run the other checks below before deciding you have found everything."
-      ]
-    },
-    {
-      "heading": "Check each UPI app you have used",
-      "paragraphs": [
-        "Open every UPI app you have used with a bank account, including ones you no longer use. Go to Profile or Settings and look for AutoPay, Mandates, Subscriptions or Auto-Payments. The label varies by app and version, so look for anything that lists recurring approvals.",
-        "For each mandate, note whether it is active or already revoked, and whether any request is still waiting for your approval. If you approved a mandate in an app you have since removed, reinstalling that app may be the only way to see its list there, so check your bank statements as well."
+        "Press coverage from late 2025 and early 2026 describes UPI Help as NPCI's AI-powered assistant. For mandates, the coverage describes a central portal to view and manage UPI AutoPay standing instructions, with commands such as pause, resume and revoke, and deep links into UPI apps to finish the action.",
+        "This guide could not load upihelp.npci.org.in to confirm which of those features are live, or in which channels. Treat the coverage as a description of plans and early rollout, and check the site or your UPI app before you rely on it."
       ]
     },
     {
       "heading": "Use bank statements and pre-debit alerts to catch the rest",
       "paragraphs": [
         "Search your bank statement and messages for UPI AutoPay, mandate and merchant names you do not recognise. Look for amounts that repeat monthly, quarterly or yearly.",
-        "Recurring debits are meant to come with a pre-debit notice. Stripe's India recurring payments documentation, which summarises the RBI rules, says customers must be alerted at least 24 hours before a recurring charge and given the option to opt out. It says the notice should include the business name, the amount, the debit date, the mandate reference number and the reason for the debit. Use those details to match a debit to a mandate, and keep the alerts you receive.",
-        "The same documentation says recurring transactions over ₹15,000 need authentication each time, so a large debit may ask for your UPI PIN."
+        "Stripe's India recurring payments documentation, which summarises the RBI rules, says customers must be alerted at least 24 hours before a recurring charge, and that the notice should show the business name, amount, debit date, mandate reference and reason for the debit. It also says recurring transactions over ₹15,000 need authentication each time, so a large debit may ask for your UPI PIN."
       ]
     },
     {
-      "heading": "Keep one list you can check",
+      "heading": "Limits to check against your own notices",
       "paragraphs": [
-        "Once you have the results, write one line per mandate: the merchant, the app or bank where it was approved, the amount or maximum, the frequency, the next debit date and the mandate reference if you have it.",
-        "In Essara you add each mandate yourself, so the list shows upcoming auto-debits for the week and the month and helps you find older mandates. Essara does not connect to your UPI app, bank or SMS, so nothing is imported for you. The list is only as complete as the entries you make."
+        "The RBI's Digital Payments E-Mandate Framework, 2026, is the rulebook. Press coverage of it describes a ₹15,000 limit for most recurring debits and ₹1,00,000 for insurance premiums, mutual fund subscriptions and credit card bill payments. This guide could not open the RBI text itself, so confirm the figures there before you rely on them.",
+        "Google Pay's help page gives the same thresholds for mandates in its app: above ₹15,000 the UPI PIN is needed when each payment is due, and for insurance, mutual fund and credit card bill mandates the PIN is needed above ₹1,00,000."
       ]
     },
     {
       "heading": "Decide what to cancel and how",
       "paragraphs": [
-        "For each mandate you no longer want, cancel with the merchant first, then cancel or revoke it in the app where it was approved, using your UPI PIN. HDFC Bank advises opening the UPI app afterwards to confirm the status shows Cancelled or Revoked. Stopping a mandate does not refund debits that already went through.",
-        "Loan repayment and debt collection mandates cannot be cancelled through a UPI app, so contact the merchant directly for those, as HDFC Bank advises."
+        "For each mandate you no longer want, cancel with the merchant first, then cancel or revoke it in the app where it was approved, using your UPI PIN. HDFC Bank advises opening the UPI app afterwards to confirm the status shows Cancelled or Revoked. Cancelling stops future debits but does not reverse payments already completed.",
+        "Loan repayment and debt collection mandates cannot be cancelled through a UPI app, so contact the merchant directly for those, as HDFC Bank says."
+      ]
+    },
+    {
+      "heading": "Keep one list you can check",
+      "paragraphs": [
+        "For each mandate, write one line with the merchant, the app or bank where it was approved, the amount or maximum, the frequency, the next debit date and the mandate reference if you have it. Essara's list works the same way: you enter each mandate yourself, and it shows upcoming auto-debits for the week and the month.",
+        "Essara does not connect to your UPI app, bank or SMS, so nothing is imported for you. The list is only as complete as the entries you make."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Is there one place to see every UPI AutoPay mandate?",
-      "a": "NPCI's UPI help portal is set up for that purpose, and news coverage describes it as a way to see mandates across apps. Coverage also says the cross-app view is still being rolled out, so check the portal, each UPI app and your bank statement."
+      "a": "Not confirmed. NPCI's UPI Help portal is positioned for this purpose, but this guide could not verify what it shows today. Use it as a starting point, then check each UPI app and your bank statements."
     },
     {
       "q": "Can I cancel a mandate from a different app?",
-      "a": "A mid-2026 news report said cancelling, pausing or changing a mandate is still processed in the app where it was created, and choosing it from another app redirects you there. Open the originating app to make the change."
+      "a": "Reports say cancelling, pausing or changing a mandate is still processed in the app where it was created, and choosing it from another app redirects you there. That describes a planned NPCI feature, so open the originating app to make the change now."
     },
     {
-      "q": "What should a pre-debit SMS include?",
-      "a": "Stripe's summary of the RBI rules says it should include the business name, amount, debit date, mandate reference number and reason for the debit, and should arrive at least 24 hours before the debit. The wording differs between banks."
+      "q": "What should a pre-debit notice include?",
+      "a": "Stripe's summary of the rules says the notice should include the business name, amount, debit date, mandate reference and reason for the debit, and should arrive at least 24 hours before the debit. Banks word their notices differently, so compare yours with the list above."
     },
     {
       "q": "Does Essara find my mandates automatically?",
@@ -99,16 +98,16 @@
     }
   ],
   "related": [
-    "learn/what-is-upi-autopay",
-    "upi-autopay/cancel-upi-autopay-google-pay",
-    "upi-autopay/cancel-upi-autopay-phonepe",
-    "learn/pre-debit-notification",
-    "learn/subscription-audit-checklist"
+    "what-is-upi-autopay",
+    "cancel-upi-autopay-google-pay",
+    "cancel-upi-autopay-phonepe",
+    "pre-debit-notification",
+    "subscription-audit-checklist"
   ],
   "sources": [
-    { "label": "NPCI UPI help portal", "url": "https://upihelp.npci.org.in" },
+    { "label": "NPCI UPI Help portal", "url": "https://upihelp.npci.org.in" },
     { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" },
-    { "label": "Angel One: NPCI plans unified e-mandate tracking", "url": "https://www.angelone.in/news/economy/npci-plans-unified-e-mandate-tracking-feature-across-all-upi-payment-apps" },
+    { "label": "Angel One: NPCI plans unified e-mandate tracking feature across all UPI payment apps", "url": "https://www.angelone.in/news/economy/npci-plans-unified-e-mandate-tracking-feature-across-all-upi-payment-apps" },
     { "label": "Stripe: India recurring payments", "url": "https://docs.stripe.com/india-recurring-payments" }
   ],
   "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }

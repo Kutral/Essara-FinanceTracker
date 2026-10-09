@@ -4,7 +4,7 @@
   "title": "WhatsApp Pay and UPI AutoPay: Where to Cancel (2026)",
   "metaDescription": "WhatsApp's payment pages do not describe UPI AutoPay mandates. Learn where to look, cancel with the merchant, and revoke in the UPI app that approved it.",
   "h1": "Can you cancel a UPI AutoPay mandate from WhatsApp Pay?",
-  "summary": "WhatsApp Pay sends money and pays bills over UPI, but WhatsApp's India payments page and terms do not describe creating, pausing or cancelling UPI AutoPay mandates. I could not confirm any WhatsApp screen for managing mandates, so for a recurring debit, cancel with the merchant first, then find the mandate in the UPI app or bank where it was approved and revoke it there with your UPI PIN.",
+  "summary": "WhatsApp Pay sends money and pays bills over UPI, but WhatsApp's India payments page and terms do not describe creating, pausing or cancelling UPI AutoPay mandates. No WhatsApp screen for managing mandates could be confirmed, so for a recurring debit, cancel with the merchant first, then find the mandate in the UPI app or bank where it was approved and revoke it there with your UPI PIN.",
   "updated": "2026-10-09",
   "keywords": ["cancel UPI AutoPay WhatsApp Pay", "WhatsApp Pay AutoPay", "WhatsApp UPI mandate", "revoke UPI mandate", "stop UPI AutoPay"],
   "about": ["WhatsApp Pay", "UPI AutoPay", "NPCI"],
@@ -16,7 +16,7 @@
     },
     {
       "name": "Look in WhatsApp's payments settings",
-      "text": "Open WhatsApp payments settings. WhatsApp's payments page says past transactions can be viewed there. I could not confirm a list of AutoPay mandates in that screen, so if none appears, move on to the next step."
+      "text": "Open WhatsApp payments settings. WhatsApp's payments page says past transactions can be viewed there. A list of AutoPay mandates could not be confirmed in that screen, so if none appears, move on to the next step."
     },
     {
       "name": "Check the UPI apps and bank you use",
@@ -36,7 +36,7 @@
       "heading": "What WhatsApp's official pages cover",
       "paragraphs": [
         "WhatsApp's payments page says the feature is powered by BHIM UPI and processed by payment partners in India, with money moving directly between bank accounts. Its terms describe payments made through payment service providers over UPI, and bill payments made through BBPS.",
-        "Neither the payments page nor the India payments terms that I read mention UPI AutoPay, e-mandates or subscription debits, and my searches found no WhatsApp-specific mandate guide. Treat any claim that WhatsApp manages AutoPay as unconfirmed until WhatsApp publishes it."
+        "Neither the payments page nor the India payments terms that I read mention UPI AutoPay, e-mandates or subscription debits, and no WhatsApp-specific mandate guide turned up in searches. Treat any claim that WhatsApp manages AutoPay as unconfirmed until WhatsApp publishes it."
       ]
     },
     {
@@ -57,7 +57,7 @@
       "heading": "Common problems",
       "paragraphs": [
         "A loan or debt collection mandate usually cannot be cancelled through the UPI app. HDFC Bank says those must be cancelled with the merchant. If Google Pay returns an error on a cancel, the linked bank account must be active, so reactivate it first.",
-        "Deleting WhatsApp is not a way to cancel a mandate, and I found nothing suggesting it changes one. Check the status in the UPI app or bank afterwards."
+        "Deleting WhatsApp is not a way to cancel a mandate, and nothing suggests it changes one. Check the status in the UPI app or bank afterwards."
       ]
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "q": "Does deleting WhatsApp stop a UPI AutoPay debit?",
-      "a": "I found no evidence that it does, so do not rely on it. Revoke the mandate in the app where it was approved, then check that its status shows as cancelled or revoked."
+      "a": "There is no evidence that it does, so do not rely on it. Revoke the mandate in the app where it was approved, then check that its status shows as cancelled or revoked."
     },
     {
       "q": "Will WhatsApp refund a payment I did not want?",

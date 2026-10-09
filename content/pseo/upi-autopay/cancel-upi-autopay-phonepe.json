@@ -35,7 +35,7 @@
     {
       "heading": "The debit that is already scheduled",
       "paragraphs": [
-        "PhonePe's help pages I could read do not say how a debit that is already scheduled is handled. Third-party guides say a debit queued a few days ahead may still go through, so check the next debit date in the mandate details first. If it is close, also ask the merchant to skip the next charge.",
+        "The PhonePe help pages checked for this guide do not say how a debit that is already scheduled is handled. Third-party guides say a debit queued a few days ahead may still go through, so check the next debit date in the mandate details first. If it is close, also ask the merchant to skip the next charge.",
         "HDFC Bank's guide to UPI AutoPay says cancelling stops future debits and that payments already completed are not reversed. Ask the merchant about any refund for a debit that has gone through."
       ]
     },

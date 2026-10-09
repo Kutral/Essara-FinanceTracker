@@ -2,12 +2,22 @@
   "slug": "cancel-upi-autopay-mobikwik",
   "cluster": "upi-autopay",
   "title": "MobiKwik AutoPay and SIP Mandates: How to Stop (2026)",
-  "metaDescription": "MobiKwik's Auto-Pay is for mutual fund purchases through a bank mandate. Learn how to stop a SIP for free, cancel a merchant mandate and handle a debit that still comes in.",
+  "metaDescription": "MobiKwik's Auto-Pay covers mutual fund purchases through a bank mandate. Learn how to stop a SIP for free, revoke a merchant mandate and handle stray debits.",
   "h1": "How do you cancel a MobiKwik AutoPay or SIP mandate?",
   "summary": "MobiKwik's pricing and payments FAQ for MobiKwik Money ties Auto-Pay to mutual fund purchases, using a bank mandate you register with MobiKwik. The same FAQ says you can reduce a SIP to zero, change its date or cancel it without a charge. MobiKwik's published FAQ does not say whether its wallet can create UPI AutoPay mandates for merchant subscriptions, so for a merchant debit, check the UPI app that approved it.",
   "updated": "2026-10-09",
-  "keywords": ["cancel MobiKwik AutoPay", "MobiKwik Auto-Pay SIP", "stop MobiKwik SIP", "MobiKwik mutual fund mandate", "MobiKwik UPI mandate"],
-  "about": ["MobiKwik", "UPI AutoPay", "SIP"],
+  "keywords": [
+    "cancel MobiKwik AutoPay",
+    "MobiKwik Auto-Pay SIP",
+    "stop MobiKwik SIP",
+    "MobiKwik mutual fund mandate",
+    "MobiKwik UPI mandate"
+  ],
+  "about": [
+    "MobiKwik",
+    "UPI AutoPay",
+    "SIP"
+  ],
   "stepsHeading": "How to stop a MobiKwik AutoPay or SIP mandate",
   "steps": [
     {
@@ -69,7 +79,7 @@
     {
       "heading": "Where Essara fits in",
       "paragraphs": [
-        "Essara has an investment tracker that covers SIPs, and you can also list merchant mandates in the same place. It does not connect to MobiKwik, your bank or your SMS, so the SIP dates and amounts stay accurate only if you update them by hand."
+        "Essara's investment tracker covers SIPs, and its UPI AutoPay tracker is where you can list merchant mandates. Neither connects to MobiKwik, your bank or your SMS, so the SIP dates and amounts stay accurate only if you update them by hand."
       ]
     }
   ],
@@ -99,8 +109,17 @@
     "pre-debit-notification"
   ],
   "sources": [
-    { "label": "MobiKwik Money: pricing and payments FAQ", "url": "https://money.mobikwik.com/pricing" },
-    { "label": "HDFC Bank: how to cancel a UPI AutoPay mandate", "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate" }
+    {
+      "label": "MobiKwik Money: pricing and payments FAQ",
+      "url": "https://money.mobikwik.com/pricing"
+    },
+    {
+      "label": "HDFC Bank: how to cancel a UPI AutoPay mandate",
+      "url": "https://www.hdfc.bank.in/payments/services/cancel-upi-autopay-mandate"
+    }
   ],
-  "essaraTool": { "label": "Free UPI AutoPay tracker", "url": "https://essara.space/tools/upi-autopay-tracker" }
+  "essaraTool": {
+    "label": "Free UPI AutoPay tracker",
+    "url": "https://essara.space/tools/upi-autopay-tracker"
+  }
 }

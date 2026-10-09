@@ -20,7 +20,7 @@
     },
     {
       "name": "Choose pause, restart or cancel",
-      "text": "Press coverage says the options depend on the mandate, and merchants can switch off pause and cancel for their mandates. Do not assume both are available."
+      "text": "Press coverage says the options depend on the mandate. Merchants can also restrict pause and cancel, as Razorpay's developer FAQ notes, so do not assume both are available."
     },
     {
       "name": "Confirm the change",
@@ -44,7 +44,7 @@
       "heading": "What MyUPI covers",
       "paragraphs": [
         "Outlook Money's report on MyUPI, dated 23 September 2026, says it lets you view recurring payments across apps and manage them, and that users can pause, restart or cancel a recurring payment depending on the mandate. The same report says it can help you identify a mandate when money is deducted without a UPI PIN prompt.",
-        "I could not find an official BHIM help page with menu steps, so the path to a single mandate comes from press coverage. Check the screen in your own app version before you rely on it."
+        "No official BHIM help page with menu steps could be found, so the path to a single mandate comes from press coverage. Check the screen in your own app version before you rely on it."
       ]
     },
     {
@@ -84,7 +84,7 @@
   "faqs": [
     {
       "q": "Can I pause a UPI AutoPay mandate in BHIM?",
-      "a": "Press coverage of MyUPI says you can pause, restart or cancel a recurring payment depending on the mandate. I could not confirm the exact button in BHIM's own help pages, so check the mandate screen in your app version."
+      "a": "Press coverage of MyUPI says you can pause, restart or cancel a recurring payment depending on the mandate. The exact button could not be confirmed from BHIM's own help pages, so check the mandate screen in your app version."
     },
     {
       "q": "Why is there no pause or cancel button for my mandate?",

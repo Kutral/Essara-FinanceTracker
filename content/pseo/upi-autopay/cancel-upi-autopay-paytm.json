@@ -21,7 +21,7 @@
     {
       "heading": "Where Paytm keeps its automatic payments",
       "paragraphs": [
-        "Paytm's guide to deactivating UPI Autopay, last updated on 6 October 2026, gives the route as profile icon, then UPI & Payment Settings, then Automatic Payments. Mandates you approved in other UPI apps, such as Google Pay or PhonePe, will not appear in this list, so check those apps too.",
+        "Paytm's guide to deactivating UPI Autopay, last updated on 6 October 2026, gives the route as profile icon, then UPI & Payment Settings, then Automatic Payments. Mandates you approved in other UPI apps, such as Google Pay or PhonePe, usually do not appear in this list, so check those apps too.",
         "Older versions of the app may not show the mandate options at all. If the Automatic Payments section is missing, update Paytm from the app store before you look for another route."
       ]
     },
@@ -43,20 +43,20 @@
       "heading": "When the change will not go through",
       "paragraphs": [
         "If a mandate will not appear or will not change, first check which app approved it, then update Paytm. A loan or debt collection mandate may not be cancellable from the UPI app, because HDFC Bank says those mandates must be stopped with the merchant.",
-        "If Paytm will not complete the change, use the Help section in the app. The NPCI UPI Help portal at upihelp.npci.org.in is described in press coverage as a place to manage mandates across apps, but I could not load it to confirm its current features."
+        "If Paytm will not complete the change, use the Help section in the app. The NPCI UPI Help portal at upihelp.npci.org.in is described in press coverage as a place to manage mandates across apps, but this guide could not load it to confirm its current features."
       ]
     },
     {
       "heading": "Stopping the subscription itself",
       "paragraphs": [
-        "Cancelling the mandate in Paytm does not end the service. Cancel the subscription in the merchant's app or website as well. If the same service is billed through Google Play or the App Store, use that store's subscription settings instead.",
+        "Cancelling the mandate in Paytm does not end the service. Cancel the service itself in the merchant's app or website too. If the same service is billed through Google Play or the App Store, use that store's subscription settings instead.",
         "After you have cancelled everywhere, check the mandate list again and wait for the next billing date. If no debit comes through, the stop has worked."
       ]
     },
     {
       "heading": "Keeping a list outside Paytm",
       "paragraphs": [
-        "Paytm's list only covers mandates approved in Paytm, so a separate list helps when you use several apps. Essara lets you add each mandate yourself, with its amount, cycle and next debit date, and shows the auto-debits due in the coming weeks. It does not connect to Paytm or your bank, and it cannot pause or cancel anything in Paytm for you."
+        "Paytm's list only covers mandates approved in Paytm, so a separate list helps when you use several apps. Essara lets you add each mandate yourself, with its amount, cycle and next debit date, and shows the auto-debits due this week and this month. It does not connect to Paytm or your bank, and it cannot pause or cancel anything in Paytm for you."
       ]
     }
   ],
